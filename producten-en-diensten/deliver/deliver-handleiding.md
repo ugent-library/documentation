@@ -1,0 +1,115 @@
+---
+description: Ondersteuning van bibliotheekdiensten voor UGent-bibliotheekmedewerkers.
+---
+
+# Deliver handleiding
+
+## Deliver
+
+_Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken en beheren. In deze deelbare mappen kunnen bestanden van bibliotheken uitgewisseld worden, voor een bepaalde periode, voor en door bepaalde personen – op een beveiligde en stabiele manier._
+
+## Deliver Spaces
+
+Deliver heeft verschillende omgevingen, genoemd spaces, waarin je met je collega's mappen kan aanmaken om documenten mee te delen. Elke [faculteitsbibliotheek](https://lib.ugent.be/nl/libraries) binnen de Universiteitsbibliotheek heeft een eigen space.
+
+<figure><img src="../../.gitbook/assets/deliver-spaces.png" alt=""><figcaption><p>In de linker zijbalk heb je een overzicht met alle space waar je toegang tot hebt gekregen.</p></figcaption></figure>
+
+{% hint style="info" %}
+### Toegang krijgen tot een space
+
+Om toegang te krijgen tot een space, stuur een mailtje naar [libservice@ugent.be](mailto:libservice@ugent.be).
+{% endhint %}
+
+## Deliver folders (deelbare mappen)
+
+In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden voor derden.
+
+### Mappen maken
+
+📂 Bovenaan de space krijg je de optie om een map aan te maken.\
+🗓️  Elke folder vervalt na een maand, om de veiligheid te verhogen.
+
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-03 om 16.38.24.png" alt=""><figcaption><p>Interface voor het aanmaken van een folder.</p></figcaption></figure>
+
+### Mappen overzicht
+
+#### Overzicht
+
+📁 In je space zie je een overzicht van alle mappen in de space.\
+👁️ Iedereen die toegang heeft tot een space, kan elkaars mappen zien in die space.\
+ℹ️ Je ziet het aantal documenten, de grootte, vervaldatum, creatiedatum en bewerkingsdatum.
+
+#### Acties
+
+📂 Klik op de "Folder" naam om de map te openen.\
+✍️ Pas de naam van de folder aan met de potlood knop.\
+🗑️ Verwijder de folder met de prullenmand knop.
+
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-03 om 16.43.04.png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-folder-name-overview.png" alt=""><figcaption><p>Klik op de folder naam om de folder te openen.</p></figcaption></figure>
+
+### Mappen delen
+
+#### Met externe ontvangers (UGent of publiek)
+
+Gebruik de "Public shareable link" om naar externe mensen te sturen die de inhoud van de map kunnen bekijken en de documenten downloaden. **Dit is een publieke link waar je zonder inloggen terecht kan om de documenten te ontvangen.**
+
+Je vind de shareable link in het overzicht van je map, of in de map zelf.
+
+<figure><img src="../../.gitbook/assets/deliver-shareable-link-overview.png" alt=""><figcaption><p>De publieke deelbare link staat in het overzicht bij elke map.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-shareable-link-folder (1).png" alt=""><figcaption><p>De publieke deelbare link staat ook bovenaan in de map zelf.</p></figcaption></figure>
+
+Via de publieke deelbare link, kan iedereen de folder en bijbehorende files zien. Bewerken kan niet.
+
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-04 om 16.46.06.png" alt=""><figcaption><p>Interface van publieke deelbare link.</p></figcaption></figure>
+
+#### Met collega's
+
+Gebruik de link in de browserbalk om naar je collega's te sturen. Zij zien, als ze toegang hebben tot de map, na inloggen dezelfde interface als jij.
+
+### Mappen beheren
+
+✍️ Pas de naam van de folder aan met de potlood knop in het overzicht, of in de map zelf.\
+🗑️ Verwijder de folder met de prullenmand knop in het overzicht, of in de map zelf.
+
+<figure><img src="../../.gitbook/assets/deliver-edit-delete-folder.png" alt=""><figcaption><p>Verwijderen of bewerken van de map in de map zelf.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-edit-delete-overview.png" alt=""><figcaption><p>Verwijderen of bewerken van de map in het overzicht.</p></figcaption></figure>
+
+Je kan enkel de naam van de map aanpassen nadat je op bewerken hebt geklikt.
+
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-04 om 16.36.46.png" alt=""><figcaption><p>Bewerken van een map.</p></figcaption></figure>
+
+## Documenten opladen in een map
+
+### Documenten opladen
+
+In elke map kan je documenten tot 2GB opladen. Gebruik de knop "upload file" of drop een document in de dropzone om documenten op te laden.
+
+👁️ Iedereen met de publieke deelbare link kan deze documenten zien en downloaden.\
+🗳️ Enkel Bibliotheekmedewerkers met toegang tot de space kunnen documenten opladen in de folders van de space.\
+
+
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-04 om 16.38.47.png" alt=""><figcaption><p>Voeg een document toe via de knop, of gebruik de dropzone.</p></figcaption></figure>
+
+### Documenten monitoren en beheren.
+
+Eens je een document hebt opgeladen, verschijnt deze in de lijst. Je ziet de naam van elk document, grootte, type, hoe vaak het document al werd gedownload en de creatiedatum.
+
+Download het document door op de "file name" te klikken. Verwijder het document door op de prullenmand te klikken.
+
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-04 om 16.41.32.png" alt=""><figcaption><p>Files in de folder.</p></figcaption></figure>
+
+## Ontvangen van een publieke deelbare link naar een map
+
+Via de publieke deelbare link, kan iedereen de folder en bijbehorende files zien. Bewerken kan niet.​
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlvNeIFwjvMgVqncrfwG8%2Fuploads%2FtOKJpfFyAFXpkRwX8pSk%2FScherm%C2%ADafbeelding%202023-01-04%20om%2016.46.06.png?alt=media&#x26;token=e4f1433f-1113-47a2-9204-20cebec9502c" alt=""><figcaption><p>Interface van publieke deelbare link.</p></figcaption></figure>
+
+{% hint style="info" %}
+### Loop je vast, gaat er iets stuk?
+
+Neem contact op met [libservice@ugent.be](mailto:libservice@ugent.be).
+{% endhint %}
