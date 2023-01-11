@@ -8,6 +8,7 @@
 * [Biblio Academische Bibliografie en Repository](producten-en-diensten/biblio-academische-bibliografie-en-repository.md)
 * [Deliver](producten-en-diensten/deliver/README.md)
   * [Deliver handleiding](producten-en-diensten/deliver/deliver-handleiding.md)
+* [Deliver product flow](producten-en-diensten/deliver-product-flow.md)
 * [Personenbeheer](producten-en-diensten/personenbeheer.md)
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
 * [Overzicht te vernieuwen producten en diensten](producten-en-diensten/overzicht-te-vernieuwen-producten-en-diensten.md)
