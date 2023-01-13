@@ -25,8 +25,9 @@
 * [Waypoint](technologie-en-ondersteunende-tooling/waypoint.md)
 * [meemoo archief](technologie-en-ondersteunende-tooling/meemoo-archief.md)
 
-## Processen en teams
+## 🤝 Processen en teams
 
+* [Documentatie](processen-en-teams/documentatie.md)
 * [Helpdesk](processen-en-teams/helpdesk/README.md)
   * [Documenteren & Rapporteren](processen-en-teams/helpdesk/documenteren-and-rapporteren.md)
 * [Ontwikkel- en innovatieteam \[EN\]](processen-en-teams/ontwikkel-en-innovatieteam-en/README.md)
