@@ -18,12 +18,13 @@
 
 * [Visie op technologie](technologie-en-ondersteunende-tooling/visie-op-technologie.md)
 * [Beeldenbank](technologie-en-ondersteunende-tooling/beeldenbank.md)
+* [Cypress testing](technologie-en-ondersteunende-tooling/cypress-testing.md)
 * [IIIF](technologie-en-ondersteunende-tooling/iiif.md)
 * [Keycloak – rights management](technologie-en-ondersteunende-tooling/keycloak-rights-management.md)
 * [Nomad](technologie-en-ondersteunende-tooling/nomad.md)
 * [Traefik](technologie-en-ondersteunende-tooling/traefik.md)
 * [Waypoint](technologie-en-ondersteunende-tooling/waypoint.md)
-* [meemoo archief](technologie-en-ondersteunende-tooling/meemoo-archief.md)
+* [\[extern\] meemoo archief](technologie-en-ondersteunende-tooling/extern-meemoo-archief.md)
 
 ## 🤝 Processen en teams
 

@@ -65,7 +65,11 @@ Om de haalbaarheid en ondersteuning te maximaliseren:
 * We gaan voor een geleidelijke verschuiving van een _**batch job**_ gestuurde infrastructuur naar een _**streaming data** gedreven_ infrastructuur
 * De 'oude wereld' leeft naast de 'nieuwe wereld'. We bouwen indien nodig bruggen.
 
+Meer informatie:
 
+{% embed url="https://docs.google.com/presentation/d/12Nft30AllPxhBWWRrg_woYuH_KgRrjck6FNNqrgq5_8/edit#slide=id.g1098fc22d52_1_22" %}
+
+{% embed url="https://github.com/ugent-library/layers-requirements" %}
 
 
 

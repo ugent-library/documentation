@@ -20,10 +20,16 @@ IIIF is een [internationale gemeenschap](https://iiif.io/community/consortium/) 
 Gesloten repository van de Universiteitsbibliotheek Gent voor IIIF
 {% endembed %}
 
+Meer informatie
+
+{% embed url="https://docs.google.com/document/d/189nJFnN4M07hnlEKT2_863ERSLw6ewulXpjExsMUD44/edit#heading=h.sts7bilskhdm" %}
+Achtergrond van de bibliotheek
+{% endembed %}
+
 ## Gebruikte technologieën en tools
 
-{% content-ref url="meemoo-archief.md" %}
-[meemoo-archief.md](meemoo-archief.md)
+{% content-ref url="extern-meemoo-archief.md" %}
+[extern-meemoo-archief.md](extern-meemoo-archief.md)
 {% endcontent-ref %}
 
 {% content-ref url="beeldenbank.md" %}

@@ -23,6 +23,10 @@ Meer informatie over de Deliver functionaliteiten:
 Technische documentatie voor Deliver
 {% endembed %}
 
+Productie omgeving: [http://deliver.lib.ugent.be](http://deliver.lib.ugent.be)
+
+Test omgeving: [https://deliver.libtest.ugent.be](https://deliver.libtest.ugent.be)
+
 ## Gebruikte technologieën en tools
 
 {% content-ref url="../../technologie-en-ondersteunende-tooling/keycloak-rights-management.md" %}
