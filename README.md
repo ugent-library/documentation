@@ -11,8 +11,8 @@ description: >-
 
 ### Producten & Diensten
 
-{% content-ref url="producten-en-diensten/biblio-academische-bibliografie-en-repository.md" %}
-[biblio-academische-bibliografie-en-repository.md](producten-en-diensten/biblio-academische-bibliografie-en-repository.md)
+{% content-ref url="producten-en-diensten/biblio-academische-bibliografie-en-repository/" %}
+[biblio-academische-bibliografie-en-repository](producten-en-diensten/biblio-academische-bibliografie-en-repository/)
 {% endcontent-ref %}
 
 {% content-ref url="producten-en-diensten/deliver/" %}

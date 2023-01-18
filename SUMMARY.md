@@ -5,7 +5,8 @@
 ## 💻 Producten en diensten
 
 * [Producten- en diensten overzicht](producten-en-diensten/producten-en-diensten-overzicht.md)
-* [Biblio Academische Bibliografie en Repository](producten-en-diensten/biblio-academische-bibliografie-en-repository.md)
+* [Biblio Academische Bibliografie en Repository](producten-en-diensten/biblio-academische-bibliografie-en-repository/README.md)
+  * [Licenties](producten-en-diensten/biblio-academische-bibliografie-en-repository/licenties.md)
 * [Deliver](producten-en-diensten/deliver/README.md)
   * [Deliver handleiding](producten-en-diensten/deliver/deliver-handleiding.md)
   * [Deliver product flow](producten-en-diensten/deliver/deliver-product-flow.md)
