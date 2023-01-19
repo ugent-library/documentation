@@ -27,6 +27,18 @@
 * Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0)\
   SPDX: `CC-BY-NC-ND-4.0`
 
+### Data flows
+
+Licenses selected in the back office flow through to the front-office, and third parties make use of our aoi protocols.
+
+What that looks like is defined here for the front-office:
+
+{% embed url="https://github.com/ugent-library/biblio-backoffice/blob/dev/internal/app/handlers/frontoffice/handler.go" %}
+
+For the option "the license is not in this list, there is an "other license" field available for datasets. The content of that field will replace that value for datasets here:
+
+{% embed url="https://github.ugent.be/Universiteitsbibliotheek/biblio/blob/master/views/full.tt#L109" %}
+
 ### Screenshots
 
 #### Biblio back office
