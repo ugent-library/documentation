@@ -6,7 +6,7 @@
 
 * [Producten- en diensten overzicht](producten-en-diensten/producten-en-diensten-overzicht.md)
 * [Biblio Academische Bibliografie en Repository](producten-en-diensten/biblio-academische-bibliografie-en-repository/README.md)
-  * [Licenties](producten-en-diensten/biblio-academische-bibliografie-en-repository/licenties.md)
+  * [Licenties \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/licenties-en.md)
 * [Deliver](producten-en-diensten/deliver/README.md)
   * [Deliver handleiding](producten-en-diensten/deliver/deliver-handleiding.md)
   * [Deliver product flow](producten-en-diensten/deliver/deliver-product-flow.md)

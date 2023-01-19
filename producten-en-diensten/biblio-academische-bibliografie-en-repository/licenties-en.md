@@ -1,6 +1,6 @@
-# Licenties
+# Licenties \[EN]
 
-
+## License mappings
 
 | Old back-office                                                                                                                                                                                                                          | 	New back-office                                                  | Front-office                                                                                                       | Info                                                                               | oai                                                                                | location                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------- |
@@ -29,9 +29,19 @@
 
 ### Screenshots
 
+#### New Biblio
+
 <img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 16.44.43.png" alt="" data-size="original"> Publications options
 
 <img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 16.44.22.png" alt="" data-size="original"> Datasets options
+
+#### Old Biblio
+
+<figure><img src="../../.gitbook/assets/licenses-publications.png" alt=""><figcaption><p>Publications: adapted</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/licenses-datasets.png" alt=""><figcaption><p>Datasets: completely replaced</p></figcaption></figure>
+
+#### OAI licenses
 
 <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 17.36.38.png" alt=""><figcaption><p>OAI for CC</p></figcaption></figure>
 
