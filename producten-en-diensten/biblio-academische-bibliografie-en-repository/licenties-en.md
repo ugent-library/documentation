@@ -61,13 +61,15 @@ Will be adapted from 19/01/2023
 
 ### Publications
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 17.03.05.png" alt=""><figcaption></figcaption></figure>
+Current mappings, they will change starting from 19/01/2023
+
+{% file src="../../.gitbook/assets/Publicatie_copyright-2.xlsx" %}
 
 ### Datasets
 
-This is a snippet
+Current mappings, they will change starting from 19/01/2023
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 17.40.29.png" alt=""><figcaption></figcaption></figure>
+{% file src="../../.gitbook/assets/Dataset_licentie-2.xlsx" %}
 
 ## Old Biblio
 
