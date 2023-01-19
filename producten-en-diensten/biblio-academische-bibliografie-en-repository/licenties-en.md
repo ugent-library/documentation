@@ -41,28 +41,33 @@ For the option "the license is not in this list, there is an "other license" fie
 
 #### Examples of dataflows
 
-**Empty selection / No license (in copyright)**
+**Empty selection / No license (in copyright) / No license (in copyright)**
 
 * Publication
+  * empty selection
+    * MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644564\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644564\&metadataPrefix=mods\_36)
+    * Biblio front-office test record [https://bibliotest.ugent.be/publication/8644564](https://bibliotest.ugent.be/publication/8644564)
+    * Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8644564](https://backoffice.bibliotest.ugent.be/publication/8644564)
+  * no license selected
+    *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8644924](https://backoffice.bibliotest.ugent.be/publication/8644924?redirect-url=%2Fpublication%3Fq%3D%26sort%3Ddate-updated-desc\&show=files)
+
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.18.54.png" alt=""><figcaption></figcaption></figure>
+
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.26.png" alt=""><figcaption></figcaption></figure>
+    * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8644924](https://bibliotest.ugent.be/publication/8644924)\
+      ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.06.png>)
+    *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644924\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644924\&metadataPrefix=mods\_36)
+
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 16.42.37.png" alt=""><figcaption></figcaption></figure>
 * Dataset
   * Not possible, you cannot leave this field open in the back-office.
-
-**No license (in copyright) / No license (in copyright)**
-
-* Publication
-  *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8644924](https://backoffice.bibliotest.ugent.be/publication/8644924?redirect-url=%2Fpublication%3Fq%3D%26sort%3Ddate-updated-desc\&show=files)
-
-      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.26.png" alt=""><figcaption></figcaption></figure>
-  * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8644924](https://bibliotest.ugent.be/publication/8644924)\
-    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.06.png>)
-  *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644924\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644924\&metadataPrefix=mods\_36)
-
-      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 16.42.37.png" alt=""><figcaption></figcaption></figure>
-* Dataset
 
 **I don’t know the status of the copyright for this publication / Information pending.**
 
 * Publication
+  * Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8646481](https://backoffice.bibliotest.ugent.be/publication/8646481)
+  * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8646481](https://bibliotest.ugent.be/publication/8646481)
+  * MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8646481\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8646481\&metadataPrefix=mods\_36)
 * Dataset
   * Not possible, you cannot leave this field open in the back-office.
 
@@ -77,12 +82,26 @@ For the option "the license is not in this list, there is an "other license" fie
   *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8689255\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8689255\&metadataPrefix=mods\_36)
 
       <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 16.43.16.png" alt=""><figcaption></figcaption></figure>
-* Dataset
+* Dataset ADD THE MESSAGE
+  * Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/dataset/01GM39A1V9G3F374YAE88M0D4V](https://backoffice.bibliotest.ugent.be/dataset/01GM39A1V9G3F374YAE88M0D4V)\
+    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.32.06.png>)
+  * Biblio front-office test record: [https://bibliotest.ugent.be/publication/01GM39A1V9G3F374YAE88M0D4V](https://bibliotest.ugent.be/publication/01GM39A1V9G3F374YAE88M0D4V)\
+    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.33.24.png>)
+  *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36)
+
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.32.48.png" alt=""><figcaption></figcaption></figure>
 
 **CC license options**
 
 * Publication
+  * Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8703190?redirect-url=%2Fpublication\&show=description](https://backoffice.bibliotest.ugent.be/publication/8703190?redirect-url=%2Fpublication\&show=description)\
+
+  * Biblio front-office test record: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36)
+  * MODS 36 for GISMO and FRIS in OAI:
 * Dataset
+  * Biblio back-office test record:&#x20;
+  * Biblio front-office test record:
+  * MODS 36 for GISMO and FRIS in OAI:
 
 ### Screenshots
 
