@@ -108,10 +108,15 @@ For datasets, the specific "other license" does not flow through at this point. 
 **CC license options**
 
 * Publication
-  * Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8703190?redirect-url=%2Fpublication\&show=description](https://backoffice.bibliotest.ugent.be/publication/8703190?redirect-url=%2Fpublication\&show=description)\
+  *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8703190?redirect-url=%2Fpublication\&show=description](https://backoffice.bibliotest.ugent.be/publication/8703190?redirect-url=%2Fpublication\&show=description)
 
-  * Biblio front-office test record: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36)
-  * MODS 36 for GISMO and FRIS in OAI:
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.20.00.png" alt=""><figcaption></figcaption></figure>
+  * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8703190](https://bibliotest.ugent.be/publication/8703190)\
+    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.22.06.png>)
+  *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8703190\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8703190\&metadataPrefix=mods\_36)\
+
+
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.23.05.png" alt=""><figcaption></figcaption></figure>
 * Dataset
   * Biblio back-office test record:&#x20;
   * Biblio front-office test record:
