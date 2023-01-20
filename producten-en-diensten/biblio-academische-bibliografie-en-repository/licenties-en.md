@@ -68,9 +68,16 @@ For the option "the license is not in this list, there is an "other license" fie
 **I don’t know the status of the copyright for this publication / Information pending.**
 
 * Publication
-  * Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8646481](https://backoffice.bibliotest.ugent.be/publication/8646481)
-  * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8646481](https://bibliotest.ugent.be/publication/8646481)
-  * MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8646481\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8646481\&metadataPrefix=mods\_36)
+  *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8646481](https://backoffice.bibliotest.ugent.be/publication/8646481)\
+
+
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.14.27.png" alt=""><figcaption></figcaption></figure>
+  * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8646481](https://bibliotest.ugent.be/publication/8646481)\
+    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.15.10.png>)\
+
+  *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8646481\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8646481\&metadataPrefix=mods\_36)
+
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.15.39.png" alt=""><figcaption></figcaption></figure>
 * Dataset
   * Not possible, you cannot leave this field open in the back-office.
 
