@@ -93,7 +93,6 @@ Future dataflows for SPDX values in "other license" field:
 
 **The license is not in this list / A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.**
 
-*
 * Publication
   *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8689255](https://backoffice.bibliotest.ugent.be/publication/8689255)
 
