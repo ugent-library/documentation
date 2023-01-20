@@ -147,15 +147,53 @@ For datasets, the specific "other license" does not flow through at this point. 
 
 ### Publications
 
-Current mappings, they will change starting from 19/01/2023
+Current mappings, they will change starting from 23/01/2023
 
 {% file src="../../.gitbook/assets/Publicatie_copyright-2.xlsx" %}
 
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 10.10.35.png" alt=""><figcaption></figcaption></figure>
+
+Changes needed:
+
+* Replace / merge
+  * From
+    * /be.ugent.biblio/publicatie/copyright/personal
+    * /be.ugent.biblio/publicatie/copyright/publisher
+  * To
+    * /be.ugent.biblio/publicatie/licentie/nolicense
+    * No license (in copyright)
+* Replace copy
+  * From
+    * /be.ugent.biblio/publicatie/copyright/unknown
+    * I don't know the status of the copyright for this publication
+  * To
+    * /be.ugent.biblio/publicatie/copyright/unknown
+    * **Information pending**
+* Add
+  * /be.ugent.biblio/publicatie/licentie/other
+  * A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.
+
 ### Datasets
 
-Current mappings, they will change starting from 19/01/2023
+Current mappings, they will change starting from 23/01/2023
 
 {% file src="../../.gitbook/assets/Dataset_licentie-2.xlsx" %}
+
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 10.11.02.png" alt=""><figcaption></figcaption></figure>
+
+Optional
+
+* Remove
+  * /be.ugent.biblio/dataset/licentie/nolicense
+  * /be.ugent.biblio/dataset/licentie/pending
+* Replace copy
+  * From
+    * /be.ugent.biblio/dataset/licentie/other
+    * The license is not listed here
+  * To
+    * /be.ugent.biblio/dataset/licentie/other
+    * **A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.**
+    * Context: In the future FRIS would like to see the content filled out manually in the free text field "other license". So they know what will be chosen. However, it would be the SPDX "ID" field: https://github.com/spdx/license-list-data/blob/main/json/licenses.json#L1021
 
 ## Old Biblio
 
