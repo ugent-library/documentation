@@ -160,8 +160,8 @@ Changes needed:
     * /be.ugent.biblio/publicatie/copyright/personal
     * /be.ugent.biblio/publicatie/copyright/publisher
   * To
-    * /be.ugent.biblio/publicatie/licentie/nolicense
-    * No license (in copyright)
+    * **/be.ugent.biblio/publicatie/licentie/nolicense**
+    * **No license (in copyright)**
 * Replace copy
   * From
     * /be.ugent.biblio/publicatie/copyright/unknown
@@ -170,8 +170,8 @@ Changes needed:
     * /be.ugent.biblio/publicatie/copyright/unknown
     * **Information pending**
 * Add
-  * /be.ugent.biblio/publicatie/licentie/other
-  * A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.
+  * **/be.ugent.biblio/publicatie/licentie/other**
+  * **A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.**
 
 ### Datasets
 
@@ -193,7 +193,7 @@ Optional
   * To
     * /be.ugent.biblio/dataset/licentie/other
     * **A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.**
-    * Context: In the future FRIS would like to see the content filled out manually in the free text field "other license". So they know what will be chosen. However, it would be the SPDX "ID" field: https://github.com/spdx/license-list-data/blob/main/json/licenses.json#L1021
+    * _Context: In the future FRIS would like to see the content filled out manually in the free text field "other license". So they know what will be chosen. However, it would be the SPDX "ID" field: https://github.com/spdx/license-list-data/blob/main/json/licenses.json#L1021_
 
 ## Old Biblio
 
