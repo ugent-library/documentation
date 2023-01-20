@@ -45,6 +45,10 @@ Current code for the "other license" field:
 
 {% embed url="https://github.ugent.be/Universiteitsbibliotheek/biblio/blob/master/views/full.tt#L109" %}
 
+Future dataflows for SPDX values in "other license" field:
+
+* We show&#x20;
+
 #### Examples of dataflows
 
 **Empty selection / No license (in copyright) / No license (in copyright)**
@@ -89,6 +93,7 @@ Current code for the "other license" field:
 
 **The license is not in this list / A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.**
 
+*
 * Publication
   *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8689255](https://backoffice.bibliotest.ugent.be/publication/8689255)
 
@@ -103,9 +108,15 @@ Current code for the "other license" field:
     ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.32.06.png>)
     * Biblio front-office test record: [https://bibliotest.ugent.be/publication/01GM39A1V9G3F374YAE88M0D4V](https://bibliotest.ugent.be/publication/01GM39A1V9G3F374YAE88M0D4V)\
       ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.33.24.png>)
-    *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36)
+    *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36)\
+        \
+        `<accessCondition type="useAndReproduction">`
 
         <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.32.48.png" alt=""><figcaption></figcaption></figure>
+
+        `<cdterms:license>`
+
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 14.20.31.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For datasets, the specific "other license" does not flow through at this point. In the future, this would be handy data for FRIS to base their licenses on.
@@ -129,9 +140,15 @@ For datasets, the specific "other license" does not flow through at this point. 
       <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.26.19.png" alt=""><figcaption></figcaption></figure>
   * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8759641](https://bibliotest.ugent.be/publication/8759641)\
     <img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.50.10.png" alt="" data-size="original">
-  *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8759641\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8759641\&metadataPrefix=mods\_36)
+  *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8759641\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8759641\&metadataPrefix=mods\_36)\
+      \
+      `<accessCondition type="useAndReproduction">`
 
       <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.50.44.png" alt=""><figcaption></figcaption></figure>
+
+      `<dcterms:license>`
+
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 14.23.14.png" alt=""><figcaption></figcaption></figure>
 
 ### Screenshots
 
