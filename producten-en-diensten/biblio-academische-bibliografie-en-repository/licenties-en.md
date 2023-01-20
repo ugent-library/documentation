@@ -45,13 +45,16 @@ For the option "the license is not in this list, there is an "other license" fie
 
 * Publication
   * empty selection
-    * MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644564\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644564\&metadataPrefix=mods\_36)
-    * Biblio front-office test record [https://bibliotest.ugent.be/publication/8644564](https://bibliotest.ugent.be/publication/8644564)
-    * Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8644564](https://backoffice.bibliotest.ugent.be/publication/8644564)
+    *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8644564](https://backoffice.bibliotest.ugent.be/publication/8644564)
+
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.12.47.png" alt=""><figcaption></figcaption></figure>
+    * Biblio front-office test record [https://bibliotest.ugent.be/publication/8644564](https://bibliotest.ugent.be/publication/8644564)\
+      ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.13.31.png>)
+    *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644564\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644564\&metadataPrefix=mods\_36)
+
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.08.08.png" alt=""><figcaption></figcaption></figure>
   * no license selected
     *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8644924](https://backoffice.bibliotest.ugent.be/publication/8644924?redirect-url=%2Fpublication%3Fq%3D%26sort%3Ddate-updated-desc\&show=files)
-
-        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.18.54.png" alt=""><figcaption></figcaption></figure>
 
         <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.26.png" alt=""><figcaption></figcaption></figure>
     * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8644924](https://bibliotest.ugent.be/publication/8644924)\
