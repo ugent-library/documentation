@@ -118,9 +118,14 @@ For datasets, the specific "other license" does not flow through at this point. 
 
       <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.23.05.png" alt=""><figcaption></figcaption></figure>
 * Dataset
-  * Biblio back-office test record:&#x20;
-  * Biblio front-office test record:
-  * MODS 36 for GISMO and FRIS in OAI:
+  *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/dataset/8759641](https://backoffice.bibliotest.ugent.be/dataset/8759641)
+
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.26.19.png" alt=""><figcaption></figcaption></figure>
+  * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8759641](https://bibliotest.ugent.be/publication/8759641)\
+    <img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.50.10.png" alt="" data-size="original">
+  *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8759641\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8759641\&metadataPrefix=mods\_36)
+
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.50.44.png" alt=""><figcaption></figcaption></figure>
 
 ### Screenshots
 
@@ -130,15 +135,7 @@ For datasets, the specific "other license" does not flow through at this point. 
 
 <img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 16.44.22.png" alt="" data-size="original"> Datasets options
 
-#### OAI licenses current screenshots
 
-Will be adapted from 19/01/2023
-
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 17.36.38.png" alt=""><figcaption><p>OAI for CC</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 17.37.02.png" alt=""><figcaption><p>OAI for no license</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 17.39.22.png" alt=""><figcaption></figcaption></figure>
 
 ## GISMO Mappings
 
