@@ -167,7 +167,7 @@ Current mappings, they will change starting from 23/01/2023
 
 {% file src="../../.gitbook/assets/Publicatie_copyright-2.xlsx" %}
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 16.53.28 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 10.10.35.png" alt=""><figcaption></figcaption></figure>
 
 Changes needed:
 
