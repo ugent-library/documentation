@@ -35,7 +35,7 @@ What that looks like is defined here for the front-office:
 
 {% embed url="https://github.com/ugent-library/biblio-backoffice/blob/dev/internal/app/handlers/frontoffice/handler.go" %}
 
-For the option "the license is not in this list, there is an "other license" field available for datasets. The content of that field will replace that value for datasets here:
+For the option "the license is not in this list, there is an "other license" field available for datasets. At this point, the value is not replaced in the front-office (see case further on), but that would come in handy in the future. Need to discuss this with GISMO before we take action here.
 
 {% embed url="https://github.ugent.be/Universiteitsbibliotheek/biblio/blob/master/views/full.tt#L109" %}
 
