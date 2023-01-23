@@ -167,7 +167,7 @@ Current mappings, they will change starting from 23/01/2023
 
 {% file src="../../.gitbook/assets/Publicatie_copyright-2.xlsx" %}
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 10.10.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 16.53.28 (1).png" alt=""><figcaption></figcaption></figure>
 
 Changes needed:
 
@@ -186,7 +186,7 @@ Changes needed:
     * /be.ugent.biblio/publicatie/copyright/unknown
     * **Information pending**
 * Add
-  * **/be.ugent.biblio/publicatie/licentie/other**
+  * **/be.ugent.biblio/publicatie/licentie/licensenotlisted**
   * **A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.**
 
 ### Datasets
@@ -207,7 +207,7 @@ Optional
     * /be.ugent.biblio/dataset/licentie/other
     * The license is not listed here
   * To
-    * /be.ugent.biblio/dataset/licentie/other
+    * **/be.ugent.biblio/dataset/licentie/licensenotlisted**
     * **A specific license has been chosen by the rights holder. Get in touch with the rights holder for reuse rights.**
     * _Context: In the future FRIS would like to see the content filled out manually in the free text field "other license". So they know what will be chosen. However, it would be the SPDX "ID" field: https://github.com/spdx/license-list-data/blob/main/json/licenses.json#L1021_
 
