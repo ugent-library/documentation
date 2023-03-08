@@ -82,13 +82,12 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 
 📂 Klik op de "Folder" naam om de map te openen, of door op "Open" te klikken.\
 📫 Kopieer de publiek deelbare link door op "Copy link" te klikken.\
-🗑️ Verwijder de folder met de "Delete" knop.
+🗑️ Verwijder de folder met de "Delete" knop.\
+🔎 Zoek naar folders door "`ctrl+f`" of "`command+f`" in te houden.
 
 <figure><img src="../../.gitbook/assets/deliver-search.png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
 
-🔎 Zoek naar folders door "`ctrl+f`" of "`command+f`" in te houden.
-
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-03-08 om 12.39.49.png" alt=""><figcaption><p>Zoeken met je browser.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-03-08 om 12.39.49.png" alt=""><figcaption><p>Zoeken met ctrl+f in je browser.</p></figcaption></figure>
 
 #### Mappen delen
 
