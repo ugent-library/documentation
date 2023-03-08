@@ -9,6 +9,7 @@ _Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken e
 ## Snel aan de slag
 
 1.  Surf naar [http://deliver.lib.ugent.be](http://deliver.lib.ugent.be/) en log in met je UGent account.\
+    Heb je geen toegang? Stuur een mailtje naar [libservice@ugent.be.](mailto:libservice@ugent.be)\
 
 
     <figure><img src="../../.gitbook/assets/deliver-log-in.png" alt=""><figcaption><p>Rechts bovenaan kan je inloggen (en uitloggen).</p></figcaption></figure>
