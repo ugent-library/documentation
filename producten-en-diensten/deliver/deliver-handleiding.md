@@ -4,9 +4,50 @@ description: Ondersteuning van bibliotheekdiensten voor UGent-bibliotheekmedewer
 
 # Deliver handleiding
 
-## Deliver
+_Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken en beheren. In deze deelbare mappen kunnen bestanden van bibliotheken die niet publiek gedeeld mogen worden, verstuurd worden. Dit kan voor een bepaalde periode, voor en door bepaalde personen – op een beveiligde en stabiele manier._
 
-_Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken en beheren. In deze deelbare mappen kunnen bestanden van bibliotheken uitgewisseld worden, voor een bepaalde periode, voor en door bepaalde personen – op een beveiligde en stabiele manier._
+## Snel aan de slag
+
+1.  Surf naar [http://deliver.lib.ugent.be](http://deliver.lib.ugent.be/) en log in met je UGent account.\
+
+
+    <figure><img src="../../.gitbook/assets/deliver-log-in.png" alt=""><figcaption><p>Rechts bovenaan kan je inloggen (en uitloggen).</p></figcaption></figure>
+2.  Je komt automatisch terecht in een _space_ waarin je folders kan aanmaken om bestanden mee te delen.\
+
+
+    <figure><img src="../../.gitbook/assets/deliver-space.png" alt=""><figcaption><p>Links zie je de spaces waar je toegang tot krijgt.</p></figcaption></figure>
+3.  Maak een nieuwe folder aan. Deze vervalt na één maand.\
+
+
+    <figure><img src="../../.gitbook/assets/deliver-folder.png" alt=""><figcaption><p>Je foldernaam kan cijfers, tekens en letters bevatten. Zolang het een unieke naam is, ben je vrij om de naam te kiezen.</p></figcaption></figure>
+
+
+
+    <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-03-08 om 11.59.46.png" alt=""><figcaption><p>De vervaldatum wordt automatisch gegenereerd.</p></figcaption></figure>
+4.  Laad een of meer bestanden tegelijk op.\
+
+
+    <figure><img src="../../.gitbook/assets/deliver-4-opladen.png" alt=""><figcaption><p>Je kan de dropzone gebruken (niet via Athena), of op de knop klikken.</p></figcaption></figure>
+
+
+
+    <figure><img src="../../.gitbook/assets/deliver-5-opladen-files.png" alt=""><figcaption><p>Je kan meerdere bestanden tegelijk opladen.</p></figcaption></figure>
+
+
+
+    <figure><img src="../../.gitbook/assets/deliver-5-opladen-voortgang.png" alt=""><figcaption><p>Je kan de voortgang bekijken van de files. Ververs de browser nie4t.</p></figcaption></figure>
+5.  Gebruik de publiek deelbare link om de bestanden te versturen naar je bestemmeling.\
+
+
+    <figure><img src="../../.gitbook/assets/deliver-6-copy.png" alt=""><figcaption><p>Je vindt de publiek deelbare link in het folder overzicht en bovenaan de folderpagina.</p></figcaption></figure>
+
+
+
+    <figure><img src="../../.gitbook/assets/deliver-7-copy.png" alt=""><figcaption><p>Gebruik de knop om de link in één keer te kopiëren.</p></figcaption></figure>
+6.  De bestemmeling kan de bestanden downloaden via de gekopieerde link.\
+
+
+    <figure><img src="../../.gitbook/assets/deliver-8-share.png" alt=""><figcaption><p>De folder vervalt na een maand.</p></figcaption></figure>
 
 ## Deliver Spaces
 
