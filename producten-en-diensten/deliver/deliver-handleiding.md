@@ -1,10 +1,8 @@
----
-description: Ondersteuning van bibliotheekdiensten voor UGent-bibliotheekmedewerkers.
----
-
 # Deliver handleiding
 
-_Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken en beheren. In deze deelbare mappen kunnen bestanden van bibliotheken die niet publiek gedeeld mogen worden, verstuurd worden. Dit kan voor een bepaalde periode, voor en door bepaalde personen – op een beveiligde en stabiele manier._
+**Ondersteuning van bibliotheekdiensten voor UGent-bibliotheekmedewerkers.**
+
+_Deliver voorziet digitale ruimtes voor bibliotheken, waarin deelbare mappen aangemaakt en beheerd kunnen worden. In deze deelbare mappen kunnen bestanden van bibliotheken die niet publiek gedeeld mogen worden, verstuurd worden op een beveiligde en stabiele manier._
 
 ## Snel aan de slag
 
