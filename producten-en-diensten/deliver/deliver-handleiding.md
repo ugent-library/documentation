@@ -20,11 +20,12 @@ _Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken e
 3.  Maak een nieuwe folder aan. Deze vervalt na één maand.\
 
 
-    <figure><img src="../../.gitbook/assets/deliver-folder.png" alt=""><figcaption><p>Je foldernaam kan cijfers, tekens en letters bevatten. Zolang het een unieke naam is, ben je vrij om de naam te kiezen.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deliver-3-folder.png" alt=""><figcaption><p>Je foldernaam kan cijfers, tekens en letters bevatten. Zolang het een unieke naam is, ben je vrij om de naam te kiezen.</p></figcaption></figure>
+
+    \
 
 
-
-    <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-03-08 om 11.59.46.png" alt=""><figcaption><p>De vervaldatum wordt automatisch gegenereerd.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deliver-4-vervaldatum.png" alt=""><figcaption><p>De vervaldatum wordt automatisch gegenereerd.</p></figcaption></figure>
 4.  Laad een of meer bestanden tegelijk op.\
 
 
@@ -36,19 +37,15 @@ _Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken e
 
 
 
-    <figure><img src="../../.gitbook/assets/deliver-5-opladen-voortgang.png" alt=""><figcaption><p>Je kan de voortgang bekijken van de files. Ververs de browser nie4t.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deliver-5-opladen-voortgang.png" alt=""><figcaption><p>Je kan de voortgang bekijken van de files. Ververs de browser niet.</p></figcaption></figure>
 5.  Gebruik de publiek deelbare link om de bestanden te versturen naar je bestemmeling.\
 
 
-    <figure><img src="../../.gitbook/assets/deliver-6-copy.png" alt=""><figcaption><p>Je vindt de publiek deelbare link in het folder overzicht en bovenaan de folderpagina.</p></figcaption></figure>
-
-
-
-    <figure><img src="../../.gitbook/assets/deliver-7-copy.png" alt=""><figcaption><p>Gebruik de knop om de link in één keer te kopiëren.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deliver-6-copy (1).png" alt=""><figcaption><p>Je vindt de publiek deelbare link in het folder overzicht en bovenaan de folderpagina.</p></figcaption></figure>
 6.  De bestemmeling kan de bestanden downloaden via de gekopieerde link.\
 
 
-    <figure><img src="../../.gitbook/assets/deliver-8-share.png" alt=""><figcaption><p>De folder vervalt na een maand.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deliver-8-share (1).png" alt=""><figcaption><p>De folder vervalt na een maand.</p></figcaption></figure>
 
 ## Deliver Spaces
 
