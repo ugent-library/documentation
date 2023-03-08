@@ -9,11 +9,11 @@ _Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken e
 ## Snel aan de slag
 
 1.  Surf naar [http://deliver.lib.ugent.be](http://deliver.lib.ugent.be/) en log in met je UGent account.\
-    Heb je geen toegang? Stuur een mailtje naar [libservice@ugent.be.](mailto:libservice@ugent.be)\
 
 
     <figure><img src="../../.gitbook/assets/deliver-log-in.png" alt=""><figcaption><p>Rechts bovenaan kan je inloggen (en uitloggen).</p></figcaption></figure>
-2.  Je komt automatisch terecht in een _space_ waarin je folders kan aanmaken om bestanden mee te delen.\
+2.  Je komt automatisch terecht in een _space_ waarin je folders kan aanmaken om bestanden mee te delen. \
+    Heb je geen toegang? Stuur een mailtje naar [libservice@ugent.be.](mailto:libservice@ugent.be)\
 
 
     <figure><img src="../../.gitbook/assets/deliver-space.png" alt=""><figcaption><p>Links zie je de spaces waar je toegang tot krijgt.</p></figcaption></figure>
