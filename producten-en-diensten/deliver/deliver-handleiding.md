@@ -41,17 +41,17 @@ _Digitale ruimtes voor Bibliotheken, waarin we deelbare mappen kunnen aanmaken e
 5.  Gebruik de publiek deelbare link om de bestanden te versturen naar je bestemmeling.\
 
 
-    <figure><img src="../../.gitbook/assets/deliver-6-copy (1).png" alt=""><figcaption><p>Je vindt de publiek deelbare link in het folder overzicht en bovenaan de folderpagina.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deliver-6-copy (1) (1).png" alt=""><figcaption><p>Je vindt de publiek deelbare link in het folder overzicht en bovenaan de folderpagina.</p></figcaption></figure>
 6.  De bestemmeling kan de bestanden downloaden via de gekopieerde link.\
 
 
-    <figure><img src="../../.gitbook/assets/deliver-8-share (1).png" alt=""><figcaption><p>De folder vervalt na een maand.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deliver-8-share (1) (1).png" alt=""><figcaption><p>De folder vervalt na een maand.</p></figcaption></figure>
 
 ## Deliver Spaces
 
-Deliver heeft verschillende omgevingen, genoemd spaces, waarin je met je collega's mappen kan aanmaken om documenten mee te delen. Elke [faculteitsbibliotheek](https://lib.ugent.be/nl/libraries) binnen de Universiteitsbibliotheek heeft een eigen space.
+Deliver heeft verschillende omgevingen, genoemd spaces, waarin je met je collega's mappen kan aanmaken om documenten mee te delen. Elke [faculteitsbibliotheek](https://lib.ugent.be/nl/libraries) binnen de Universiteitsbibliotheek hebben een eigen space.
 
-<figure><img src="../../.gitbook/assets/deliver-spaces.png" alt=""><figcaption><p>In de linker zijbalk heb je een overzicht met alle space waar je toegang tot hebt gekregen.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-2-space.png" alt=""><figcaption><p>In de linker zijbalk heb je een overzicht met alle spaces waar je toegang tot hebt gekregen.</p></figcaption></figure>
 
 {% hint style="info" %}
 ### Toegang krijgen tot een space
@@ -66,9 +66,9 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 ### Mappen maken
 
 📂 Bovenaan de space krijg je de optie om een map aan te maken.\
-🗓️  Elke folder vervalt na een maand, om de veiligheid te verhogen.
+🗓️  Elke folder vervalt na een maand, om de veiligheid en het gemak te verhogen.
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-03 om 16.38.24.png" alt=""><figcaption><p>Interface voor het aanmaken van een folder.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-3-folder (1).png" alt=""><figcaption><p>Interface voor het aanmaken van een folder.</p></figcaption></figure>
 
 ### Mappen overzicht
 
@@ -80,13 +80,15 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 
 #### Acties
 
-📂 Klik op de "Folder" naam om de map te openen.\
-✍️ Pas de naam van de folder aan met de potlood knop.\
-🗑️ Verwijder de folder met de prullenmand knop.
+📂 Klik op de "Folder" naam om de map te openen, of door op "Open" te klikken.\
+📫 Kopieer de publiek deelbare link door op "Copy link" te klikken.\
+🗑️ Verwijder de folder met de "Delete" knop.
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-03 om 16.43.04.png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-search.png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/deliver-folder-name-overview.png" alt=""><figcaption><p>Klik op de folder naam om de folder te openen.</p></figcaption></figure>
+🔎 Zoek naar folders door "`ctrl+f`" of "`command+f`" in te houden.
+
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-03-08 om 12.39.49.png" alt=""><figcaption><p>Zoeken met je browser.</p></figcaption></figure>
 
 ### Mappen delen
 
@@ -96,13 +98,15 @@ Gebruik de "Public shareable link" om naar externe mensen te sturen die de inhou
 
 Je vind de shareable link in het overzicht van je map, of in de map zelf.
 
-<figure><img src="../../.gitbook/assets/deliver-shareable-link-overview.png" alt=""><figcaption><p>De publieke deelbare link staat in het overzicht bij elke map.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-copy.png" alt=""><figcaption><p>De publieke deelbare link staat in het overzicht bij elke map.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/deliver-shareable-link-folder (1).png" alt=""><figcaption><p>De publieke deelbare link staat ook bovenaan in de map zelf.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-6-copy (1).png" alt=""><figcaption><p>De publieke deelbare link staat ook bovenaan in de map zelf.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-7-copied (1).png" alt=""><figcaption><p>Kopieer de link direct door op "copy link" te klikken.</p></figcaption></figure>
 
 Via de publieke deelbare link, kan iedereen de folder en bijbehorende files zien. Bewerken kan niet.
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-04 om 16.46.06.png" alt=""><figcaption><p>Interface van publieke deelbare link.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-8-share (1).png" alt=""><figcaption><p>Interface van publieke deelbare link.</p></figcaption></figure>
 
 #### Met collega's
 
@@ -110,16 +114,14 @@ Gebruik de link in de browserbalk om naar je collega's te sturen. Zij zien, als 
 
 ### Mappen beheren
 
-✍️ Pas de naam van de folder aan met de potlood knop in het overzicht, of in de map zelf.\
-🗑️ Verwijder de folder met de prullenmand knop in het overzicht, of in de map zelf.
+✍️ Pas de naam van de folder aan door op "Edit" te klikken.\
+🗑️ Verwijder de folder aan door op "Edit" te klikken.
 
-<figure><img src="../../.gitbook/assets/deliver-edit-delete-folder.png" alt=""><figcaption><p>Verwijderen of bewerken van de map in de map zelf.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-edit.png" alt=""><figcaption><p>Verwijderen of bewerken van de map in de map zelf.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/deliver-edit-delete-overview.png" alt=""><figcaption><p>Verwijderen of bewerken van de map in het overzicht.</p></figcaption></figure>
+Je kan enkel de naam van de map aanpassen, of de map pas verwijderen, nadat je op bewerken hebt geklikt.
 
-Je kan enkel de naam van de map aanpassen nadat je op bewerken hebt geklikt.
-
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-04 om 16.36.46.png" alt=""><figcaption><p>Bewerken van een map.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-03-08 om 12.48.08.png" alt=""><figcaption><p>Bewerken of verwijderen van een map.</p></figcaption></figure>
 
 ## Documenten opladen in een map
 
