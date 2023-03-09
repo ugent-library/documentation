@@ -82,12 +82,11 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 
 📂 Klik op de "Folder" naam om de map te openen, of door op "Open" te klikken.\
 📫 Kopieer de publiek deelbare link door op "Copy link" te klikken.\
-🗑️ Verwijder de folder met de "Delete" knop.\
 🔎 Zoek naar folders door "`ctrl+f`" of "`command+f`" in te houden.
 
-<figure><img src="../../.gitbook/assets/deliver-search.png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-overview.png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-03-08 om 12.39.49.png" alt=""><figcaption><p>Zoeken met ctrl+f in je browser.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-ctrl-f.png" alt=""><figcaption><p>Zoeken met ctrl+f in je browser.</p></figcaption></figure>
 
 #### Mappen delen
 
@@ -97,7 +96,7 @@ Gebruik de "Public shareable link" om naar externe mensen te sturen die de inhou
 
 Je vind de shareable link in het overzicht van je map, of in de map zelf.
 
-<figure><img src="../../.gitbook/assets/deliver-copy.png" alt=""><figcaption><p>De publieke deelbare link staat in het overzicht bij elke map.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-copy (1).png" alt=""><figcaption><p>De publieke deelbare link staat in het overzicht bij elke map.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/deliver-6-copy (1).png" alt=""><figcaption><p>De publieke deelbare link staat ook bovenaan in de map zelf.</p></figcaption></figure>
 
@@ -113,8 +112,8 @@ Gebruik de link in de browserbalk om naar je collega's te sturen. Zij zien, als 
 
 #### Mappen beheren
 
-✍️ Pas de naam van de folder aan door op "Edit" te klikken.\
-🗑️ Verwijder de folder aan door op "Edit" te klikken.
+✍️ Pas de naam van de folder aan door op "Edit" te klikken, de naam aan te passen, en te bewaren.\
+🗑️ Verwijder de folder aan door op "Edit" te klikken, en daarna op "Delete folder". Dit verwijderd de folder en de inhoud onmiddelijk, zonder herstelfunctie.
 
 <figure><img src="../../.gitbook/assets/deliver-edit.png" alt=""><figcaption><p>Verwijderen of bewerken van de map in de map zelf.</p></figcaption></figure>
 
