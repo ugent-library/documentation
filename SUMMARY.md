@@ -20,6 +20,7 @@
 * [Visie op technologie](technologie-en-ondersteunende-tooling/visie-op-technologie.md)
 * [Beeldenbank](technologie-en-ondersteunende-tooling/beeldenbank.md)
 * [Cypress testing](technologie-en-ondersteunende-tooling/cypress-testing.md)
+* [GRPC](technologie-en-ondersteunende-tooling/grpc.md)
 * [IIIF](technologie-en-ondersteunende-tooling/iiif.md)
 * [Keycloak – rights management](technologie-en-ondersteunende-tooling/keycloak-rights-management.md)
 * [Nomad](technologie-en-ondersteunende-tooling/nomad.md)
