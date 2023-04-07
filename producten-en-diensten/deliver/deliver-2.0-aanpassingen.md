@@ -23,7 +23,7 @@ Deze functionaliteiten zijn te monitoren doorheen de overgangsperiode
 
 {% hint style="warning" %}
 **Het aanpassen van de publieke deelbare link heeft invloed op de workflow van mensen.**\
-****De deelbare link wordt nu ook gebruikt om te zoeken over welk dossier het gaat, ook wanneer de link vervallen is. Dat gaat nu niet meer kunnen. We gaan moeten monitoren hoe anderen dit opvangen.\
+De deelbare link wordt nu ook gebruikt om te zoeken over welk dossier het gaat, ook wanneer de link vervallen is. Dat gaat nu niet meer kunnen. We gaan moeten monitoren hoe anderen dit opvangen.\
 \
 \- Sommigen kunnen dit al oplossen door een extra kolom toe te voegen in de excels die ze gebruiken\
 \- Anderen hebben nog geen oplossing.

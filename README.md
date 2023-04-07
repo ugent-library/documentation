@@ -7,7 +7,7 @@ description: >-
 # Documentatie Digitale Producten en Diensten Boekentoren – Universiteitsbibliotheek Gent
 
 **De Boekentoren bouwt aan stabiele, gedragen, uitbreidbare producten.**\
-****_Digitale producten die bijdragen aan onze toekomstvisie om duurzame, klantgerichte diensten te bieden die bijdragen aan het verspreiden van kennis._ [_Meer informatie over onze "sustainability, literacy, user drivenness en web services"_](https://boekentoren.gent/nl/bibliotheek/universiteitsbibliotheek)_._
+_Digitale producten die bijdragen aan onze toekomstvisie om duurzame, klantgerichte diensten te bieden die bijdragen aan het verspreiden van kennis._ [_Meer informatie over onze "sustainability, literacy, user drivenness en web services"_](https://boekentoren.gent/nl/bibliotheek/universiteitsbibliotheek)_._
 
 ### Producten & Diensten
 
@@ -19,8 +19,8 @@ description: >-
 [deliver](producten-en-diensten/deliver/)
 {% endcontent-ref %}
 
-{% content-ref url="producten-en-diensten/personenbeheer.md" %}
-[personenbeheer.md](producten-en-diensten/personenbeheer.md)
+{% content-ref url="producten-en-diensten/personen-service.md" %}
+[personen-service.md](producten-en-diensten/personen-service.md)
 {% endcontent-ref %}
 
 {% content-ref url="producten-en-diensten/pre-ingest.md" %}
@@ -31,9 +31,9 @@ description: >-
 Producten die niet voldoen aan de diensten die we willen bieden aan ons publiek en onze interne processen documenteren we niet, om dubbel werk te vermijden:
 
 * **Instabiele producten**\
-  ****Breken snel, zijn gebouwd op oudere of niet-langer ondersteunde technologieën, intransparante producten die op een niet-standaard manier gebouwd werden, moeilijk te onderhouden, ...
+  Breken snel, zijn gebouwd op oudere of niet-langer ondersteunde technologieën, intransparante producten die op een niet-standaard manier gebouwd werden, moeilijk te onderhouden, ...
 * **Niet-schaalbare producten**\
-  ****Er wordt veel manueel werk verwacht, nieuwe vereisten of noden zijn moeilijk te implementeren, technologie wordt niet meer gedragen, we hangen sterk af van de kennis van één persoon ...
+  Er wordt veel manueel werk verwacht, nieuwe vereisten of noden zijn moeilijk te implementeren, technologie wordt niet meer gedragen, we hangen sterk af van de kennis van één persoon ...
 
 We geven geen prioriteit om nieuwe noden voor deze producten in te lossen. We doen enkel het minimum om deze te werkende te houden – en geven prioriteit aan deze te duurzaam te vervangen.\
 \

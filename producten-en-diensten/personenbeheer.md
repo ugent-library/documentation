@@ -1,4 +1,0 @@
-# Personenbeheer
-
-Scope probleem
-
