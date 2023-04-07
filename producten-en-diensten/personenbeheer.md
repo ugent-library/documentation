@@ -23,11 +23,6 @@ _Deze nieuwe personen service dient als test en plan voor andere diensten zoals 
 
 De huidige personen informatie bergt informatie van externe partijen in een eigen database op. Dit zorgt ervoor dat er foutjes in sluipen, en informatie niet eenvoudig up-to-date gebracht kan worden.
 
-We kunnen de huidige Mongo DB Biblio database gebruiken als startpunt voor het voeden van het dataverdeelcentrum NATS.
-
 <figure><img src="../.gitbook/assets/Oude personen interactie.png" alt=""><figcaption><p>Klik op onderstaande link voor een live versie:</p></figcaption></figure>
 
 {% @figma/embed fileId="Si730qKX06ba6DcqyjXARy" nodeId="3:924" url="https://www.figma.com/file/Si730qKX06ba6DcqyjXARy/People-service?node-id=3%3A924&t=vL50sjaUH5DP5oeH-1" %}
-
-
-
