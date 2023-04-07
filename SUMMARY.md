@@ -11,7 +11,6 @@
   * [Deliver handleiding](producten-en-diensten/deliver/deliver-handleiding.md)
   * [Deliver product flow](producten-en-diensten/deliver/deliver-product-flow.md)
   * [Deliver 2.0: aanpassingen](producten-en-diensten/deliver/deliver-2.0-aanpassingen.md)
-* [Personen service](producten-en-diensten/personenbeheer.md)
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
 * [Overzicht te vernieuwen producten en diensten](producten-en-diensten/overzicht-te-vernieuwen-producten-en-diensten.md)
 
@@ -24,6 +23,7 @@
 * [IIIF](technologie-en-ondersteunende-tooling/iiif.md)
 * [Keycloak – rights management](technologie-en-ondersteunende-tooling/keycloak-rights-management.md)
 * [Nomad](technologie-en-ondersteunende-tooling/nomad.md)
+* [Personen / People service](technologie-en-ondersteunende-tooling/personen-people-service.md)
 * [Traefik](technologie-en-ondersteunende-tooling/traefik.md)
 * [Waypoint](technologie-en-ondersteunende-tooling/waypoint.md)
 * [\[extern\] meemoo archief](technologie-en-ondersteunende-tooling/extern-meemoo-archief.md)

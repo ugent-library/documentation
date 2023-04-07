@@ -5,7 +5,7 @@ description: >-
   zodat we het niet zelf moeten verzamelen.
 ---
 
-# Personen service
+# Personen / People service
 
 ## Nieuwe wereld
 
@@ -22,6 +22,8 @@ _Deze nieuwe personen service dient als test en plan voor andere diensten zoals 
 ### Oude wereld
 
 De huidige personen informatie bergt informatie van externe partijen in een eigen database op. Dit zorgt ervoor dat er foutjes in sluipen, en informatie niet eenvoudig up-to-date gebracht kan worden.
+
+De huidige informatiestromen zorgen voor een lage snelheid. De constellaties zorgen ervoor dat als je een update doet aan een van de onderdelen, de anderen ook aangepast en herwerkt moeten worden. Dit komt door een gebrek aan digitale interpretatie- en verdeeldiensten.
 
 <figure><img src="../.gitbook/assets/Oude personen interactie.png" alt=""><figcaption><p>Klik op onderstaande link voor een live versie:</p></figcaption></figure>
 
