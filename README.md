@@ -19,8 +19,8 @@ _Digitale producten die bijdragen aan onze toekomstvisie om duurzame, klantgeric
 [deliver](producten-en-diensten/deliver/)
 {% endcontent-ref %}
 
-{% content-ref url="producten-en-diensten/personen-service.md" %}
-[personen-service.md](producten-en-diensten/personen-service.md)
+{% content-ref url="producten-en-diensten/personenbeheer.md" %}
+[personenbeheer.md](producten-en-diensten/personenbeheer.md)
 {% endcontent-ref %}
 
 {% content-ref url="producten-en-diensten/pre-ingest.md" %}
