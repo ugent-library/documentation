@@ -30,6 +30,6 @@ We houden dit product om:
 
 Bekij het overzicht van alle aanpassingen die gedaan werden in de overgang van Deliver 1.0 (vroeger: "Dropbox") naar Deliver 2.0.
 
-{% content-ref url="deliver-2.0-aanpassingen.md" %}
-[deliver-2.0-aanpassingen.md](deliver-2.0-aanpassingen.md)
+{% content-ref url="deliver-2.0-aanpassingen/" %}
+[deliver-2.0-aanpassingen](deliver-2.0-aanpassingen/)
 {% endcontent-ref %}
