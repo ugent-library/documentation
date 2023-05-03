@@ -32,14 +32,14 @@ _Gebaseerd op feedback tussen december 2022 en april 2023._\
 ## Waar we nog feedback over verzamelen
 
 We kregen milde feedback over zoek- of sorteerfunctionaliteiten. We wachten hier nog even mee, tot we meer feedback hebben verzameld.\
-Voorlopig kan je best zoeken met ctrl+f.\
-
+Voorlopig kan je best zoeken met ctrl+f.
 
 ## Wat we niet zullen opvangen in Deliver
 
+* Moeilijkheden met documenten "droppen" in Deliver via Athena. Aangezien Athena op grote schaal herzien wordt, gaan we hier niet proberen ondersteunen bij het opladen van documenten door middel van drag-en-drop (dropzone). Binnen Athena gebruik je best gewoon de knop "Upload files".
 * Functionaliteiten _buiten_ Deliver. Hier moeten we aparte trajecten voor starten om de noden kwalitatief in kader te brengen.
 * Rapporteringsnoden. Die zitten nu grotendeels in LibAdmin en andere programma's, en zou op hoger niveau bekeken moeten worden. Deliver is een tussenstap om een bepaald doel te bereiken in andere programma's.
 * Notes. Deze houden we buiten Deliver, aangezien deze nood al opgevangen wordt via mail en via LibAdmin.
 * Externen toelaten om folders te bewerken en aan te maken. Deliver is een interne tool, die we zo veilig mogelijk moeten houden. Externen kunnen gemakkelijk gebruik maken van diensten zoals Dropbox en WeTransfer – dat kon in 2014 nog niet, maar vandaag gelukkig wel!
 
-Vragen of opmerkigen? Mail naar&#x20;
+Vragen of opmerkingen? Mail naar [libservice@ugent.be.](mailto:libservice@ugent.be)

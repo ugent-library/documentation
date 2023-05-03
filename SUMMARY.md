@@ -10,7 +10,7 @@
 * [Deliver](producten-en-diensten/deliver/README.md)
   * [Deliver handleiding](producten-en-diensten/deliver/deliver-handleiding.md)
   * [Deliver product flow](producten-en-diensten/deliver/deliver-product-flow.md)
-  * [Deliver 2.0: aanpassingen](producten-en-diensten/deliver/deliver-2.0-aanpassingen/README.md)
+  * [Deliver 2.0: aanpassingen](producten-en-diensten/deliver/deliver-2.0-aanpassingen.md)
     * [Deliver Release Notities 2.1](producten-en-diensten/deliver/deliver-2.0-aanpassingen/deliver-release-notities-2.1.md)
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
 * [Overzicht te vernieuwen producten en diensten](producten-en-diensten/overzicht-te-vernieuwen-producten-en-diensten.md)
