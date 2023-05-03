@@ -8,6 +8,8 @@
 
 ### Verwijderde functionaliteiten
 
+Deze functionaliteiten werden niet gebruikt, of op een ander moment (mail, LibAdmin, ...) of via een andere dienst voltooid.
+
 * Toevoegen van een notitie
 * Toevoegen van paswoorden
 * Derden files laten uploaden of notitites aan te laten passen
