@@ -6,11 +6,11 @@ description: 'Batch operaties: records in bulk aanpassen voor BKT bibliotheekmed
 
 ## Doel
 
-De batch operations view geeft je de optie om in bulk informatie toe te voegen aan records.
-
-Voorlopig enkel beschikbaar voor publicaties. Wanneer een bulk operatie nodig is voor datasets, kunnen we de functionaliteit uitbreiden.
+**Batch update publications** laat je in bulk informatie toevoegen aan records.
 
 <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 09.31.16 (1).png" alt=""><figcaption><p>Screenshot van test omgeving</p></figcaption></figure>
+
+_Voorlopig enkel beschikbaar voor publicaties. Wanneer een bulk operatie nodig is voor datasets, kunnen we de functionaliteit uitbreiden._
 
 ## Algemene principes
 
@@ -35,7 +35,7 @@ De batch operaties zijn opgebouwd uit 4 onderdelen:
    vb.  `A2` of  `2023`\
    vb.  `dna,"double helix"` (enkel meerdere waarden mogelijk voor keywords)
 
-Je plakt het commando aan elkaar met komma's:
+Je plakt het commando eenvoudig aan elkaar met komma's:
 
 `8701504,project.add,2345`
 
@@ -59,10 +59,10 @@ Toevoegen: 8701504,`vabb_year.add`,2023
 
 ### Keywords toevoegen en verwijderen
 
-_Je kan meerdere keywords tegelijk toevoegen._
-
 Toevoegen: 8701504,`keyword.add`,dna,"double helix"\
 Verwijderen: 8701504,`keyword.remove`,dna
+
+_Je kan meerdere keywords tegelijk toevoegen met een komma. Keywords met een spatie tussen kan je toevoegen door er aanhalingstekens rond te zetten._
 
 Tips:
 
@@ -107,10 +107,14 @@ Gebruik deze excel sheet om je operaties mee op te bouwen:
 
     <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.40.09.png" alt=""><figcaption></figcaption></figure>
 4.  Klik op Process\
-    \
 
 
     <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.41.35.png" alt=""><figcaption></figcaption></figure>
+
+    Als er iets niet lukt, zie je dat ook:\
+
+
+    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.57.29.png" alt=""><figcaption><p>Let op; in je excel kan het nummer van je regel verschillen.</p></figcaption></figure>
 5.  Bekijk je resultaat in het record\
     ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.43.15.png>)\
     ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.44.23.png>)\
