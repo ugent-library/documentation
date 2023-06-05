@@ -10,6 +10,10 @@ description: 'Batch operaties: records in bulk aanpassen voor BKT bibliotheekmed
 
 <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 09.31.16 (1).png" alt=""><figcaption><p>Screenshot van test omgeving</p></figcaption></figure>
 
+Je kan meerdere records tegelijk bewerken. Een actie per regel per record, bijvoorbeeld:
+
+/
+
 _Voorlopig enkel beschikbaar voor publicaties. Wanneer een bulk operatie nodig is voor datasets, kunnen we de functionaliteit uitbreiden._
 
 ## Algemene principes
