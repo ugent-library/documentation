@@ -8,7 +8,7 @@ description: 'Batch operaties: records in bulk aanpassen voor BKT bibliotheekmed
 
 De batch operations view geeft je de optie om in bulk informatie toe te voegen aan records.
 
-Voorlopig enkel voor publicaties.
+Voorlopig enkel beschikbaar voor publicaties. Wanneer een bulk operatie nodig is voor datasets, kunnen we de functionaliteit uitbreiden.
 
 <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 09.31.16 (1).png" alt=""><figcaption><p>Screenshot van test omgeving</p></figcaption></figure>
 
@@ -18,7 +18,8 @@ De batch operaties zijn opgebouwd uit 4 onderdelen:
 
 1. **Record nummer**\
    `01H25B3813V9YV613A27TVH9SV`\
-   `8701504`
+   `8701504`\
+
 2. **Metadata veld + actie**\
    `keyword.add`\
    vb. vabb\_year, project, keyword, classification, reviewer\_tag\
@@ -26,11 +27,13 @@ De batch operaties zijn opgebouwd uit 4 onderdelen:
    `classification.set`\
    vb. set (instellen voor classificatie)\
    vb. add (toevoegen voor project, keywords, reviewer\_tag, vabb\_year)\
-   vb. remove (verwijderen voor project, keywords, reviewer\_tag)\
+   vb. remove (verwijderen keywords, reviewer\_tag)\
+   \
+   **Tip:** Aan elkaar vast met een punt tussen.\
 
 3. **Waarde voor veld**\
    vb.  `A2` of  `2023`\
-   vb `dna,"double helix"` (enkel meedere waarden voor keywords)
+   vb.  `dna,"double helix"` (enkel meerdere waarden mogelijk voor keywords)
 
 Je plakt het commando aan elkaar met komma's:
 
@@ -38,68 +41,83 @@ Je plakt het commando aan elkaar met komma's:
 
 ## Voorbeelden batch operaties
 
-* 8701451,project.add,2345&#x20;
-* 8701451,vabb\_year.add,2023&#x20;
-* 8701451,classification.set,A2&#x20;
-* 8701451,keyword.add,dna,"double helix"&#x20;
-* 8701451,keyword.remove,dna&#x20;
-* 8701451,reviewer\_tag.add,esci&#x20;
-* 8701451,reviewer\_tag.remove,esci
+* 8701504,project.add,2345&#x20;
+* 8701504,vabb\_year.add,2023&#x20;
+* 8701504,classification.set,A2&#x20;
+* 8701504,keyword.add,dna,"double helix"&#x20;
+* 8701504,keyword.remove,dna&#x20;
+* 8701504,reviewer\_tag.add,esci&#x20;
+* 8701504,reviewer\_tag.remove,esci
 
 ### Projecten toevoegen
 
-8632074,project.add,001D04503
-
-Metadataveld: `project`
-
-Acties: `.add` of `.remove`
+8701504,`project.add`,001D04503
 
 ### VABB jaar toevoegen
 
-8632074,vabb\_year.add,2023
-
-Metadataveld: `vabb_year`
-
-Acties: `.add` of `.remove`
+Toevoegen: 8701504,`vabb_year.add`,2023
 
 ### Keywords toevoegen en verwijderen
 
-8632074,keyword.add,dna,"double helix"\
-8632074,keyword.remove,dna
+_Je kan meerdere keywords tegelijk toevoegen._
 
-Metadataveld: `keyword`
-
-Acties: `.add` of `.remove`
+Toevoegen: 8701504,`keyword.add`,dna,"double helix"\
+Verwijderen: 8701504,`keyword.remove`,dna
 
 Tips:
 
 * Gebruik **aanhalingstekens** om **keywords met spaties** toe te voegen.
 * Gebruik **komma's** om **meerdere keywords** toe te voegen aan een record.
 
+### Classificaties instellen
+
+Instellen: 8701504,`classification.set`,A2
+
+### Reviewer tags toevoegen en verwijderen
+
+Toevoegen: 8701504,`reviewer_tag.add`,esci\
+Verwijderen :8701504,`reviewer_tag.remove`,esci
+
 ### Abstracts en taal toevoegen
 
 _In opbouw_
 
-### Classificaties toevoegen
+### _Wat is er nog mogelijk?_
 
-8632074,classification.set,A2
-
-Metadataveld: `classification`
-
-Acties: `.set`
-
-### Reviewer tags toevoegen en verwijderen
-
-8632074,reviewer\_tag.add,esci\
-8632074,reviewer\_tag.remove,esci
-
-Metadataveld: `keyword`
-
-Acties: `.add` of `.remove`
+Wanneer je een concrete batch operatie nodig hebt die vaak nodig is, die hier niet beschreven staat, laat zeker weten wat je nodig hebt aan Miet.&#x20;
 
 ## Maak het jezelf gemakkelijk
 
-Excel
+Gebruik deze excel sheet om je operaties mee op te bouwen:
+
+{% file src="../../../.gitbook/assets/batch-operaties-publicaties-voorbeeld.xlsx" %}
+
+1.  **Voeg al je record nummers, metadata velden + acties en waarden toe aan de excel sheet.**\
+    Maximum 500 regels.\
+
+
+    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.37.26.png" alt=""><figcaption></figcaption></figure>
+2.  **Kopieer de velden.**\
+    Zonder de hoofdingen.\
+
+
+    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.37.48.png" alt=""><figcaption></figcaption></figure>
+3.  **Plak in het "Operations" veld.**\
+
+
+    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.40.09.png" alt=""><figcaption></figcaption></figure>
+4.  Klik op Process\
+    \
+
+
+    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.41.35.png" alt=""><figcaption></figcaption></figure>
+5.  Bekijk je resultaat in het record\
+    ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.43.15.png>)\
+    ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.44.23.png>)\
+    ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.43.45.png>)\
+    ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.43.05.png>)
+
+    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.43.39.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Probeer de batch operaties zeker eens uit op onze testomgeving: [https://backoffice.bibliotest.ugent.be/publication/batch](https://backoffice.bibliotest.ugent.be/publication/batch) – hier kan je niet stuk maken!
