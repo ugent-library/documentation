@@ -8,6 +8,8 @@ description: 'Batch operaties: records in bulk aanpassen voor BKT bibliotheekmed
 
 De batch operations view geeft je de optie om in bulk informatie toe te voegen aan records.
 
+Voorlopig enkel voor publicaties.
+
 <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 09.31.16 (1).png" alt=""><figcaption><p>Screenshot van test omgeving</p></figcaption></figure>
 
 ## Algemene principes
@@ -15,19 +17,24 @@ De batch operations view geeft je de optie om in bulk informatie toe te voegen a
 De batch operaties zijn opgebouwd uit 4 onderdelen:
 
 1. **Record nummer**\
-   `01H25B3813V9YV613A27TVH9SV` (publicatie)\
-   `8632074` (dataset)
+   `01H25B3813V9YV613A27TVH9SV`\
+   `8701504`
 2. **Metadata veld + actie**\
    `keyword.add`\
-   vb. VABB jaar, project, keyword, classificatie, reviewer tag\
-   vb. add (toevoegen), remove (verwijderen)
-3. **Een of meerdere waarden voor veld**\
-   `dna, "double helix"`\
-   vb. A2, "een keyword met spaties", 2023
+   vb. vabb\_year, project, keyword, classification, reviewer\_tag\
+   \
+   `classification.set`\
+   vb. set (instellen voor classificatie)\
+   vb. add (toevoegen voor project, keywords, reviewer\_tag, vabb\_year)\
+   vb. remove (verwijderen voor project, keywords, reviewer\_tag)\
+
+3. **Waarde voor veld**\
+   vb.  `A2` of  `2023`\
+   vb `dna,"double helix"` (enkel meedere waarden voor keywords)
 
 Je plakt het commando aan elkaar met komma's:
 
-`01H25B3813V9YV613A27TVH9SV,project.add,2345`
+`8701504,project.add,2345`
 
 ## Voorbeelden batch operaties
 
@@ -79,12 +86,12 @@ _In opbouw_
 
 Metadataveld: `classification`
 
-Acties: `.add` of `.remove`
+Acties: `.set`
 
 ### Reviewer tags toevoegen en verwijderen
 
-8632074,keyword.add,dna,"double helix"\
-8632074,keyword.remove,dna
+8632074,reviewer\_tag.add,esci\
+8632074,reviewer\_tag.remove,esci
 
 Metadataveld: `keyword`
 
