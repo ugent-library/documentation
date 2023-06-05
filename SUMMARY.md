@@ -7,7 +7,7 @@
 * [Producten- en diensten overzicht](producten-en-diensten/producten-en-diensten-overzicht.md)
 * [Biblio Academische Bibliografie en Repository](producten-en-diensten/biblio-academische-bibliografie-en-repository/README.md)
   * [Documentatie hergebruik](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/README.md)
-    * [Licenties \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/licenties-en.md)
+    * [Licenties \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/licenties-en.md)
   * [Handleidingen](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/README.md)
     * [Batch operaties](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/batch-operaties.md)
 * [Deliver](producten-en-diensten/deliver/README.md)

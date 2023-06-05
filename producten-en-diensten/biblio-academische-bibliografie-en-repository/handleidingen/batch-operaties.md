@@ -12,7 +12,17 @@ De batch operations view geeft je de optie om in bulk informatie toe te voegen a
 
 ## Algemene principes
 
+De batch operaties zijn opgebouwd uit 4 onderdelen:
 
+1. Record nummer\
+   vb. 01H25B3813V9YV613A27TVH9SV (Publicatie)\
+   vb. 8632074 dataset)
+2. Metadata veld\
+   vb. VABB jaar, project, keyword, classificatie, reviewer tag
+3. Actie\
+   vb. add (toevoegen), remove (verwijderen(
+4. Een of meerdere waarden voor veld\
+   vb. A2, "een keyword met spaties", 2023
 
 ## Voorbeelden batch operaties
 

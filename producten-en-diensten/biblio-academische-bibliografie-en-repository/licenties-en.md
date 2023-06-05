@@ -57,25 +57,25 @@ Future dataflows for SPDX values in "other license" field:
   * empty selection
     *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8644564](https://backoffice.bibliotest.ugent.be/publication/8644564)
 
-        <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.12.47.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.12.47.png" alt=""><figcaption></figcaption></figure>
     * Biblio front-office test record [https://bibliotest.ugent.be/publication/8644564](https://bibliotest.ugent.be/publication/8644564)\
-      ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.13.31.png>)
+      ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.13.31.png>)
     *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644564\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644564\&metadataPrefix=mods\_36)
 
-        <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.08.08.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.08.08.png" alt=""><figcaption></figcaption></figure>
   * no license selected
     *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8644924](https://backoffice.bibliotest.ugent.be/publication/8644924?redirect-url=%2Fpublication%3Fq%3D%26sort%3Ddate-updated-desc\&show=files)
 
         <div align="left">
 
-        <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.26.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.26.png" alt=""><figcaption></figcaption></figure>
 
         </div>
     * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8644924](https://bibliotest.ugent.be/publication/8644924)\
-      ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.06.png>)
+      ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.12.06.png>)
     *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644924\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8644924\&metadataPrefix=mods\_36)
 
-        <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 16.42.37.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 16.42.37.png" alt=""><figcaption></figcaption></figure>
 * Dataset
   * Not possible, you cannot leave this field open in the back-office.
 
@@ -85,13 +85,13 @@ Future dataflows for SPDX values in "other license" field:
   *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8646481](https://backoffice.bibliotest.ugent.be/publication/8646481)\
 
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.14.27.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.14.27.png" alt=""><figcaption></figcaption></figure>
   * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8646481](https://bibliotest.ugent.be/publication/8646481)\
-    ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.15.10.png>)\
+    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.15.10.png>)\
 
   *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8646481\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8646481\&metadataPrefix=mods\_36)
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.15.39.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.15.39.png" alt=""><figcaption></figcaption></figure>
 * Dataset
   * Not possible, you cannot leave this field open in the back-office.
 
@@ -100,26 +100,26 @@ Future dataflows for SPDX values in "other license" field:
 * Publication
   *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8689255](https://backoffice.bibliotest.ugent.be/publication/8689255)
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.13.16.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.13.16.png" alt=""><figcaption></figcaption></figure>
   * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8689255](https://bibliotest.ugent.be/publication/8689255)\
-    ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.13.42.png>)
+    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.13.42.png>)
   *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8689255\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8689255\&metadataPrefix=mods\_36)
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 16.43.16.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 16.43.16.png" alt=""><figcaption></figcaption></figure>
 * Dataset
   * Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/dataset/01GM39A1V9G3F374YAE88M0D4V](https://backoffice.bibliotest.ugent.be/dataset/01GM39A1V9G3F374YAE88M0D4V)\
-    ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.32.06.png>)
+    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.32.06.png>)
     * Biblio front-office test record: [https://bibliotest.ugent.be/publication/01GM39A1V9G3F374YAE88M0D4V](https://bibliotest.ugent.be/publication/01GM39A1V9G3F374YAE88M0D4V)\
-      ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.33.24.png>)
+      ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.33.24.png>)
     *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=01GM39A1V9G3F374YAE88M0D4V\&metadataPrefix=mods\_36)\
         \
         `<accessCondition type="useAndReproduction">`
 
-        <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.32.48.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-19 om 17.32.48.png" alt=""><figcaption></figcaption></figure>
 
         `<cdterms:license>`
 
-        <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 14.20.31.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 14.20.31.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For datasets, the specific "other license" does not flow through at this point. In the future, this would be handy data for FRIS to base their licenses on.
@@ -130,36 +130,36 @@ For datasets, the specific "other license" does not flow through at this point. 
 * Publication
   *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/publication/8703190?redirect-url=%2Fpublication\&show=description](https://backoffice.bibliotest.ugent.be/publication/8703190?redirect-url=%2Fpublication\&show=description)
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.20.00.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.20.00.png" alt=""><figcaption></figcaption></figure>
   * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8703190](https://bibliotest.ugent.be/publication/8703190)\
-    ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.22.06.png>)
+    ![](<../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.22.06.png>)
   *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8703190\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8703190\&metadataPrefix=mods\_36)\
 
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.23.05.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.23.05.png" alt=""><figcaption></figcaption></figure>
 * Dataset
   *   Biblio back-office test record: [https://backoffice.bibliotest.ugent.be/dataset/8759641](https://backoffice.bibliotest.ugent.be/dataset/8759641)
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.26.19.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.26.19.png" alt=""><figcaption></figcaption></figure>
   * Biblio front-office test record: [https://bibliotest.ugent.be/publication/8759641](https://bibliotest.ugent.be/publication/8759641)\
-    <img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.50.10.png" alt="" data-size="original">
+    <img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.50.10.png" alt="" data-size="original">
   *   MODS 36 for GISMO and FRIS in OAI: [https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8759641\&metadataPrefix=mods\_36](https://bibliotest.ugent.be/oai?verb=GetRecord\&identifier=8759641\&metadataPrefix=mods\_36)\
       \
       `<accessCondition type="useAndReproduction">`
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.50.44.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 09.50.44.png" alt=""><figcaption></figcaption></figure>
 
       `<dcterms:license>`
 
-      <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 14.23.14.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 14.23.14.png" alt=""><figcaption></figcaption></figure>
 
 ### Screenshots
 
 #### Biblio back office
 
-<img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 16.44.43.png" alt="" data-size="original"> Publications options
+<img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 16.44.43.png" alt="" data-size="original"> Publications options
 
-<img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 16.44.22.png" alt="" data-size="original"> Datasets options
+<img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-18 om 16.44.22.png" alt="" data-size="original"> Datasets options
 
 
 
@@ -169,9 +169,9 @@ For datasets, the specific "other license" does not flow through at this point. 
 
 Current mappings, they will change starting from 23/01/2023
 
-{% file src="../../../.gitbook/assets/Publicatie_copyright-2.xlsx" %}
+{% file src="../../.gitbook/assets/Publicatie_copyright-2.xlsx" %}
 
-<figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 16.53.28 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 16.53.28 (1).png" alt=""><figcaption></figcaption></figure>
 
 Changes needed:
 
@@ -197,9 +197,9 @@ Changes needed:
 
 Current mappings, they will change starting from 23/01/2023
 
-{% file src="../../../.gitbook/assets/Dataset_licentie-2.xlsx" %}
+{% file src="../../.gitbook/assets/Dataset_licentie-2.xlsx" %}
 
-<figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 10.11.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-01-20 om 10.11.02.png" alt=""><figcaption></figcaption></figure>
 
 Optional
 
@@ -217,6 +217,6 @@ Optional
 
 ## Old Biblio
 
-<figure><img src="../../../.gitbook/assets/licenses-publications.png" alt=""><figcaption><p>Publications: adapted</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/licenses-publications.png" alt=""><figcaption><p>Publications: adapted</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/licenses-datasets.png" alt=""><figcaption><p>Datasets: completely replaced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/licenses-datasets.png" alt=""><figcaption><p>Datasets: completely replaced</p></figcaption></figure>
