@@ -36,9 +36,7 @@ Indien de onderzoeksoutput niet terecht kan komen op een DOI die door Crossref o
 * Importeren via BibTex of WoS indien beschikbaar
 * Manueel aanvullen
 
-Voorbeeld DOI die niet werkt:
-
-Van een onafhankelijk publicatiehuis
+Voorbeeld DOI die niet werkt, van een onafhankelijk publicatiehuis:
 
 * 10.2143/TVF.84.3.3291503
 * Plak de DOI achter api.crossref.org.works en zie dat de DOI niet werkt: [https://api.crossref.org/works/](https://api.crossref.org/works/10.2143/TVF.84.3.3291503)[10.2143/TVF.84.3.3291503](https://api.crossref.org/works/10.2143/TVF.84.3.3291503)![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-14 om 14.41.53.png>) of![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-14 om 14.42.25.png>)
