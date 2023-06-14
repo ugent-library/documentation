@@ -10,6 +10,7 @@
     * [Licenties \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/licenties-en.md)
   * [Handleidingen](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/README.md)
     * [Batch operaties](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/batch-operaties.md)
+    * [Help, deze DOI werkt niet](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/help-deze-doi-werkt-niet.md)
 * [Deliver](producten-en-diensten/deliver/README.md)
   * [Deliver handleiding](producten-en-diensten/deliver/deliver-handleiding.md)
   * [Deliver product flow](producten-en-diensten/deliver/deliver-product-flow.md)
