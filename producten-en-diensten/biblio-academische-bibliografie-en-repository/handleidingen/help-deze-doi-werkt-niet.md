@@ -14,10 +14,10 @@ Je kan altijd checken of een DOI werkt, door de Crossref of DataCite website te 
 
 * **Crossref**\
   Gebruik de site [https://search.crossref.org](https://search.crossref.org) en zoek\
-  of stel een link samen om de inhoud te checken: api.datacite.org/dois/plak-hier-de-DOI
+  of stel een link samen om de inhoud te checken: api.crossref.org/works/plak-hier-de-DOI
 * **DataCite**\
   Gebruik de site [https://commons.datacite.org](https://commons.datacite.org)\
-  of stel een link samen om de inhoud te checken: api.crossref.org/works/plak-hier-de-DOI
+  of stel een link samen om de inhoud te checken: api.datacite.org/dois/plak-hier-de-DOI
 
 Wanneer het niet werkt, zijn er enkele redenen:
 
@@ -89,7 +89,7 @@ Crossref of DataCite herkende de DOI, maar kon het record zelf niet bereiken.
 
 Wat je zal zien in Biblio:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Publicaties</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Publicaties</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Datasets</p></figcaption></figure>
 
