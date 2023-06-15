@@ -12,44 +12,93 @@ De metadata die binnengetrokken wordt in Biblio via DOI, verloopt via twee diens
 
 Je kan altijd checken of een DOI werkt, door de Crossref of DataCite website te gebruiken:
 
-* Crossref: api.datacite.org/dois/plak-hier-de-DOI
-* DataCite: api.crossref.org/works/plak-hier-de-DOI
+* **Crossref**\
+  Gebruik de site [https://search.crossref.org](https://search.crossref.org) en zoek\
+  of stel een link samen om de inhoud te checken: api.datacite.org/dois/plak-hier-de-DOI
+* **DataCite**\
+  Gebruik de site [https://commons.datacite.org](https://commons.datacite.org)\
+  of stel een link samen om de inhoud te checken: api.crossref.org/works/plak-hier-de-DOI
 
-Wanneer het niet werkt, zijn er twee redenen:
+Wanneer het niet werkt, zijn er enkele redenen:
 
-### Reden 1: nog niet actief
+### Reden: de DOI is (nog) niet beschikbaar
 
-Soms duurt het even voor een DOI die via deze diensten komt actief wordt. Je kan dan later nog eens proberen.
+Wat zal je zien in Biblio:
 
-#### Oplossing
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Publicaties</p></figcaption></figure>
 
-Even wachten tot de DOI actief is.
+<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>Datasets</p></figcaption></figure>
 
-### Reden 2: DOI van een onbetrouwbare bron
+#### Omdat...
 
-Buiten Crossref en DataCite zijn er nog bronnen die een DOI aanbieden. Dat zijn bijvoorbeeld onafhankelijke publicatiehuizen. Dat zijn geen betrouwbare bronnen, die andere regels en contracten hanteren om informatie van binnen te trekken. Deze informatieuitwisseling kunnen we niet duurzaam implementeren.
+1. **DOI is nog niet actief**\
+   Soms duurt het even voor een DOI via een uitgever actief wordt bij Crossref of DataCite. Je kan dan later nog eens proberen.
+2. **DOI van een onbetrouwbare bron**\
+   Buiten Crossref en DataCite zijn er nog bronnen die een DOI aanbieden. Dat zijn bijvoorbeeld onafhankelijke publicatiehuizen. Deze informatieuitwisseling kunnen we niet duurzaam implementeren omdat die lijst eindeloos kan zijn, en omdat ze andere regels en contracten hanteren.
 
-#### Oplossing
+**Oplossing**
 
 Indien de onderzoeksoutput niet terecht kan komen op een DOI die door Crossref of DataCite erkent kan worden, kunnen ze&#x20;
 
+* Even wachten tot de DOI actief is, later opnieuw proberen
+* Onderzoeker kan uitgeverij contacteren
 * Importeren via BibTex of WoS indien beschikbaar
 * Manueel aanvullen
 
-Voorbeeld DOI die niet werkt, van een onafhankelijk publicatiehuis:
+### Reden: de uitwisseling van metadata is niet mogelijk bij Crossref of DataCite
 
-* 10.2143/TVF.84.3.3291503
-* Plak de DOI achter api.crossref.org.works en zie dat de DOI niet werkt: [https://api.crossref.org/works/](https://api.crossref.org/works/10.2143/TVF.84.3.3291503)[10.2143/TVF.84.3.3291503](https://api.crossref.org/works/10.2143/TVF.84.3.3291503)![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-14 om 14.41.53.png>) of![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-14 om 14.42.25.png>)
+Wat je zal zien in Biblio:
 
-## Wat gaan we doen in Biblio?
+&#x20;
 
-We gaan ervoor zorgen dat we herkennen wanneer de DOI niet herkent wordt door Crossref of DataCite.
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Publicaties</p></figcaption></figure>
 
-### Publicatie voorstel
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Datasets</p></figcaption></figure>
 
-"This DOI cannot be found in CrossRef, or is not yet active. Please make sure your DOI is recognised by this trusted party. You can also import your publication via an other service like WoS or BibTex or manually add your publication.”
+#### Omdat...
 
-### Dataset voorstel
+De API, het uitwisselingsprotocol van Crossref of DataCite, is kapot.
 
-“This DOI cannot be found in Datacite, or is not yet active. Please make sure your DOI is recognised by this trusted party, or manually add your dataset.”
+#### Oplossingen
 
+* Later opnieuw proberen
+* Importeren via BibTex of WoS indien beschikbaar
+* Manueel aanvullen
+
+### Reden: het specifieke record kan niet binnengetrokken worden&#x20;
+
+Wat je zal zien in Biblio:
+
+&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Publicaties</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Datasets</p></figcaption></figure>
+
+#### Omdat...
+
+Crossref of DataCite herkende de DOI, maar kon het record zelf niet bereiken.
+
+#### Oplossingen
+
+* Later opnieuw proberen
+* Importeren via BibTex of WoS indien beschikbaar
+* Manueel aanvullen
+
+### Reden: de inhoud van de DOI kan niet binnengetrokken worden in Biblio
+
+Wat je zal zien in Biblio:
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Publicaties</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Datasets</p></figcaption></figure>
+
+#### Omdat...
+
+De DOI werd herkend in Crossref of DataCite en ze konden het record vinden, maar de informatie er in is niet leesbaar.
+
+#### Oplossingen
+
+* Later opnieuw proberen
+* Importeren via BibTex of WoS indien beschikbaar
+* Manueel aanvullen
