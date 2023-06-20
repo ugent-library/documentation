@@ -82,10 +82,6 @@ Instellen: 8701504,`classification.set`,A2
 Toevoegen: 8701504,`reviewer_tag.add`,esci\
 Verwijderen :8701504,`reviewer_tag.remove`,esci
 
-### Abstracts en taal toevoegen
-
-_In opbouw_
-
 ### _Wat is er nog mogelijk?_
 
 Wanneer je een concrete batch operatie nodig hebt die vaak nodig is, die hier niet beschreven staat, laat zeker weten wat je nodig hebt aan Miet.&#x20;
@@ -126,6 +122,14 @@ Gebruik deze excel sheet om je operaties mee op te bouwen:
     ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.43.05.png>)
 
     <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.43.39.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Opgelet!**\
+Excel begint je regels te tellen vanaf lijn 2.\
+De batch operatie begint te tellen vanaf lijn 0.\
+\
+Als er een fout gesignaleerd wordt met "could not process publication at line 0" betekent dit lijn 2, "could not process publication at line 2" betekent dit lijn 4.
+{% endhint %}
 
 {% hint style="success" %}
 Probeer de batch operaties zeker eens uit op onze testomgeving: [https://backoffice.bibliotest.ugent.be/publication/batch](https://backoffice.bibliotest.ugent.be/publication/batch) – hier kan je niet stuk maken!
