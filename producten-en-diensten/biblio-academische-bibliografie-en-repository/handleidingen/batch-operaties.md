@@ -18,7 +18,7 @@ _Voorlopig enkel beschikbaar voor publicaties. Wanneer een bulk operatie nodig i
 
 ## Algemene principes
 
-De batch operaties zijn opgebouwd uit 4 onderdelen:
+De batch operaties zijn opgebouwd uit 3 onderdelen:
 
 1. **Record nummer**\
    `01H25B3813V9YV613A27TVH9SV`\
@@ -33,7 +33,7 @@ De batch operaties zijn opgebouwd uit 4 onderdelen:
    vb. add (toevoegen voor project, keywords, reviewer\_tag, vabb\_year)\
    vb. remove (verwijderen keywords, reviewer\_tag)\
    \
-   **Tip:** Aan elkaar vast met een punt tussen.\
+   **Tip:** Aan elkaar vast met een punt tussen. Hier mogen geen in spaties staan.\
 
 3. **Waarde voor veld**\
    vb.  `A2` of  `2023`\
