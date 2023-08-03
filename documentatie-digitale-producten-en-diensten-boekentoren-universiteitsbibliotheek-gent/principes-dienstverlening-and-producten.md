@@ -1,4 +1,39 @@
 # Principes Dienstverlening & Producten
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><ol><li><strong>Kernwaarden: open kenniscreatie voor hergebruik bevorderen</strong><br><br>Onze dienstverlening en producten helpen de mensen in de Universiteitsbibliotheek en Faculteitsbibliotheken hun doelpublieken te motiveren en te ondersteunen om open kennis te creëren. Daarna gaan we hergebruik stimuleren.<br><br>Dit wordt gedreven vanuit onze kernwaarden.</li></ol></td><td><mark style="color:blue;"><code>open kennis</code></mark><br><mark style="color:blue;"><code>hergebruik</code></mark></td><td></td></tr><tr><td><ol start="2"><li><strong>Focus op de noden en doelen van onze doelgroepen</strong><br><br>Met onze dienstverlening en producten ondersteunen onze verschillende doelpublieken in het inlossen van hun noden en het bereiken van hun doelen.</li></ol></td><td><mark style="color:purple;"><code>noodgedreven</code></mark></td><td></td></tr><tr><td><ol start="3"><li><strong>Ontworpen door experts,</strong><br><strong>gebouwd voor iedereen</strong><br><br>Je hoeft geen expert te zijn op elk vlak om gebruik te maken van onze diensten en producten. We ondersteunen en communiceren naar onze doelgroepen op een praktische, begrijpbare, toegankelijke manier.<br><br>Klare taal en laagdrempelige communicatie primeert.</li></ol><p><mark style="color:green;"><code>laagdrempelig</code></mark></p></td><td></td><td></td></tr><tr><td><p>Duurzaam innoveren</p><p></p><p>Vraag minder dan wat je ermee doet</p></td><td>Vraag geen informatie waar je niets mee doet.</td><td></td></tr><tr><td><ol start="10"><li><strong>Persoonlijk én geautomatiseerd</strong><br><br>Technologie ondersteunt ons bij het geven van kwalitatieve dienstverlening, en helpt ons de juiste informatie te geven waar en wanneer nodig.<br><br>In onze software zie jij wat jij moet doen om een bepaald doel te bereiken, maar vallen we je niet lastig met overbodige details of vragen.</li></ol></td><td></td><td></td></tr></tbody></table>
+## 1. Kernwaarden: open kenniscreatie voor hergebruik bevorderen <mark style="color:blue;">`open kennis`</mark>  <mark style="color:blue;">`hergebruik`</mark>
+
+Onze dienstverlening en producten worden **gedreven vanuit onze kernwaarden**.
+
+De dienstverlening en producten zijn een **middel** om de mensen in de Universiteitsbibliotheek en Faculteitsbibliotheken hun **doelpublieken te motiveren en te ondersteunen in open kenniscreatie**.
+
+Het **hergebruik van die open kennis wordt gestimuleerd** vanuit de bibliotheken.
+
+***
+
+## **2. Dienstgericht: focus op de noden en doelen inlossen van onze doelgroepen **<mark style="color:purple;">**`dienstgericht`**</mark> <mark style="color:purple;">**`noodgedreven`**</mark>
+
+Met onze dienstverlening en producten ondersteunen onze verschillende doelpublieken in het inlossen van hun noden en het bereiken van hun doelen, gekaderd in onze kernwaarden.
+
+Wanneer de noden en doelen buiten de verantwoordelijkheden van ons team of organisatie vallen, verwijzen we zo naadloos mogelijk door. We sturen nooit iemand van het kastje naar de muur.
+
+## **3. Ontworpen door experts, gebouwd voor onze doelpublieken **<mark style="color:green;">**`laagdrempelig`**</mark>  <mark style="color:green;">**`autonomie`**</mark>
+
+Je hoeft geen expert te zijn op elk vlak om gebruik te maken van onze diensten en producten. Waar onze doelpublieken voor verantwoordelijk zijn, kunnen ze zelf doen.\
+\
+We ondersteunen en communiceren naar onze doelgroepen op een praktische, begrijpbare en toegankelijke manier.
+
+## 4. Duurzame innovatie <mark style="color:green;">`duurzame innovatie`</mark>
+
+ddd
+
+## 5. Administratief eenvoudig
+
+De informatie die we hebben, gebruiken we maximaal. We vragen zo min mogelijk informatie waar ons doelpubliek niet verantwoordelijk voor is. We vragen geen informatie waar we niets waardevol mee doen.\
+
+
+## 10. Persoonlijk én geautomatiseerd
+
+Technologie ondersteunt ons bij het geven van kwalitatieve dienstverlening, en helpt ons de juiste informatie te geven waar en wanneer nodig.
+
+In onze software zie jij wat jij moet doen om een bepaald doel te bereiken, maar vallen we je niet lastig met overbodige details of vragen.
 
