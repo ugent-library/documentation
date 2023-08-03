@@ -26,11 +26,13 @@ We ondersteunen en communiceren naar onze doelgroepen op een praktische, begrijp
 \
 De centrale universiteitsbibliotheek ondersteunt de faculteitsbibliotheken hier zo goed mogelijk in.
 
-## 4. Duurzame innovatie en dienstverlening <mark style="color:yellow;">`duurzaam`</mark>
+## 4. Duurzame innovatie en dienstverlening <mark style="color:yellow;">`duurzaam`</mark> <mark style="color:yellow;">`gedocumenteerd`</mark>
 
 Onze dienstbaarheid moet vruchtbaar, haalbaar en werkbaar zijn. Er moet voldoende vraag, nood, impact en gebruik zijn voor we een dienst aanbieden of feature bouwen die onderhoud en tijd vraagt. Soms is nee zeggen vriendelijker voor de maatschappij.
 
 Externe drijfveren bepalen ons tempo niet. Onze verantwoordelijkheden en kerntaken wel.
+
+Wat we doen mag niet verdwijnen bij ons vertrek. Onze kennis leeft niet in onze hoofden alleen, onze dienstverlening is een gedeelde verantwoordelijkheid.
 
 ## 5. Administratief eenvoudig en transparant  <mark style="color:red;">`administratief eenvoudig`</mark>  <mark style="color:red;">`only once`</mark>  <mark style="color:red;">`transparant`</mark>
 
