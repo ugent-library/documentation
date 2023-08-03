@@ -16,7 +16,7 @@ Met onze dienstverlening en producten ondersteunen onze verschillende doelpublie
 
 Wanneer de noden en doelen buiten de verantwoordelijkheden van ons team of organisatie vallen, verwijzen we zo naadloos mogelijk door. We sturen nooit iemand van het kastje naar de muur.
 
-We staan open voor dialoog in de praktijk, en we gaan actief op zoek naar feedback.
+Ons beleid wordt gedreven door onze doelgroepen en ons beleid motiveert onze doelgroepen. We staan open voor dialoog in de praktijk, en we gaan actief op zoek naar feedback. De faculteitsbibliotheken zijn een cruciale schakel om samen feedback te vergaren en oplossingen om te zetten in de praktijk.
 
 ## **3. Ontworpen door experts, gebouwd voor onze doelpublieken **<mark style="color:green;">**`laagdrempelig`**</mark>  <mark style="color:green;">**`autonomie`**</mark>  <mark style="color:green;">**`inclusief`**</mark>
 
