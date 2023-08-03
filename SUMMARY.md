@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Documentatie Digitale Producten en Diensten Boekentoren – Universiteitsbibliotheek Gent](README.md)
+  * [Principes Dienstverlening & Producten](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/principes-dienstverlening-and-producten.md)
+  * [Overzicht te vernieuwen producten en diensten](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/overzicht-te-vernieuwen-producten-en-diensten.md)
 
 ## 💻 Producten en diensten
 
-* [Producten- en diensten overzicht](producten-en-diensten/producten-en-diensten-overzicht.md)
 * [Biblio Academische Bibliografie en Repository](producten-en-diensten/biblio-academische-bibliografie-en-repository/README.md)
   * [Documentatie hergebruik](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/README.md)
     * [Licenties \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/licenties-en.md)
@@ -17,7 +18,6 @@
   * [Deliver 2.0: aanpassingen](producten-en-diensten/deliver/deliver-2.0-aanpassingen.md)
     * [Deliver Release Notities 2.1](producten-en-diensten/deliver/deliver-2.0-aanpassingen/deliver-release-notities-2.1.md)
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
-* [Overzicht te vernieuwen producten en diensten](producten-en-diensten/overzicht-te-vernieuwen-producten-en-diensten.md)
 
 ## 🧑🚀 Technologie en ondersteunende tooling
 
