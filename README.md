@@ -11,8 +11,8 @@ _Digitale producten die bijdragen aan onze toekomstvisie om duurzame, klantgeric
 
 ## Producten & Diensten
 
-{% content-ref url="documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan.md" %}
-[waar-werken-we-aan.md](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan.md)
+{% content-ref url="documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/" %}
+[waar-werken-we-aan](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/)
 {% endcontent-ref %}
 
 {% content-ref url="documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/principes-dienstverlening-and-producten.md" %}
