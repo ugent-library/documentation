@@ -8,7 +8,9 @@
 
 ## Opstart vervanging "Oude Dropbox"
 
-Resultaat:
+Technische analyse
+
+Doelen
 
 {% content-ref url="../../producten-en-diensten/deliver/" %}
 [deliver](../../producten-en-diensten/deliver/)
