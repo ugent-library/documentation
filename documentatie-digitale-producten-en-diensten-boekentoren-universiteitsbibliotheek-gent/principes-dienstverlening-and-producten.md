@@ -58,3 +58,11 @@ Technologie ondersteunt ons bij het geven van kwalitatieve dienstverlening, en h
 
 **Overbodig werk werken we weg**\
 We automatiseren waar we kunnen om (manueel) overbodig werk uit handen te nemen, zonder aan onze dienstverlening in te boeten.
+
+
+
+
+
+{% hint style="success" %}
+Deze visie op dienstverlening en producten ligt in lijn met onze [visie op technologie](../technologie-en-ondersteunende-tooling/visie-op-technologie.md).
+{% endhint %}
