@@ -34,24 +34,28 @@ De centrale universiteitsbibliotheek en de faculteitsbibliotheken werken hier sa
 
 **We delen onze kennis intern en extern**. Wat we doen mag niet verdwijnen wanneer een persoon vertrekt of een dienst sluit. Onze kennis leeft niet in onze hoofden alleen, onze dienstverlening is een gedeelde verantwoordelijkheid. We delen onze ontdekkingen zodat ook buiten de universiteit de vruchten van ons werk geplukt kan worden.
 
-## 5. Administratief eenvoudig en transparant  <mark style="color:red;">`administratief eenvoudig`</mark>  <mark style="color:red;">`only once`</mark>  <mark style="color:red;">`transparant`</mark>
+## 5. Administratief eenvoudig <mark style="color:red;">`administratief eenvoudig`</mark>  <mark style="color:red;">`only once`</mark>   <mark style="color:red;"></mark><mark style="color:red;">`niet van 0`</mark>
 
-* **Focus op jouw werk. We overladen je niet.**\
-  We vragen ons doelpublieken enkel om nodige en nuttige informatie waar zij controle en verantwoordelijkheid over hebben.  We vragen geen informatie waar we niets waardevol mee doen.\
-  De administratieve informatie waar wij meer kennis over hebben en verantwoordelijk voor zijn, voorzien wij. We beseffen dat hoe meer we vragen, hoe minder we krijgen.\
+**Focus op jouw werk. We overladen je niet.**\
+We vragen ons doelpublieken enkel om nodige en nuttige informatie waar zij controle en verantwoordelijkheid over hebben.  We vragen geen informatie waar we niets waardevol mee doen.\
+De administratieve informatie waar wij meer kennis over hebben en verantwoordelijk voor zijn, voorzien wij. We beseffen dat hoe meer we vragen, hoe minder we krijgen.
 
-* **Only once; een keer informatie vragen is plagen, twee keer is pesten.**\
-  De informatie die we hebben, gebruiken en hergebruiken we maximaal.\
-  We integreren zo veel mogelijk met de diensten rondom ons. Informatie die we kunnen gebruiken van andere diensten gebruiken we, informatie die anderen kunnen gebruiken we delen we. We doen dat op een gestandaardiseerde manier. Updates verlopen automatisch.\
+**Één keer informatie vragen – zo veel mogelijk hergebruiken**\
+Only once. De informatie die we hebben, gebruiken en hergebruiken we maximaal.  Een keer informatie vragen is plagen, twee keer is pesten.
 
-* **Onze interne complexiteit is niet de zorg van ons doelpubliek**\
-  Je hoeft niet voor elke taak een andere dienst of software te gebruiken. Onze interne complexiteit hoeft je niet te begrijpen om een doel te bereiken. Je hoeft geen intern netwerk op te bouwen om iets te bereiken.\
+**Niet starten van 0**\
+We integreren zo veel mogelijk met de diensten rondom ons. Informatie die we kunnen gebruiken van andere diensten gebruiken we, informatie die anderen kunnen gebruiken we delen we. We doen dat op een gestandaardiseerde manier. Updates verlopen automatisch.
 
-* **Je weet wat er gebeurt en waarom.**\
-  We laten je niet in het ongewisse en blijven transparant. We communiceren zonder je te overladen.\
-  Wanneer we intern niet begrijpen “waarom we iets op deze manier doen” of het antwoord is “omdat dat altijd zo is geweest”, dan trekken we dit grondig in twijfel en onderzoeken we het. Indien er geen beter antwoord is, herzien we de vraag of laten we ze weg.
+## 6. Klare taal, duidelijke verwachtingen  <mark style="color:orange;">`transparant`</mark>  <mark style="color:orange;">`duidelijk`</mark>
 
-## 6. Persoonlijk én ondersteund door technologie <mark style="color:orange;">`persoonlijke technologie`</mark>
+**Je weet wat er gebeurt en waarom.**\
+We laten je niet in het ongewisse en blijven transparant. We communiceren zonder je te overladen.\
+Wanneer we intern niet begrijpen “waarom we iets op deze manier doen” of het antwoord is “omdat dat altijd zo is geweest”, dan trekken we dit grondig in twijfel en onderzoeken we het. Indien er geen beter antwoord is, herzien we de vraag of laten we ze weg.
+
+**Onze interne complexiteit is niet de zorg van ons doelpubliek**\
+Je hoeft niet voor elke taak een andere dienst of software te gebruiken. Onze interne complexiteit hoeft je niet te begrijpen om een doel te bereiken. Je hoeft geen intern netwerk op te bouwen om iets te bereiken.
+
+## 7. Persoonlijk én ondersteund door technologie `persoonlijke technologie`
 
 **Technologie ondersteunt persoonlijke aanpak**\
 Technologie ondersteunt ons bij het geven van kwalitatieve dienstverlening, en helpt ons de juiste informatie te geven waar en wanneer nodig. Het doelpubliek begrijpt wat er moet gebeuren om een bepaald doel te bereiken op basis van hun profiel. We vallen niemand lastig met overbodige details of vragen.
