@@ -1,16 +1,20 @@
 # Principes Dienstverlening & Producten
 
-## 1. Kernwaarden: open kenniscreatie voor hergebruik bevorderen <mark style="color:blue;">`open kennis`</mark>  <mark style="color:blue;">`hergebruik`</mark>
+
+
+<details>
+
+<summary>1. Kernwaarden: open kenniscreatie voor hergebruik bevorderen<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark></summary>
 
 Onze dienstverlening en producten worden **gedreven vanuit onze kernwaarden**.
 
-De dienstverlening en producten zijn een **middel** om de mensen in de Universiteitsbibliotheek en Faculteitsbibliotheken hun **doelpublieken te motiveren en te ondersteunen in open kenniscreatie**.
+De dienstverlening en producten zijn een **middel** om de mensen in de Universiteitsbibliotheek en Faculteitsbibliotheken hun **doelpublieken te het creëren van open kennis en hergebruik hiervan**.
 
-Het **hergebruik van die open kennis wordt gestimuleerd** vanuit de bibliotheken.
+</details>
 
-***
+<details>
 
-## **2. Dienstgericht: focus op de noden en doelen inlossen van onze doelgroepen **<mark style="color:purple;">**`dienstgericht`**</mark> <mark style="color:purple;">**`noodgedreven`**</mark> <mark style="color:purple;">**`dialoog`**</mark>
+<summary>2. Dienstgericht: focus op de noden en doelen inlossen van onze doelgroepen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark></summary>
 
 De focus ligt op het ondersteunen van onze verschillende doelpublieken in het **inlossen van hun noden en het bereiken van hun doelen**, gekaderd in onze kernwaarden.
 
@@ -18,21 +22,35 @@ Ons beleid wordt gedreven door onze doelpublieken en ons beleid motiveert onze d
 
 Wanneer de noden en doelen buiten de verantwoordelijkheden van ons team of organisatie vallen, verwijzen we zo naadloos mogelijk door. **We sturen nooit iemand van het kastje naar de muur.**
 
-## **3. Ontworpen door experts, gebouwd voor onze doelpublieken **<mark style="color:green;">**`laagdrempelig`**</mark>  <mark style="color:green;">**`autonomie`**</mark>  <mark style="color:green;">**`inclusief`**</mark>
+</details>
 
-**Je hoeft geen expert te zijn op elk vlak om gebruik te maken van onze diensten en producten.** Waar onze **doelpublieken voor verantwoordelijk zijn, kunnen ze zelf doen**. Je bent niet afhankelijk van een bibliotheekmedewerker. Dat kan je zonder specifieke vakkennis, vakterminologie, gebruik van handleidingen of verplichte opleidingen.\
+<details>
+
+<summary>3. Ontworpen door experts, gebouwd voor onze doelpublieken<br> <mark style="color:green;"><code>laagdrempelig</code></mark>  <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:green;"><code>inclusief</code></mark></summary>
+
+**Je hoeft geen expert te zijn in elk vakgebied om gebruik te maken van onze diensten en producten.** Dat kan je zonder specifieke vakkennis, vakterminologie, gebruik van handleidingen of verplichte opleidingen.\
+\
+Waar onze **doelpublieken voor verantwoordelijk zijn, kunnen ze zelf doen**. Je bent niet afhankelijk van een bibliotheekmedewerker.\
 \
 **Duidelijke verwachtingen, klare taal.** We ondersteunen en communiceren naar onze doelgroepen op een praktische, begrijpbare en toegankelijke manier. Inclusiviteit is een werkwoord waarin we de onderbediende doelgroepen betrekken.\
 \
 De centrale universiteitsbibliotheek en de faculteitsbibliotheken werken hier samen aan.
 
-## 4. Duurzame innovatie en dienstverlening <mark style="color:yellow;">`duurzaam`</mark> <mark style="color:yellow;">`gedeeld`</mark>
+</details>
 
-**Onze dienstbaarheid moet vruchtbaar, haalbaar en werkbaar zijn.** Er moet voldoende vraag, nood, impact en gebruik zijn voor we een dienst aanbieden of feature bouwen die onderhoud en tijd vraagt. Soms is nee zeggen vriendelijker voor de maatschappij.
+<details>
 
-**Onze verantwoordelijkheden, doelpublieken en kernwaarden bepalen ons tempo.** Externe drijfveren bepalen ons tempo niet.&#x20;
+<summary>4. Duurzame innovatie en dienstverlening: vruchtbaar, werkbaar, schaalbaar, veilig<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark></summary>
 
-**We delen onze kennis intern en extern**. Wat we doen mag niet verdwijnen wanneer een persoon vertrekt of een dienst sluit. Onze kennis leeft niet in onze hoofden alleen, onze dienstverlening is een gedeelde verantwoordelijkheid. We delen onze ontdekkingen zodat ook buiten de universiteit de vruchten van ons werk geplukt kan worden.
+Er moet **voldoende vraag, nood, impact en gebruik** zijn voor we een dienst aanbieden of feature bouwen die onderhoud en tijd vraagt. Soms is nee zeggen duurzamer.\
+\
+**Onze verantwoordelijkheden, doelpublieken en kernwaarden bepalen ons tempo.** Externe drijfveren bepalen ons tempo niet. \
+\
+**We delen onze kennis intern en extern**. Wat we doen mag niet verdwijnen wanneer een persoon vertrekt of een dienst sluit. Onze kennis leeft niet in onze hoofden alleen, onze dienstverlening is een gedeelde verantwoordelijkheid. We delen onze ontdekkingen zodat ook buiten de universiteit de vruchten van ons werk geplukt kan worden en we de sector positief kunnen beinvloeden.\
+\
+We gebruiken **standaarden** die in onze sector gekend zijn om **kennisdeling en interoperabiliteit** te ondersteunen wanneer dat ons en de sector ten goede komt.
+
+</details>
 
 ## 5. Administratief eenvoudig <mark style="color:red;">`administratief eenvoudig`</mark>  <mark style="color:red;">`only once`</mark>   <mark style="color:red;"></mark><mark style="color:red;">`niet van 0`</mark>
 
