@@ -1,6 +1,12 @@
+---
+description: >-
+  Deze principes worden gedreven door standaarden in onze sector en de mensen
+  doorheen heel de bibliotheek – bottom-up en top-down.
+---
+
 # Principes Dienstverlening & Producten
 
-
+Deze principes moeten werken op lange termijn, maar zijn niet immuun voor verandering.
 
 <details>
 
@@ -32,7 +38,10 @@ Wanneer de noden en doelen buiten de verantwoordelijkheden van ons team of organ
 \
 Waar onze **doelpublieken voor verantwoordelijk zijn, kunnen ze zelf doen**. Je bent niet afhankelijk van een bibliotheekmedewerker.\
 \
-**Duidelijke verwachtingen, klare taal.** We ondersteunen en communiceren naar onze doelgroepen op een praktische, begrijpbare en toegankelijke manier. Inclusiviteit is een werkwoord waarin we de onderbediende doelgroepen betrekken.\
+**Duidelijke verwachtingen, klare taal.** We ondersteunen en communiceren naar onze doelgroepen op een praktische, begrijpbare en toegankelijke manier. Onze diensten en producten zijn eenvoudig te vinden.\
+\
+**Bruikbaar door iedereen in ons doelpubliek, op een gelijkwaardige manier.**\
+Inclusiviteit is een werkwoord waarin we de onderbediende doelgroepen betrekken. We minimaliseren de "voorwaarden" waaraan iedereen moet voldoen en middelen waar iedereen over moet beschikken om onze diensten en producten te kunnen gebruiken.\
 \
 De centrale universiteitsbibliotheek en de faculteitsbibliotheken werken hier samen aan.
 
@@ -40,7 +49,7 @@ De centrale universiteitsbibliotheek en de faculteitsbibliotheken werken hier sa
 
 <details>
 
-<summary>4. Duurzame innovatie en dienstverlening: vruchtbaar, werkbaar, schaalbaar, veilig<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark></summary>
+<summary>4. Duurzame innovatie en dienstverlening:<br>vruchtbaar, onderhoudbaar, schaalbaar, veilig<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
 
 Er moet **voldoende vraag, nood, impact en gebruik** zijn voor we een dienst aanbieden of feature bouwen die onderhoud en tijd vraagt. Soms is nee zeggen duurzamer.\
 \
@@ -48,14 +57,19 @@ Er moet **voldoende vraag, nood, impact en gebruik** zijn voor we een dienst aan
 \
 **We delen onze kennis intern en extern**. Wat we doen mag niet verdwijnen wanneer een persoon vertrekt of een dienst sluit. Onze kennis leeft niet in onze hoofden alleen, onze dienstverlening is een gedeelde verantwoordelijkheid. We delen onze ontdekkingen zodat ook buiten de universiteit de vruchten van ons werk geplukt kan worden en we de sector positief kunnen beinvloeden.\
 \
-We gebruiken **standaarden** die in onze sector gekend zijn om **kennisdeling en interoperabiliteit** te ondersteunen wanneer dat ons en de sector ten goede komt.
+We zijn op de hoogte van en gebruiken **standaarden** in onze sector om **kennisdeling en interoperabiliteit** te ondersteunen wanneer dat ons en de sector ten goede komt. We gebruiken standaarden die **vindbaarheid**, **herkenbaarheid** en **gebruiksvriendelijkheid** verhogen.\
+\
+De processen, technologie en technieken die we gebruiken moeten **langdurig** mee gaan, maar **houden rekening met belangrijke globale verschuivingen** in verwachtingen en aanpak. **De wereld kan nooit stilgezet worden**, onze kernwaarden moeten blijvend vervuld worden.
 
 </details>
 
-## 5. Administratief eenvoudig <mark style="color:red;">`administratief eenvoudig`</mark>  <mark style="color:red;">`only once`</mark>   <mark style="color:red;"></mark><mark style="color:red;">`niet van 0`</mark>
+<details>
+
+<summary>5. Administratief eenvoudig<br><mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
 
 **Focus op jouw werk. We overladen je niet.**\
-We vragen ons doelpublieken enkel om nodige en nuttige informatie waar zij controle en verantwoordelijkheid over hebben.  We vragen geen informatie waar we niets waardevol mee doen.\
+We vragen ons doelpublieken enkel om nodige en nuttige informatie waar zij controle en verantwoordelijkheid over hebben. We vragen geen informatie waar we niets waardevol mee doen. We communiceren zonder je te overladen.\
+\
 De administratieve informatie waar wij meer kennis over hebben en verantwoordelijk voor zijn, voorzien wij. We beseffen dat hoe meer we vragen, hoe minder we krijgen.
 
 **Één keer informatie vragen – zo veel mogelijk hergebruiken**\
@@ -64,24 +78,35 @@ Only once. De informatie die we hebben, gebruiken en hergebruiken we maximaal. �
 **Niet starten van 0**\
 We integreren zo veel mogelijk met de diensten rondom ons. Informatie die we kunnen gebruiken van andere diensten gebruiken we, informatie die anderen kunnen gebruiken we delen we. We doen dat op een gestandaardiseerde manier. Updates verlopen automatisch.
 
-## 6. Klare taal, duidelijke verwachtingen  <mark style="color:orange;">`transparant`</mark>  <mark style="color:orange;">`duidelijk`</mark>
+</details>
+
+<details>
+
+<summary>6. Transparant:<br>klare taal, duidelijke verwachtingen, duidelijke richting<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark></summary>
 
 **Je weet wat er gebeurt en waarom.**\
-We laten je niet in het ongewisse en blijven transparant. We communiceren zonder je te overladen.\
+We laten je niet in het ongewisse en blijven transparant.\
 Wanneer we intern niet begrijpen “waarom we iets op deze manier doen” of het antwoord is “omdat dat altijd zo is geweest”, dan trekken we dit grondig in twijfel en onderzoeken we het. Indien er geen beter antwoord is, herzien we de vraag of laten we ze weg.
 
 **Onze interne complexiteit is niet de zorg van ons doelpubliek**\
-Je hoeft niet voor elke taak een andere dienst of software te gebruiken. Onze interne complexiteit hoeft je niet te begrijpen om een doel te bereiken. Je hoeft geen intern netwerk op te bouwen om iets te bereiken.
+Je hoeft niet voor elke taak een andere dienst of software te gebruiken. Onze interne complexiteit hoeft je niet te begrijpen om een doel te bereiken. Je hoeft geen intern netwerk op te bouwen om iets te bereiken of te vinden.
 
-## 7. Persoonlijk én ondersteund door technologie `persoonlijke technologie`
+</details>
+
+<details>
+
+<summary>7. Persoonlijke aanpak, ondersteund door technologie<br><code>persoonlijke aanpak</code>  <code>ondersteund door technologie</code></summary>
 
 **Technologie ondersteunt persoonlijke aanpak**\
-Technologie ondersteunt ons bij het geven van kwalitatieve dienstverlening, en helpt ons de juiste informatie te geven waar en wanneer nodig. Het doelpubliek begrijpt wat er moet gebeuren om een bepaald doel te bereiken op basis van hun profiel. We vallen niemand lastig met overbodige details of vragen.
+Technologie ondersteunt ons bij het geven van kwalitatieve dienstverlening, en helpt ons de juiste informatie te geven waar en wanneer nodig.
+
+_e.g. Het doelpubliek begrijpt wat er moet gebeuren om een bepaald doel te bereiken op basis van hun profiel. We vallen niemand lastig met overbodige details of vragen._\
+_e.g. We meten om te weten, te ontdekken en onze assumpties mee te testen._
 
 **Overbodig werk werken we weg**\
 We automatiseren waar we kunnen om (manueel) overbodig werk uit handen te nemen, zonder aan onze dienstverlening in te boeten.
 
-
+</details>
 
 
 
