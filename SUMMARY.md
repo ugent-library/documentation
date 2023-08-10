@@ -21,6 +21,7 @@
   * [Deliver 2.0: aanpassingen](producten-en-diensten/deliver/deliver-2.0-aanpassingen.md)
     * [Deliver Release Notities 2.1](producten-en-diensten/deliver/deliver-2.0-aanpassingen/deliver-release-notities-2.1.md)
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
+* [Product template](producten-en-diensten/product-template.md)
 
 ## 🧑🚀 Technologie en ondersteunende tooling
 
