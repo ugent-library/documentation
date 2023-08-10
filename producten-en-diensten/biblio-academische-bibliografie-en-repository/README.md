@@ -12,4 +12,10 @@ description: Biblio Academische Bibliografie en Repository
 
 ## Technische documentatie en code
 
+Back office:
+
 {% embed url="https://github.com/ugent-library/biblio-backoffice" %}
+
+Front office:
+
+{% embed url="https://github.ugent.be/Universiteitsbibliotheek/biblio" %}

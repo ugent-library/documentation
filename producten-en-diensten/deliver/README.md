@@ -19,9 +19,7 @@ Meer informatie over de Deliver functionaliteiten:
 
 ### Technische documentatie
 
-{% embed url="https://github.com/ugent-library/dilliver" %}
-Technische documentatie voor Deliver
-{% endembed %}
+{% embed url="https://github.com/ugent-library/deliver" %}
 
 Productie omgeving: [http://deliver.lib.ugent.be](http://deliver.lib.ugent.be)
 
