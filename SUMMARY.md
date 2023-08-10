@@ -2,6 +2,7 @@
 
 * [Documentatie Digitale Producten en Diensten Boekentoren – Universiteitsbibliotheek Gent](README.md)
   * [Principes Dienstverlening & Producten](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/principes-dienstverlening-and-producten.md)
+  * [High-level dienstenoverzicht](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/high-level-dienstenoverzicht.md)
   * [Waar werken we aan](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/README.md)
     * [Doelen 2022](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/doelen-2022.md)
     * [Overzicht te vernieuwen producten en diensten](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/overzicht-te-vernieuwen-producten-en-diensten.md)
@@ -20,7 +21,6 @@
   * [Deliver 2.0: aanpassingen](producten-en-diensten/deliver/deliver-2.0-aanpassingen.md)
     * [Deliver Release Notities 2.1](producten-en-diensten/deliver/deliver-2.0-aanpassingen/deliver-release-notities-2.1.md)
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
-* [High-level dienstenoverzicht](producten-en-diensten/high-level-dienstenoverzicht.md)
 
 ## 🧑🚀 Technologie en ondersteunende tooling
 

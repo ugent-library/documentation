@@ -22,8 +22,8 @@ Een overzicht van onze diensten:
 
 ### Gebouwde producten:
 
-{% content-ref url="biblio-academische-bibliografie-en-repository/" %}
-[biblio-academische-bibliografie-en-repository](biblio-academische-bibliografie-en-repository/)
+{% content-ref url="../producten-en-diensten/biblio-academische-bibliografie-en-repository/" %}
+[biblio-academische-bibliografie-en-repository](../producten-en-diensten/biblio-academische-bibliografie-en-repository/)
 {% endcontent-ref %}
 
 ***
@@ -44,6 +44,6 @@ Een overzicht van onze diensten:
 
 ### Gebouwde producten
 
-{% content-ref url="deliver/" %}
-[deliver](deliver/)
+{% content-ref url="../producten-en-diensten/deliver/" %}
+[deliver](../producten-en-diensten/deliver/)
 {% endcontent-ref %}
