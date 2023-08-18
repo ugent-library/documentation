@@ -2,6 +2,8 @@
 
 ## Onderzoeksdiensten
 
+Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten-en-diensten/biblio-academische-bibliografie-en-repository/ "mention")
+
 <details>
 
 <summary>[aan het werk] Verrijken van personen informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
@@ -14,7 +16,7 @@ Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen 
 
 <details>
 
-<summary>[aan het werk] Automatisering van doorstroom data: Plato case<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
+<summary>[aan het werk] Automatisering van doorstroom data: Plato case administratieve vereenvoudiging<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
 
 Plato verzamelt, net zoals Biblio, dissertaties. Het delen van die informatie gebeurt nu echter manueel door leden van de Boekentoren, onderzoeksmedewerkers of wordt gewoon manueel ingegeven.\
 \
@@ -35,6 +37,42 @@ We werken aan workflows en notificaties. Dit kan hergebruikt worden door dienste
 
 </details>
 
+<details>
+
+<summary>[aan het werk] Design administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
+
+We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
+\
+We zorgen dat de bibliotheekmedewerkers op een vlotte manier informatie kunnen verwerken en toevoegen die waarde toebrengt aan de bibliotheek en de universiteit.
+
+We richten ons ook op het tijdig vinden van duplicate informatie.
+
+</details>
+
+<details>
+
+<summary>[afgerond] Betere doorstroom van informatie naar hergebruikers<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+
+We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
+
+</details>
+
+<details>
+
+<summary>[afgerond] Doorstroom informatie GISMO – FRIS voor KPIs<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+
+We zorgen dat informatie op een standaard manier wordt aangeleverd aan GISMO, zodat zij de informatie op hun beurt kunnen delen met FRIS. FRIS gebruikt bepaalde standaarden om metingen te doen (KPIs) die ingezet worden (nu of later) om subsidies mee te verdelen.
+
+</details>
+
+<details>
+
+<summary>[afgerond] Manueel toevoegen datasets + research output weergave in biblio front-office<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark><br><mark style="color:green;"><code>laagdrempelig</code></mark></summary>
+
+We kunnen niet integereren met alle repositories van datasets, maar we moeten mensen wel de optie geven om datasets toe te voegen om te voldoen aan het publicatiebeleid. Als eerste stap geven we de mogelijkheid om datasets manueel toe te voegen, maar maken het toekomstgericht door latere automatisatie mogelijk te maken.
+
+</details>
+
 ## Erfgoed & Boekentoren
 
 <details>
@@ -52,35 +90,34 @@ Later op de radar: Inschatten van technische impact.
 
 <details>
 
-<summary>[aan het werk] Verrijking van erfgoedcollectie: digitale donaties via hardware ondersteunen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary>[aan het werk] Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
 Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.
 
 </details>
 
-\[later op de radar] Pre-ingest interface\
-\[later op de radar] Collectie Virginie Loveling\
-\[later op de radar] Glasplatencollectie
+## Bibliotheekdiensten
+
+<details>
+
+<summary>[afgerond] IBL diensten – Bevraging en lancering vervanger oude dropbox: Deliver<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+
+De oude Dropbox bestond al erg lang en was onveilig en moest dringend vervangen worden voor deze niet meer ondersteund kon worden. Het product werd hevig gebruikt om interbibliothecair leenverkeer vlot te ondersteunen.\
+\
+Om die reden was het erg belangrijk omd e faculteitsbibliotheken nauw te betrekken bij de vervanging van dit product.\
+\
+Meer informatie:\
+[deliver](../../producten-en-diensten/deliver/ "mention")
+
+</details>
 
 ## Externe software
 
 <details>
 
-<summary>[aan het werk] Traject vervanging Aleph: toetsen van vereisten met faculteitsbibliotheken</summary>
+<summary>[aan het werk] Traject vervanging Aleph: toetsen van vereisten met faculteitsbibliotheken<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
 
 Aleph is toe aan vervanging. Het is belangrijk dat we begrijpen waar de Faculteitsbibliotheken nood aan hebben om de juiste keuze te kunnen maken.
-
-</details>
-
-
-
-## Archivering
-
-<details>
-
-<summary>[aan het werk] -</summary>
-
-\-
 
 </details>
 
@@ -94,23 +131,26 @@ We meten het gebruik van onze webapplicaties en inhoud om onze diensten te versc
 
 </details>
 
-\[later op de radar] Vereenvoudigen van datastromen over verschillende applicaties heen
-
 ## Doorlopende verantwoordelijkheden
 
 De wereld stopt niet met draaien. We zitten in een context waar onze verantwoordelijkheid van die aard is dat we diensten en producten niet zomaar "on hold" kunnen zetten.
 
 <details>
 
-<summary>Onderhoud en ondersteuning voor software oplossingen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
+<summary>Onderhoud en ondersteuning voor software oplossingen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
 
 *   **Nodig onderhoud van onderliggende technische systemen.** We zorgen ervoordat onze onderliggende systemen veilig en robuust blijven.
 
-    _Vb. front-end framework upgrades: Bootstrap 5, server upgrades: librecat -> CentOS, serverpark migraties, back-ups, object store, CraftCMS, opvolging Inuits... Wegmigreren van oude software_\
+    _Vb. front-end framework upgrades: Bootstrap 5, server upgrades: librecat -> CentOS, serverpark migraties, back-ups, object store, CraftCMS, opvolging Inuits... Wegmigreren van oude software, archivering van historische Bibliotheekaanvragen_\
 
 * **Derde lijn ondersteuning van bestaande software oplossingen**: Biblio, Deliver, Lib, IIIF, Shared Canvas, DMP online (ondersteuning uitfasering), LibAdmin, logisitiek systeem, GREP.
   * **Ondersteuning** bij nieuwe functionaliteiten of veranderingen binnen bestaande producten. _Vb. Biblio, Deliver, Lib_
-  * **Inschatten** van (nieuwe) noden en gevraagde oplossingen, over alle producten heen.
+  * **Inschatten** van (nieuwe) noden en gevraagde oplossingen, over alle producten heen.\
+
+* **Inbakken van automatische testen** van gebouwde oplossingen om eventuele fouten voortijdig op te kunnen sporen.\
+
+* Samenwerking tussen verschillende UGent diensten ondersteunen en gebruik maken van gedeelde infrastructuur.\
+  _Vb. Piwik, samenwerking Inuits, Vault ..._
 
 </details>
 
@@ -139,3 +179,46 @@ Onze diensten en producten worden niet in een silo gebouwd.
   _Vb. iPress2021, PIDs, VOGIN-IP_
 
 </details>
+
+***
+
+## Later op de radar
+
+### Onderzoeksdiensten
+
+\[later op de radar] Standaardisering en verbetering zoekinfrastructuur als gedeelde dienst voor verschillende bibliotheekoplossingen\
+\[later op de radar] Verrijken van organisaties en projecten informatie in Biblio: samenwerking met GISMO\
+\[later op de radar] UGent memorialis transfer\
+\[later op de radar] Infrastructuur hoge beschikbaarheid: zorgen dat onze producten zo bereikbaar en duurzaam mogelijk zijn\
+\[later op de radar] GDPR en legale vereisten, gedeeld over producten en diensten
+
+### Bibliotheekdiensten
+
+* Flow print-bestellingen, flow e-bookbestellingen, flowable upgrades
+* Eliot servers uitschakelen
+* Bezoekersaccounts en Externe online inschrijvingen
+
+### Erfgoed en Boekentoren
+
+* Erfgoed data-hub
+* Data GUM – BKT samenbrengen strategie voor erfgoedportaal
+* Pre-ingest interface
+* Collectie Virginie Loveling
+* Glasplatencollectie
+* OJS servers uit
+
+### Archivering
+
+* Server upgrades, serverpark migraties
+* Google Books
+
+### Library analytics
+
+* Vereenvoudigen van datastromen over verschillende applicaties heen
+* DICT graylog infrastructur
+
+### Doorlopende verantwoordelijkheden
+
+* Kennisopbouw en gedeelde infrastructuur experiment:
+  * Asynchrone batch-operaties
+  * Beslissng deadlien: orchestrator / dispatcher service
