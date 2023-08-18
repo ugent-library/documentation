@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>[aan het werk] Verrijken van personen informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
+<summary>[aan het werk] Verrijken van personen informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
 
 Momenteel houden verschillende producten binnen de UGent data bij over personen om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
@@ -14,17 +14,17 @@ Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen 
 
 <details>
 
-<summary>[aan het werk] Automatisering van doorstroom data: Plato case<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
+<summary>[aan het werk] Automatisering van doorstroom data: Plato case<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
 
 \-
 
 </details>
 
-## Erfgoed
+## Erfgoed & Boekentoren
 
 <details>
 
-<summary>[aan het werk] Concept "<em>open erfgoedportaal</em>"</summary>
+<summary>[aan het werk] Concept "<em>open erfgoedportaal</em>"<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark>  <mark style="color:green;"><code>laagdrempelig</code></mark>  <mark style="color:green;"><code>inclusief</code></mark></summary>
 
 We werken de "waarom" van dienst en het product samen uit. De "hoe" is pas van toepassing in een latere fase.
 
@@ -37,11 +37,15 @@ Later op de radar: Inschatten van technische impact.
 
 <details>
 
-<summary>[aan het werk] Verrijking van erfgoedcollectie</summary>
+<summary>[aan het werk] Verrijking van erfgoedcollectie<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
-\-
+Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.
 
 </details>
+
+\[later op de radar] Pre-ingest interface\
+\[later op de radar] Collectie Virginie Loveling\
+\[later op de radar] Glasplatencollectie
 
 ## Externe software
 
@@ -53,6 +57,8 @@ Later op de radar: Inschatten van technische impact.
 
 </details>
 
+##
+
 ## Archivering
 
 <details>
@@ -63,25 +69,17 @@ Later op de radar: Inschatten van technische impact.
 
 </details>
 
-## Analyse en inzichten bibliotheek
+## Library Analytics
 
 <details>
 
-<summary>[aan het werk] -</summary>
+<summary>[afgerond] Vervanging custom Google Analytics tracking met UGent Piwik integratie<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <code>persoonlijke aanpak</code>  <code>ondersteund door technologie</code></summary>
 
-\-
-
-</details>
-
-## Herbruikbare componenten, diensten en experimenten
-
-<details>
-
-<summary>[aan het werk] -</summary>
-
-\-
+We meten het gebruik van onze webapplicaties en inhoud om onze diensten te verscherpen en inzichten te krijgen. Dit verliep momenteel door een custom Google Analytics integratie. We brengen dit in lijn met de UGent oplossingen.
 
 </details>
+
+\[later op de radar] Vereenvoudigen van datastromen over verschillende applicaties heen
 
 ## Doorlopende verantwoordelijkheden
 
@@ -93,7 +91,7 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
 
 *   **Nodig onderhoud van onderliggende technische systemen.** We zorgen ervoordat onze onderliggende systemen veilig en robuust blijven.
 
-    _Vb. front-end framework upgrades: Bootstrap 5, server upgrades: librecat -> CentOS, serverpark migraties, back-ups, object store, CraftCMS, opvolging Inuits..._\
+    _Vb. front-end framework upgrades: Bootstrap 5, server upgrades: librecat -> CentOS, serverpark migraties, back-ups, object store, CraftCMS, opvolging Inuits... Wegmigreren van oude software_\
 
 * **Derde lijn ondersteuning van bestaande software oplossingen**: Biblio, Deliver, Lib, IIIF, Shared Canvas, DMP online (ondersteuning uitfasering), LibAdmin, logisitiek systeem, GREP.
   * **Ondersteuning** bij nieuwe functionaliteiten of veranderingen binnen bestaande producten. _Vb. Biblio, Deliver, Lib_
@@ -119,9 +117,11 @@ Deze documentatie zorgt er ook voor dat er **standaarden** ontstaan waarmee we o
 
 Onze diensten en producten worden niet in een silo gebouwd.
 
-* **Consumeren**: bijvoorbeeld lezen en conferenties bijwonen.
+* **Consumeren**: bijvoorbeeld lezen en conferenties bijwonen.\
+  _Vb. Typesense onderzoek, Trubo front-end technieken_
 * **Experimenteren** en proberen: kennis die we vergaren in de praktijk omzetten zonder klakkeloos te kopiëren.
-* **Delen en verbeteren**: actief feedback zoeken van onze sector door kennis te delen, bijvoorbeeld door schrijven en spreken.
+* **Delen en verbeteren**: actief feedback zoeken van onze sector door kennis te delen, bijvoorbeeld door schrijven en spreken.\
+  _Vb. iPress2021, PIDs, VOGIN-IP_
 
 </details>
 
