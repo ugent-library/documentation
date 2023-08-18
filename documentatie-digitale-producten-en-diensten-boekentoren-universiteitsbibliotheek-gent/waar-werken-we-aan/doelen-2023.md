@@ -19,7 +19,9 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
 
 <summary>Communicatie over en documentatie van noden, oplossingen en processen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark>  <mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
 
-**We documenteren en communiceren met regelmaat** om ervoor te zorgen dat onze teams kunnen werken en weten hoe de talloze producten en diensten in elkaar zitten – ook wanneer er nieuwe teamleden zijn of wanneer er een teamlid vertrekt. Dit kan aan de hand van bijvoorbeeld documentatie en release notes.
+**We documenteren en communiceren met regelmaat** om ervoor te zorgen dat onze teams kunnen werken en weten hoe de talloze producten en diensten in elkaar zitten – ook wanneer er nieuwe teamleden zijn of wanneer er een teamlid vertrekt. Dit kan aan de hand van bijvoorbeeld documentatie en release notes.\
+\
+Deze documentatie zorgt er ook voor dat er **standaarden** ontstaan waarmee we ontwikkelen, zodat onze oplossingen beter op te volgen zijn.
 
 </details>
 
