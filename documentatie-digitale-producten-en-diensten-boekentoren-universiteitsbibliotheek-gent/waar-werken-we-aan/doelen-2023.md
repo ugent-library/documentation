@@ -16,7 +16,22 @@ Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen 
 
 <summary>[aan het werk] Automatisering van doorstroom data: Plato case<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
 
-\-
+Plato verzamelt, net zoals Biblio, dissertaties. Het delen van die informatie gebeurt nu echter manueel door leden van de Boekentoren, onderzoeksmedewerkers of wordt gewoon manueel ingegeven.\
+\
+Fase 1: designfase + design testfase (afgerond)\
+Fase 2: eerste klikbare prototype + prototype testfase (bijna afgerond)\
+Fase 3: eerst werkende prototype (aan te starten)\
+Fase 4: lancering eerste verbeteringen
+
+</details>
+
+<details>
+
+<summary>[aan het werk] Geautomatiseerde communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark></summary>
+
+De applicatie Biblio geeft heel erg weinig automatische feedback. Je wordt niet op de hooggte gebracht van research resultaten die werden toegevoegd aan jouw profiel door anderen, of wanneer er iets ontbreekt.\
+\
+We werken aan workflows en notificaties. Dit kan hergebruikt worden door diensten zoals Deliver.
 
 </details>
 
