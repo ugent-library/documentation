@@ -1,26 +1,87 @@
 # Doelen 2023
 
-## Verrijken en hergebruik van data
+## Onderzoeksdiensten
 
-## Communicatie naar publiek over onze erfgoedcollectie
+<details>
 
-* Concept open erfgoed portaal
+<summary>[aan het werk] Verrijken van personen informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
 
-## Verrijking van erfgoedcollectie
+Momenteel houden verschillende producten binnen de UGent data bij over personen om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
+\
+Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).
 
+</details>
 
+<details>
+
+<summary>[aan het werk] Automatisering van doorstroom data: Plato case<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
+
+\-
+
+</details>
+
+## Erfgoed
+
+<details>
+
+<summary>[aan het werk] Concept "<em>open erfgoedportaal</em>"</summary>
+
+We werken de "waarom" van dienst en het product samen uit. De "hoe" is pas van toepassing in een latere fase.
+
+* Conceptualisering van erfgoedportaal aan de hand van digitale klikbare schetsen
+* Workshops en feedbacksessies met GUM om dienst en product scherp te stellen
+
+Later op de radar: Inschatten van technische impact.
+
+</details>
+
+<details>
+
+<summary>[aan het werk] Verrijking van erfgoedcollectie</summary>
+
+\-
+
+</details>
 
 ## Externe software
 
-* Traject vervanging Aleph
+<details>
+
+<summary>[aan het werk] Traject vervanging Aleph: toetsen vereisten met faculteitsbibliotheken</summary>
+
+\-
+
+</details>
 
 ## Archivering
 
+<details>
+
+<summary>[aan het werk] -</summary>
+
+\-
+
+</details>
+
 ## Analyse en inzichten bibliotheek
+
+<details>
+
+<summary>[aan het werk] -</summary>
+
+\-
+
+</details>
 
 ## Herbruikbare componenten, diensten en experimenten
 
-* Piwik
+<details>
+
+<summary>[aan het werk] -</summary>
+
+\-
+
+</details>
 
 ## Doorlopende verantwoordelijkheden
 
@@ -30,10 +91,12 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
 
 <summary>Onderhoud en ondersteuning voor software oplossingen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
 
-* **Nodig onderhoud van onderliggende technische systemen.** We zorgen ervoordat onze onderliggende systemen veilig en robuust blijven.
-  * Vb. front-end framework upgrades: Bootstrap 5, server upgrades: librecat -> CentOS, serverpark migraties, back-ups, object store, ...
+*   **Nodig onderhoud van onderliggende technische systemen.** We zorgen ervoordat onze onderliggende systemen veilig en robuust blijven.
+
+    _Vb. front-end framework upgrades: Bootstrap 5, server upgrades: librecat -> CentOS, serverpark migraties, back-ups, object store, CraftCMS, opvolging Inuits..._\
+
 * **Derde lijn ondersteuning van bestaande software oplossingen**: Biblio, Deliver, Lib, IIIF, Shared Canvas, DMP online (ondersteuning uitfasering), LibAdmin, logisitiek systeem, GREP.
-  * **Ondersteuning** bij nieuwe functionaliteiten of veranderingen binnen bestaande producten. Vb. Biblio, Deliver, Lib
+  * **Ondersteuning** bij nieuwe functionaliteiten of veranderingen binnen bestaande producten. _Vb. Biblio, Deliver, Lib_
   * **Inschatten** van (nieuwe) noden en gevraagde oplossingen, over alle producten heen.
 
 </details>
