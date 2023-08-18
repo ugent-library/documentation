@@ -26,7 +26,7 @@ Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen 
 
 <summary>[aan het werk] Concept "<em>open erfgoedportaal</em>"<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark>  <mark style="color:green;"><code>laagdrempelig</code></mark>  <mark style="color:green;"><code>inclusief</code></mark></summary>
 
-We werken de "waarom" van dienst en het product samen uit. De "hoe" is pas van toepassing in een latere fase.
+We werken de "waarom" van de dienst "open erfgoedportaal" samen uit met het GUM. We ontdekken hier welk publiek hier waarom nood aan heeft en waar we overlap zien vanuit het GUM en de Boekentoren. De "hoe" is pas van toepassing in een latere fase.
 
 * Conceptualisering van erfgoedportaal aan de hand van digitale klikbare schetsen
 * Workshops en feedbacksessies met GUM om dienst en product scherp te stellen
@@ -37,7 +37,7 @@ Later op de radar: Inschatten van technische impact.
 
 <details>
 
-<summary>[aan het werk] Verrijking van erfgoedcollectie<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary>[aan het werk] Verrijking van erfgoedcollectie: digitale donaties via hardware ondersteunen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
 Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.
 
@@ -51,13 +51,13 @@ Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de B
 
 <details>
 
-<summary>[aan het werk] Traject vervanging Aleph: toetsen vereisten met faculteitsbibliotheken</summary>
+<summary>[aan het werk] Traject vervanging Aleph: toetsen van vereisten met faculteitsbibliotheken</summary>
 
-\-
+Aleph is toe aan vervanging. Het is belangrijk dat we begrijpen waar de Faculteitsbibliotheken nood aan hebben om de juiste keuze te kunnen maken.
 
 </details>
 
-##
+
 
 ## Archivering
 
@@ -124,4 +124,3 @@ Onze diensten en producten worden niet in een silo gebouwd.
   _Vb. iPress2021, PIDs, VOGIN-IP_
 
 </details>
-
