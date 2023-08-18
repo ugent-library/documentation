@@ -49,7 +49,7 @@ De centrale universiteitsbibliotheek en de faculteitsbibliotheken werken hier sa
 
 <details>
 
-<summary>4. Duurzame innovatie en dienstverlening:<br>vruchtbaar, onderhoudbaar, schaalbaar, veilig<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
+<summary>4. Duurzame innovatie en dienstverlening:<br>vruchtbaar, onderhoudbaar, schaalbaar, veilig<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
 
 Er moet **voldoende vraag, nood, impact en gebruik** zijn voor we een dienst aanbieden of feature bouwen die onderhoud en tijd vraagt. Soms is nee zeggen duurzamer.\
 \
