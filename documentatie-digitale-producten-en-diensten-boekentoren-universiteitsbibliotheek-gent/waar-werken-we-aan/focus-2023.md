@@ -1,4 +1,8 @@
-# Doelen 2023
+---
+description: Waarde eerst. Tijd is relatief, de wereld blijft draaien.
+---
+
+# Focus 2023
 
 ## Onderzoeksdiensten
 
