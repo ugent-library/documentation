@@ -201,7 +201,7 @@ Onze diensten en producten worden niet in een silo gebouwd.
 ### Erfgoed en Boekentoren
 
 * Erfgoed data-hub
-* Data GUM – BKT samenbrengen strategie voor erfgoedportaal
+* Consult code GUM – BKT samenbrengen strategie voor erfgoedportaal
 * Pre-ingest interface
 * Collectie Virginie Loveling
 * Glasplatencollectie
@@ -221,4 +221,4 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 * Kennisopbouw en gedeelde infrastructuur experiment:
   * Asynchrone batch-operaties
-  * Beslissng deadlien: orchestrator / dispatcher service
+  * Beslissing deadline: orchestrator / dispatcher service
