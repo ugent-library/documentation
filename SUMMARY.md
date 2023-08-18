@@ -24,7 +24,7 @@
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
 * [Deledda](producten-en-diensten/deledda/README.md)
   * [Deledda Handleiding](producten-en-diensten/deledda/deledda-handleiding.md)
-* [Product template](producten-en-diensten/product-template.md)
+* [Product/dienst template](producten-en-diensten/product-dienst-template.md)
 
 ## 🧑🚀 Technologie en ondersteunende tooling
 
