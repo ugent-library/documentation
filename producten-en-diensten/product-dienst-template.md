@@ -27,20 +27,22 @@ Links naar externe handleidingen: hoe krijg je toegang en hoe werkt het (interne
 ## Technische documentatie en code
 
 <mark style="color:purple;">`Voor: developers, technische partners`</mark>\
-_Informerende, eerder statische informatie._
+_Type informatie: inventaris, informerende, eerder statische informatie_\
+_Zichtbaarheid: afhankelijk. Kan publiek of verborgen zijn._
 
 **Links naar**
 
 *   Repository (op github) – code comments, readme, installation, cli instructions, howto's.
 
     _Snel evoluerende informatie._
-* Wiki's\
+* Wiki's (github.ugent)\
   _Informerende, eerder statische informatie._
 *   Technische release notes
 
     _Snel evoluerende informatie._
-* Gebruikte technologie en verbanden\
+* Gebruikte technologie\
   _Informerende, eerder statische informatie._
+* Verbanden en samenwerkingen met derden
 * Team samenwerking en technische afspraken (code structuur, hoe deployen, branching, ...)\
   _Informerende, eerder statische informatie._
 
