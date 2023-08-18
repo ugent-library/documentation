@@ -1,4 +1,4 @@
-# Doelen 2022
+# Focus 2022
 
 ## Vernieuwing Biblio
 
@@ -8,9 +8,7 @@
 
 ## Opstart vervanging "Oude Dropbox"
 
-Technische analyse
-
-Doelen
+Technische analyse + Doelen
 
 {% content-ref url="../../producten-en-diensten/deliver/" %}
 [deliver](../../producten-en-diensten/deliver/)

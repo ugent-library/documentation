@@ -121,7 +121,9 @@ Meer informatie:\
 
 <summary>[aan het werk] Traject vervanging Aleph: toetsen van vereisten met faculteitsbibliotheken<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
 
-Aleph is toe aan vervanging. Het is belangrijk dat we begrijpen waar de Faculteitsbibliotheken nood aan hebben om de juiste keuze te kunnen maken.
+Aleph is toe aan vervanging. Het is belangrijk dat we begrijpen waar de Faculteitsbibliotheken nood aan hebben om de juiste keuze te kunnen maken.\
+\
+Meer informatie: [https://teams.microsoft.com/l/channel/19%3aN8Mcn\_GoTBcJ7UoTLEX17kmy8-Pcsw-7IMsn5k8UBcs1%40thread.tacv2/General?groupId=471e228f-fcb7-4a2f-b7d0-a9b85b8f0b58\&tenantId=d7811cde-ecef-496c-8f91-a1786241b99c](https://teams.microsoft.com/l/channel/19%3aN8Mcn\_GoTBcJ7UoTLEX17kmy8-Pcsw-7IMsn5k8UBcs1%40thread.tacv2/General?groupId=471e228f-fcb7-4a2f-b7d0-a9b85b8f0b58\&tenantId=d7811cde-ecef-496c-8f91-a1786241b99c)
 
 </details>
 
