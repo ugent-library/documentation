@@ -5,7 +5,7 @@
   * [High-level dienstenoverzicht](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/high-level-dienstenoverzicht.md)
   * [Waar werken we aan](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/README.md)
     * [Focus 2023](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/doelen-2023.md)
-    * [Focus 2022](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/focus-2022.md)
+    * [Focus 2022](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/doelen-2022.md)
     * [Overzicht te vernieuwen producten en diensten](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/overzicht-te-vernieuwen-producten-en-diensten.md)
 
 ## 💻 Producten en diensten

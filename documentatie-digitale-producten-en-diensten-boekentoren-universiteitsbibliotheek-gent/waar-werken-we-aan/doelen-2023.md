@@ -20,9 +20,11 @@ Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen 
 
 <details>
 
-<summary>[aan het werk] Automatisering van doorstroom data: Plato case administratieve vereenvoudiging<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
+<summary>[aan het werk] Automatisering en administratieve vereenvoudiging: automatische doorstroom van dissertaties uit Plato<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
 
-Plato verzamelt, net zoals Biblio, dissertaties. Het delen van die informatie gebeurt nu echter manueel door leden van de Boekentoren, onderzoeksmedewerkers of wordt gewoon manueel ingegeven.\
+Plato verzamelt, net zoals Biblio, dissertaties. Het delen van die informatie gebeurt nu echter manueel door leden van de Boekentoren, onderzoeksmedewerkers of wordt gewoon manueel ingegeven. Hier gebeurt enorm veel dubbel werk.\
+\
+Plato is de eerste case die we gebruiken. We willen dit ook graag toepassen op andere diensten.\
 \
 Fase 1: designfase + design testfase (afgerond)\
 Fase 2: eerste klikbare prototype + prototype testfase (bijna afgerond)\
@@ -189,6 +191,8 @@ Onze diensten en producten worden niet in een silo gebouwd.
 ***
 
 ## Later op de radar
+
+2024 en later.
 
 ### Onderzoeksdiensten
 
