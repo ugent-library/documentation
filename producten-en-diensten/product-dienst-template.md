@@ -24,6 +24,21 @@ _Type: Informerende, eerder statische informatie._
 Links naar interne handleidingen: hoe krijg je toegang en hoe werkt het (externen).\
 Links naar externe handleidingen: hoe krijg je toegang en hoe werkt het (internen).
 
+### Menselijke release notes
+
+`Voor: doelpubliek van product/dienst + interne medewerkers + faculteitsmedewerkers + interne technische partners`\
+_Type: Informerende, vluchtige informatie_
+
+Links naar: Wat is er nieuw? Waar moet je op letten?
+
+### Product informatie
+
+`Voor: interne technische partners`\
+_Type: Informerende, statische informatie_
+
+* Verbanden tussen producten
+* Wat leeft er in de infrastructuur
+
 ## Technische documentatie en code
 
 <mark style="color:purple;">`Voor: developers, technische partners`</mark>\
@@ -32,7 +47,7 @@ _Zichtbaarheid: afhankelijk. Kan publiek of verborgen zijn._
 
 **Links naar**
 
-*   Repository (op github) – code comments, readme, installation, cli instructions, howto's.
+*   Repository (op github) – waarvoor en hoe gebruik je deze technologie, code comments, readme, installation, cli instructions, howto's.
 
     _Snel evoluerende informatie._
 * Wiki's (github.ugent)\
@@ -40,25 +55,36 @@ _Zichtbaarheid: afhankelijk. Kan publiek of verborgen zijn._
 *   Technische release notes
 
     _Snel evoluerende informatie._
-* Gebruikte technologie\
-  _Informerende, eerder statische informatie._
-* Verbanden en samenwerkingen met derden
-* Team samenwerking en technische afspraken (code structuur, hoe deployen, branching, ...)\
-  _Informerende, eerder statische informatie._
 
-## API instructies
+### Technische infrastructuur documenten
 
 <mark style="color:purple;">`Voor: developers, technische partners`</mark>\
-_Informerende, eerder statische informatie._
+_Type informatie: informerende, eerder statische informatie._\
+_Zichtbaarheid: verborgen voor de buitenwereld_
 
-_Links naar:_
-
-* _Hoe integreren._
-* _Eventuele technische documentatie._
+* Gebruikte technologieën
+* Howto's
+* Technische verbanden en samenwerkingen met derden
+* Team samenwerking en technische afspraken (code structuur, hoe deployen, branching, ...)
+*
 
 ## Samenwerkingsverbanden
 
-<mark style="color:purple;">`Voor: developer, technische partners, hergebruikers van informatie en andere partners`</mark>\
-_Informerende, eerder statische informatie._
+<mark style="color:purple;">`Voor: developers, technische partners, hergebruikers van informatie en product partners`</mark>\
+_Type informatie: informerende, eerder statische informatie._\
+_Zichtbaarheid: interne API is verborgen, externe API open en gedocumenteerd_
 
-Wie gebruikt welke data van wie. Consumeren mensen van ons, consumeren wij van anderen? Eventuele technische documentatie links.
+Wie gebruikt welke data van wie. Consumeren mensen van ons, consumeren wij van anderen?&#x20;
+
+Links naar:
+
+* Hoe integreren
+* API instructies
+
+### Belangrijke werkdocumenten
+
+<mark style="color:purple;">`Voor: iedereen die er aan meewerkt`</mark>\
+_Type informatie: tussenstation, zeer vluchtig, moet uiteindelijk in statische informatie veranderen._\
+_Zichtbaarheid: verborgen voor de buitenwereld._
+
+Kan van alles zijn.

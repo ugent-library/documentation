@@ -42,9 +42,5 @@
 
 ## 🤝 Processen en teams
 
-* [Documentatie](processen-en-teams/documentatie.md)
-* [Helpdesk](processen-en-teams/helpdesk/README.md)
-  * [Documenteren & Rapporteren](processen-en-teams/helpdesk/documenteren-and-rapporteren.md)
-* [Ontwikkel- en innovatieteam \[EN\]](processen-en-teams/ontwikkel-en-innovatieteam-en/README.md)
-  * [GitHub Integration](processen-en-teams/ontwikkel-en-innovatieteam-en/github-integration.md)
-  * [Figma Integration](processen-en-teams/ontwikkel-en-innovatieteam-en/figma-integration.md)
+* [Show & tell & inspiration](processen-en-teams/show-and-tell-and-inspiration.md)
+* [Documentatie hulp](processen-en-teams/documentatie-hulp.md)
