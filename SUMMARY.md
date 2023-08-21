@@ -24,7 +24,6 @@
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
 * [Deledda](producten-en-diensten/deledda/README.md)
   * [Deledda Handleiding](producten-en-diensten/deledda/deledda-handleiding.md)
-* [Product/dienst template](producten-en-diensten/product-dienst-template.md)
 
 ## 🧑🚀 Technologie en ondersteunende tooling
 
@@ -43,4 +42,5 @@
 ## 🤝 Processen en teams
 
 * [Show & tell & inspiration](processen-en-teams/show-and-tell-and-inspiration.md)
-* [Documentatie hulp](processen-en-teams/documentatie-hulp.md)
+* [Documentatie hulp](processen-en-teams/documentatie-hulp/README.md)
+  * [Product/dienst template](processen-en-teams/documentatie-hulp/product-dienst-template.md)
