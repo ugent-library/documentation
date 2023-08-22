@@ -16,6 +16,7 @@
   * [Handleidingen](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/README.md)
     * [Batch operaties](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/batch-operaties.md)
     * [Help, deze DOI werkt niet](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/help-deze-doi-werkt-niet.md)
+  * [Woordenlijst](producten-en-diensten/biblio-academische-bibliografie-en-repository/woordenlijst.md)
 * [Deliver](producten-en-diensten/deliver/README.md)
   * [Deliver handleiding](producten-en-diensten/deliver/deliver-handleiding.md)
   * [Deliver product flow](producten-en-diensten/deliver/deliver-product-flow.md)
