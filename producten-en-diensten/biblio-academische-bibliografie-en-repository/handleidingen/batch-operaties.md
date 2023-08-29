@@ -52,6 +52,12 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 * 8701504,keyword.remove,dna&#x20;
 * 8701504,reviewer\_tag.add,esci&#x20;
 * 8701504,reviewer\_tag.remove,esci
+* 8701504,journal\_title.set,"my journal"
+* 8701504,journal\_abbreviation.set,"my journal abbreviation"
+* 8701504,isbn.add,"0268-1161" 1234,isbn.remove,"0268-1161"
+* 8701504,eisbn.add,"0268-1161" 1234,eisbn.remove,"0268-1161"
+* 8701504,issn.add,"0268-1161" 1234,issn.remove,"0268-1161"
+* 8701504,eissn.add,"0268-1161" 1234,eissn.remove,"0268-1161"
 
 ### Projecten toevoegen
 
