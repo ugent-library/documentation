@@ -59,6 +59,8 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 * 8701504,issn.add,"0268-1161" 1234,issn.remove,"0268-1161"
 * 8701504,eissn.add,"0268-1161" 1234,eissn.remove,"0268-1161"
 
+🚨 Niet elke operatie werkt voor elk type publicatie, de velden moeten beschikbaar zijn.
+
 ### Projecten toevoegen
 
 8701504,`project.add`,001D04503
@@ -86,7 +88,37 @@ Instellen: 8701504,`classification.set`,A2
 ### Reviewer tags toevoegen en verwijderen
 
 Toevoegen: 8701504,`reviewer_tag.add`,esci\
-Verwijderen :8701504,`reviewer_tag.remove`,esci
+Verwijderen: 8701504,`reviewer_tag.remove`,esci
+
+### Journal title toevoegen
+
+Toevoegen: 8701504,`journal_title.set`,"my journal"
+
+### Journal abbreviation toevoegen
+
+Toevoegen: 8701504,`journal_abbreviation.set`,"my journal abbreviation"
+
+### ISBN, eISBN, ISSN, eISSN title toevoegen en verwijderen
+
+#### ISBN
+
+Toevoegen: 8701504,`isbn.add`,"0268-1161"\
+Verwijderen: 8701504,`isbn.remove`,"0268-1161"
+
+#### eISBN
+
+Toevoegen: 8701504,`eisbn.add`,"0268-1161"\
+Verwijderen: 8701504,`eisbn.remove`,"0268-1161"
+
+#### ISSN
+
+Toevoegen: 8701504,`issn.add`,"0268-1161"\
+Verwijderen: 8701504,`issn.remove`,"0268-1161"
+
+#### eISSN
+
+Toevoegen: 8701504,`eissn.add`,"0268-1161"\
+Verwijderen: 8701504,`eissn.remove`,"0268-1161"
 
 ### _Wat is er nog mogelijk?_
 
