@@ -10,7 +10,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary>[aan het werk] Verrijken van personen informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Verrijken van personen informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
 
 Momenteel houden verschillende producten binnen de UGent data bij over personen om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
@@ -20,7 +20,7 @@ Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen 
 
 <details>
 
-<summary>[aan het werk] Automatisering en administratieve vereenvoudiging: automatische doorstroom van dissertaties uit Plato<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Automatisering en administratieve vereenvoudiging: automatische doorstroom van dissertaties uit Plato<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
 
 Plato verzamelt, net zoals Biblio, dissertaties. Het delen van die informatie gebeurt nu echter manueel door leden van de Boekentoren, onderzoeksmedewerkers of wordt gewoon manueel ingegeven. Hier gebeurt enorm veel dubbel werk.\
 \
@@ -35,7 +35,7 @@ Fase 4: lancering eerste verbeteringen
 
 <details>
 
-<summary>[aan het werk] Geautomatiseerde communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Geautomatiseerde communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark></summary>
 
 De applicatie Biblio geeft heel erg weinig automatische feedback. Je wordt niet op de hooggte gebracht van research resultaten die werden toegevoegd aan jouw profiel door anderen, of wanneer er iets ontbreekt.\
 \
@@ -45,7 +45,7 @@ We werken aan workflows en notificaties. Dit kan hergebruikt worden door dienste
 
 <details>
 
-<summary>[aan het werk] Design administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Design administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
 
 We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
 \
@@ -57,7 +57,7 @@ We richten ons ook op het tijdig vinden van duplicate informatie.
 
 <details>
 
-<summary>[afgerond] Betere doorstroom van informatie naar hergebruikers<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+<summary><code>✨ afgerond</code> Betere doorstroom van informatie naar hergebruikers<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
 
 We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
 
@@ -65,7 +65,7 @@ We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informat
 
 <details>
 
-<summary>[afgerond] Doorstroom informatie GISMO – FRIS voor KPIs<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+<summary><code>✨ afgerond</code>Doorstroom informatie GISMO – FRIS voor KPIs<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
 
 We zorgen dat informatie op een standaard manier wordt aangeleverd aan GISMO, zodat zij de informatie op hun beurt kunnen delen met FRIS. FRIS gebruikt bepaalde standaarden om metingen te doen (KPIs) die ingezet worden (nu of later) om subsidies mee te verdelen.
 
@@ -73,7 +73,7 @@ We zorgen dat informatie op een standaard manier wordt aangeleverd aan GISMO, zo
 
 <details>
 
-<summary>[afgerond] Manueel toevoegen datasets + research output weergave in biblio front-office<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark><br><mark style="color:green;"><code>laagdrempelig</code></mark></summary>
+<summary><code>✨ afgerond</code> Manueel toevoegen datasets + research output weergave in biblio front-office<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark><br><mark style="color:green;"><code>laagdrempelig</code></mark></summary>
 
 We kunnen niet integereren met alle repositories van datasets, maar we moeten mensen wel de optie geven om datasets toe te voegen om te voldoen aan het publicatiebeleid. Als eerste stap geven we de mogelijkheid om datasets manueel toe te voegen, maar maken het toekomstgericht door latere automatisatie mogelijk te maken.
 
@@ -83,7 +83,7 @@ We kunnen niet integereren met alle repositories van datasets, maar we moeten me
 
 <details>
 
-<summary>[aan het werk] Concept "<em>open erfgoedportaal</em>"<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark>  <mark style="color:green;"><code>laagdrempelig</code></mark>  <mark style="color:green;"><code>inclusief</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Concept "<em>open erfgoedportaal</em>"<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark>  <mark style="color:green;"><code>laagdrempelig</code></mark>  <mark style="color:green;"><code>inclusief</code></mark></summary>
 
 We werken de "waarom" van de dienst "open erfgoedportaal" samen uit met het GUM. We ontdekken hier welk publiek hier waarom nood aan heeft en waar we overlap zien vanuit het GUM en de Boekentoren. De "hoe" is pas van toepassing in een latere fase.
 
@@ -96,7 +96,7 @@ Later op de radar: Inschatten van technische impact.
 
 <details>
 
-<summary>[aan het werk] Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
 Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.
 
@@ -106,7 +106,7 @@ Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de B
 
 <details>
 
-<summary>[afgerond] IBL diensten – Bevraging en lancering vervanger oude dropbox: Deliver<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+<summary><code>✨ afgerond</code> IBL diensten – Bevraging en lancering vervanger oude dropbox: Deliver<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
 
 De oude Dropbox bestond al erg lang en was onveilig en moest dringend vervangen worden voor deze niet meer ondersteund kon worden. Het product werd hevig gebruikt om interbibliothecair leenverkeer vlot te ondersteunen.\
 \
@@ -121,7 +121,7 @@ Meer informatie:\
 
 <details>
 
-<summary>[aan het werk] Traject vervanging Aleph: toetsen van vereisten met faculteitsbibliotheken<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Traject vervanging Aleph: toetsen van vereisten met faculteitsbibliotheken<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
 
 Aleph is toe aan vervanging. Het is belangrijk dat we begrijpen waar de Faculteitsbibliotheken nood aan hebben om de juiste keuze te kunnen maken.\
 \
@@ -133,9 +133,19 @@ Meer informatie: [https://teams.microsoft.com/l/channel/19%3aN8Mcn\_GoTBcJ7UoTLE
 
 <details>
 
-<summary>[afgerond] Vervanging custom Google Analytics tracking met UGent Piwik integratie<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <code>persoonlijke aanpak</code>  <code>ondersteund door technologie</code></summary>
+<summary><code>🏋️ aan het werk</code> Vervanging custom Google Analytics tracking met UGent Piwik integratie<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <code>persoonlijke aanpak</code>  <code>ondersteund door technologie</code></summary>
 
 We meten het gebruik van onze webapplicaties en inhoud om onze diensten te verscherpen en inzichten te krijgen. Dit verliep momenteel door een custom Google Analytics integratie. We brengen dit in lijn met de UGent oplossingen.
+
+</details>
+
+## Archivering & Digitalisering
+
+<details>
+
+<summary><code>✨ afgerond</code> Beter intern communiceren: Deledda<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+
+Handleiding voor de toekomst
 
 </details>
 
@@ -221,6 +231,14 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 * Server upgrades, serverpark migraties
 * Google Books
+
+<details>
+
+<summary><code>➡️ op de radar</code> Meemoo testing traject<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+
+🚧 onder constructie
+
+</details>
 
 ### Library analytics
 
