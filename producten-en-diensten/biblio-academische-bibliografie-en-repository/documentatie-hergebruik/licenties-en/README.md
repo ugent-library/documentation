@@ -1,6 +1,85 @@
 # Licenties \[EN]
 
+## Publication licenses
+
+We use [Creative Commons](https://creativecommons.org/about/cclicenses/) licenses for publications.
+
+### Capturing the license in the Biblio back office
+
+Each document type you add to a publication asks for a license:
+
+![](<../../../../.gitbook/assets/Screenshot 2023-09-12 at 17.17.46.png>)![](<../../../../.gitbook/assets/Screenshot 2023-09-12 at 17.18.05.png>)
+
+
+
+**Which license does the publication get?**\
+When adding multiple documents, the **full text** with the "**most open**" license is chosen as the license for the publication.
+
+### Sharing the license in the Biblio front office
+
+Find the license in the right column. The full license is displayed here.\
+Example: [https://biblio.ugent.be/publication/8772899](https://biblio.ugent.be/publication/8772899)
+
+![](<../../../../.gitbook/assets/Screenshot 2023-09-12 at 17.22.30.png>)
+
+### Exchange in the OAI protocol
+
+_Example in_ [_https://biblio.ugent.be/oai?verb=GetRecord\&identifier=01HA4JEMJZH1GV7RGVQAR7SRNQ\&metadataPrefix=mods\_36_](https://biblio.ugent.be/oai?verb=GetRecord\&identifier=01HA4JEMJZH1GV7RGVQAR7SRNQ\&metadataPrefix=mods\_36)
+
+You can find the license in the `<accessCondition>` field.
+
+* Creative Commons Public Domain Dedication\
+  (CC0 1.0)
+* Creative Commons Attribution 4.0 International Public License\
+  (CC-BY 4.0)
+* Creative Commons Attribution-ShareAlike 4.0 International Public License\
+  (CC BY-SA 4.0)
+* Creative Commons Attribution-NonCommercial 4.0 International Public License\
+  (CC BY-NC 4.0)
+* Creative Commons Attribution-NoDerivatives 4.0 International Public License\
+  (CC BY-ND 4.0)
+* Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License\
+  (CC BY-NC-SA 4.0)
+* Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License\
+  (CC BY-NC-ND 4.0)
+
+```
+<accessCondition lang="eng" type="useAndReproduction">
+    Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0)
+</accessCondition>
+```
+
+## Dataset licenses
+
+We exchange dataset licenses in an [`SPDX`](https://spdx.org/licenses/) format, to conform with the licenses exchanged with the Flemish government.
+
+You can find the license in the `<dcterms:license>` field.
+
+* `CC0-1.0`
+* `CC-BY-4.0`
+* `CC-BY-SA-4.0`
+* `CC-BY-NC-4.0`&#x20;
+* `CC-BY-ND-4.0`
+* `CC-BY-NC-SA-4.0`
+* `CC-BY-NC-ND-4.0`
+
+Example in [https://biblio.ugent.be/oai?verb=GetRecord\&identifier=01GP3RYHDBD42WS0C8Z5DY3CGN\&metadataPrefix=mods\_36](https://biblio.ugent.be/oai?verb=GetRecord\&identifier=01GP3RYHDBD42WS0C8Z5DY3CGN\&metadataPrefix=mods\_36)
+
+```
+<location>
+    <holdingExternal>
+        <dcterms:simpledc xmlns:dcterms="http://purl.org/dc/terms/">
+            <dcterms:accessRights>info:eu-repo/semantics/embargoedAccess</dcterms:accessRights>
+            <dcterms:license>CC-BY-4.0</dcterms:license>
+            <dcterms:format>application/pdf</dcterms:format>
+        </dcterms:simpledc>
+    </holdingExternal>
+</location>
+```
+
 ## License mappings
+
+### General
 
 | Back-office                                                                                                                                                                                                                    | Front-office (OAI protocol)                                                                                        | Location                            | Info                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
