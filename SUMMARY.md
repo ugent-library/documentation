@@ -12,7 +12,8 @@
 
 * [Biblio Academische Bibliografie en Repository](producten-en-diensten/biblio-academische-bibliografie-en-repository/README.md)
   * [Documentatie hergebruik](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/README.md)
-    * [Licenties \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/licenties-en.md)
+    * [Licenties \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/licenties-en/README.md)
+      * [Old Licence mappings \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/licenties-en/old-licence-mappings-en.md)
   * [Handleidingen](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/README.md)
     * [Batch operaties](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/batch-operaties.md)
     * [Help, deze DOI werkt niet](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/help-deze-doi-werkt-niet.md)
