@@ -14,7 +14,10 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 Momenteel houden verschillende producten binnen de UGent data bij over personen om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
-Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).
+Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).\
+\
+[https://github.com/ugent-library/biblio-backoffice/milestone/13](https://github.com/ugent-library/biblio-backoffice/milestone/13)\
+[https://github.com/ugent-library/people-service/issues](https://github.com/ugent-library/people-service/issues)
 
 </details>
 
@@ -29,7 +32,9 @@ Plato is de eerste case die we gebruiken. We willen dit ook graag toepassen op a
 Fase 1: designfase + design testfase (afgerond)\
 Fase 2: eerste klikbare prototype + prototype testfase (bijna afgerond)\
 Fase 3: eerst werkende prototype (aan te starten)\
-Fase 4: lancering eerste verbeteringen
+Fase 4: lancering eerste verbeteringen\
+\
+[https://github.com/ugent-library/biblio-backoffice/milestone/11](https://github.com/ugent-library/biblio-backoffice/milestone/11)
 
 </details>
 
@@ -39,7 +44,9 @@ Fase 4: lancering eerste verbeteringen
 
 De applicatie Biblio geeft heel erg weinig automatische feedback. Je wordt niet op de hooggte gebracht van research resultaten die werden toegevoegd aan jouw profiel door anderen, of wanneer er iets ontbreekt.\
 \
-We werken aan workflows en notificaties. Dit kan hergebruikt worden door diensten zoals Deliver.
+We werken aan workflows en notificaties. Dit kan hergebruikt worden door diensten zoals Deliver.\
+\
+[https://github.com/ugent-library/biblio-backoffice/milestone/12](https://github.com/ugent-library/biblio-backoffice/milestone/12)
 
 </details>
 
@@ -51,7 +58,9 @@ We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onder
 \
 We zorgen dat de bibliotheekmedewerkers op een vlotte manier informatie kunnen verwerken en toevoegen die waarde toebrengt aan de bibliotheek en de universiteit.
 
-We richten ons ook op het tijdig vinden van duplicate informatie.
+We richten ons ook op het tijdig vinden van duplicate informatie.\
+\
+[https://github.com/ugent-library/biblio-backoffice/milestone/10](https://github.com/ugent-library/biblio-backoffice/milestone/10)
 
 </details>
 
@@ -75,7 +84,9 @@ We zorgen dat informatie op een standaard manier wordt aangeleverd aan GISMO, zo
 
 <summary><code>✨ afgerond</code> Manueel toevoegen datasets + research output weergave in biblio front-office<br><mark style="color:blue;"><code>open kennis</code></mark>  <mark style="color:blue;"><code>hergebruik</code></mark><br><mark style="color:green;"><code>laagdrempelig</code></mark></summary>
 
-We kunnen niet integereren met alle repositories van datasets, maar we moeten mensen wel de optie geven om datasets toe te voegen om te voldoen aan het publicatiebeleid. Als eerste stap geven we de mogelijkheid om datasets manueel toe te voegen, maar maken het toekomstgericht door latere automatisatie mogelijk te maken.
+We kunnen niet integereren met alle repositories van datasets, maar we moeten mensen wel de optie geven om datasets toe te voegen om te voldoen aan het publicatiebeleid. Als eerste stap geven we de mogelijkheid om datasets manueel toe te voegen, maar maken het toekomstgericht door latere automatisatie mogelijk te maken.\
+\
+[https://github.com/ugent-library/biblio-backoffice/milestone/16](https://github.com/ugent-library/biblio-backoffice/milestone/16)
 
 </details>
 
@@ -170,6 +181,8 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
 * Samenwerking tussen verschillende UGent diensten ondersteunen en gebruik maken van gedeelde infrastructuur.\
   _Vb. Piwik, samenwerking Inuits, Vault ..._
 
+[https://github.com/ugent-library/biblio-backoffice/milestone/14](https://github.com/ugent-library/biblio-backoffice/milestone/14)
+
 </details>
 
 <details>
@@ -180,7 +193,9 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
 
 **We documenteren zorgvuldig** om ervoor te zorgen dat onze teams kunnen werken en weten hoe de talloze producten en diensten in elkaar zitten – ook wanneer er nieuwe teamleden zijn of wanneer er een teamlid vertrekt.\
 \
-Deze documentatie zorgt er ook voor dat er **standaarden** ontstaan waarmee we ontwikkelen, zodat onze oplossingen beter op te volgen zijn.
+Deze documentatie zorgt er ook voor dat er **standaarden** ontstaan waarmee we ontwikkelen, zodat onze oplossingen beter op te volgen zijn.\
+\
+[https://github.com/ugent-library/biblio-backoffice/milestone/15](https://github.com/ugent-library/biblio-backoffice/milestone/15)
 
 </details>
 
