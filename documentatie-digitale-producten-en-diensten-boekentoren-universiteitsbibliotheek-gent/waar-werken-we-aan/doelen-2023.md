@@ -10,11 +10,34 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
+<summary><code>🏋️ aan het werk</code> Geautomatiseerde communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark></summary>
+
+De applicatie Biblio geeft heel erg weinig automatische feedback. Je wordt niet op de hooggte gebracht van research resultaten die werden toegevoegd aan jouw profiel door anderen, of wanneer er iets ontbreekt.\
+\
+We werken aan workflows en notificaties. Dit kan hergebruikt worden door diensten zoals Deliver.\
+\
+[https://github.com/ugent-library/biblio-backoffice/milestone/12](https://github.com/ugent-library/biblio-backoffice/milestone/12)
+
+</details>
+
+<details>
+
 <summary><code>🏋️ aan het werk</code> Verrijken van personen informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
 
 Momenteel houden verschillende producten binnen de UGent data bij over personen om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
 Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).\
+\
+[https://github.com/ugent-library/biblio-backoffice/milestone/13](https://github.com/ugent-library/biblio-backoffice/milestone/13)\
+[https://github.com/ugent-library/people-service/issues](https://github.com/ugent-library/people-service/issues)
+
+</details>
+
+<details>
+
+<summary><code>🏋️ aan het werk</code> Verrijken van project informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
+
+Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
 [https://github.com/ugent-library/biblio-backoffice/milestone/13](https://github.com/ugent-library/biblio-backoffice/milestone/13)\
 [https://github.com/ugent-library/people-service/issues](https://github.com/ugent-library/people-service/issues)
@@ -40,18 +63,6 @@ Fase 4: lancering eerste verbeteringen\
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Geautomatiseerde communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark></summary>
-
-De applicatie Biblio geeft heel erg weinig automatische feedback. Je wordt niet op de hooggte gebracht van research resultaten die werden toegevoegd aan jouw profiel door anderen, of wanneer er iets ontbreekt.\
-\
-We werken aan workflows en notificaties. Dit kan hergebruikt worden door diensten zoals Deliver.\
-\
-[https://github.com/ugent-library/biblio-backoffice/milestone/12](https://github.com/ugent-library/biblio-backoffice/milestone/12)
-
-</details>
-
-<details>
-
 <summary><code>🏋️ aan het werk</code> Design administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
 
 We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
@@ -66,9 +77,11 @@ We richten ons ook op het tijdig vinden van duplicate informatie.\
 
 <details>
 
-<summary><code>✨ afgerond</code> Betere doorstroom van informatie naar hergebruikers<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+<summary><code>🏋️ aan het werk</code> Betere doorstroom van informatie naar hergebruikers<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
 
 We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
+
+_e.g. betere timestamps, meer standaard herbruikbare oplossing_
 
 </details>
 
