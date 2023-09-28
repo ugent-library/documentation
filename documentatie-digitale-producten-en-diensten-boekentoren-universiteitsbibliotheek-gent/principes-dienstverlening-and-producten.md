@@ -111,7 +111,7 @@ We automatiseren waar we kunnen om (manueel) overbodig werk uit handen te nemen,
 
 
 {% hint style="success" %}
-Deze visie op dienstverlening en producten ligt in lijn met onze [visie op technologie](../technologie-en-ondersteunende-tooling/visie-op-technologie.md).\
+Deze visie op dienstverlening en producten ligt in lijn met onze [visie op technologie](../technologie-en-ondersteunende-tooling/visie-op-technologie/).\
 \
 Kan gebruikt worden door leden van de Boekentoren om vraagstukken aan te toetsen. Kan gebruikt worden door partners, faculteitsbibliotheken en de universiteit om te weten waar de Boekentoren zich mee bezig houdt.
 {% endhint %}

@@ -29,7 +29,8 @@
 
 ## 🧑🚀 Technologie en ondersteunende tooling
 
-* [Visie op technologie](technologie-en-ondersteunende-tooling/visie-op-technologie.md)
+* [Visie op technologie](technologie-en-ondersteunende-tooling/visie-op-technologie/README.md)
+  * [Architectuur](technologie-en-ondersteunende-tooling/visie-op-technologie/architectuur.md)
 * [Beeldenbank](technologie-en-ondersteunende-tooling/beeldenbank.md)
 * [Cypress testing](technologie-en-ondersteunende-tooling/cypress-testing.md)
 * [GRPC "bicli"](technologie-en-ondersteunende-tooling/grpc-bicli.md)
