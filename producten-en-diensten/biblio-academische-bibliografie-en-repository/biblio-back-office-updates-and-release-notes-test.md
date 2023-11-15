@@ -16,7 +16,7 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 ## 🌱Lente & Zomer – Spring & Summer 2023 🌸
 
-NL
+**NL**
 
 In de lente en zomer hebben de teams bij de [Universiteitsbibliotheek Gent – Boekentoren](http://boekentoren.gent) zich gericht op het verzamelen van feedback van de onderzoekscommunity. Dank aan de talloze onderzoekers en onderzoeksmedewerkers die de tijd hebben genomen om hun behoeften aan ons door te geven!
 
@@ -30,7 +30,7 @@ In de tussentijd hebben we ervoor gezorgd dat de Biblio zichtbare en onzichtbare
 
 Houd ons in de gaten voor de komende reeks updates die tot stand komen door jouw feedback!
 
-EN
+**EN**
 
 During spring and summer, our teams at [Ghent University Library – Booktower](https://boekentoren.gent/en) focused on gathering feedback from the research community. A big thanks to the countless researchers and research staff who took the time to share their needs with us!
 
