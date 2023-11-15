@@ -10,6 +10,8 @@ description: >-
 Looking for a more technical point of view? Go [here](https://github.com/ugent-library/biblio-backoffice/blob/main/CHANGELOG.md)!
 {% endhint %}
 
+## \[2023] Jouw feedback is kostbaar · Your Feedback is Precious
+
 ## 🍁 Herfst & Winter – Fall & Winter 2023 ❄️
 
 🚧 under construction 🚧
@@ -44,9 +46,11 @@ Meanwhile, we've ensured that Biblio has undergone both visible and invisible im
 
 Stay tuned for our upcoming set of updates coming to life with your feedback!
 
-## 🍁 Herfst & Winter – Fall & Winter 2022 ❄️
+## \[2022] Nieuwe Biblio, Nieuwe Kansen · New Biblio, New Opportunities&#x20;
 
-### Nieuw UGent-beleid wetenschappelijk publiceren én nieuwe Biblio interface | New Ghent University policy on scholarly publishing ànd new Biblio interface
+### 🍁 Herfst & Winter – Fall & Winter ❄️
+
+#### Nieuw UGent-beleid wetenschappelijk publiceren én nieuwe Biblio interface | New Ghent University policy on scholarly publishing ànd new Biblio interface
 
 **NL**
 
