@@ -24,7 +24,7 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 In de lente en zomer hebben de teams bij de [Universiteitsbibliotheek Gent – Boekentoren](http://boekentoren.gent) zich gericht op het verzamelen van feedback van de onderzoekscommunity. Dank aan de talloze onderzoekers en onderzoeksmedewerkers die de tijd hebben genomen om hun behoeften aan ons door te geven!
 
-Na de launch van de nieuwe Biblio interface in 2022, hebben we ons gericht op de belanghebbenden die onze gegevens hergebruiken, zoals [GISMO](http://gismo.ugent.be), [FRIS](https://www.researchportal.be/nl), [OpenAire Explore](https://explore.openaire.eu) en [Google Scholar](http://scholar.google.com).
+Na de launch van de nieuwe Biblio interface in 2022, hebben we ons ook gericht op de belanghebbenden die onze gegevens hergebruiken, zoals [GISMO](http://gismo.ugent.be), [FRIS](https://www.researchportal.be/nl), [OpenAire Explore](https://explore.openaire.eu) en [Google Scholar](http://scholar.google.com).
 
 {% hint style="success" %}
 **🤝** De verspreiding van onderzoeksresultaten en het bieden van een platform voor onze onderzoekers zijn nog steeds onze belangrijkste doelen.
@@ -38,7 +38,7 @@ Houd ons in de gaten voor de komende reeks updates die tot stand komen door jouw
 
 During spring and summer, our teams at [Ghent University Library – Booktower](https://boekentoren.gent/en) focused on gathering feedback from the research community. A big thanks to the countless researchers and research staff who took the time to share their needs with us!
 
-Following the launch of the new Biblio interface in 2022, we directed our attention to stakeholders reusing our data, such as [GISMO](http://gismo.ugent.be), [FRIS](https://www.researchportal.be/nl), [OpenAire Explore](https://explore.openaire.eu), and [Google Scholar](http://scholar.google.com).
+Following the launch of the new Biblio interface in 2022, we also directed our attention to stakeholders reusing our data, such as [GISMO](http://gismo.ugent.be), [FRIS](https://www.researchportal.be/nl), [OpenAire Explore](https://explore.openaire.eu), and [Google Scholar](http://scholar.google.com).
 
 {% hint style="success" %}
 **🤝** Disseminating research outcomes and providing a platform for our researchers remain our primary objectives.
