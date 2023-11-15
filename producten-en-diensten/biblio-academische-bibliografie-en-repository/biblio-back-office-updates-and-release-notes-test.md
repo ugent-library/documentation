@@ -69,5 +69,3 @@ The new interface sets the stage for several features that we will introduce in 
 Learn more about the publication policy and the impact on our research community here:
 
 {% embed url="https://bozi.ugent.be/nl/bozi/bWCvtoNQ8nftT8GLGDHYUq/" %}
-
-Sincererly, the Ghent University Library
