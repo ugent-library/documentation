@@ -12,11 +12,13 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 ## \[2023] Jouw feedback is kostbaar · Your Feedback is Precious
 
-## 🍁 Herfst & Winter – Fall & Winter 2023 ❄️
+### 🍁 Herfst & Winter – Fall & Winter 2023 ❄️
 
 🚧 under construction 🚧
 
-## 🌱Lente & Zomer – Spring & Summer 2023 🌸
+***
+
+### 🌱Lente & Zomer – Spring & Summer 2023 🌸
 
 **NL**
 
@@ -45,6 +47,8 @@ Following the launch of the new Biblio interface in 2022, we directed our attent
 Meanwhile, we've ensured that Biblio has undergone both visible and invisible improvements, including enhanced filtering and search capabilities, clearer information, and improved user-friendliness.
 
 Stay tuned for our upcoming set of updates coming to life with your feedback!
+
+***
 
 ## \[2022] Nieuwe Biblio, Nieuwe Kansen · New Biblio, New Opportunities&#x20;
 
