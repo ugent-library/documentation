@@ -10,7 +10,7 @@ description: >-
 Looking for a more technical point of view? Go [here](https://github.com/ugent-library/biblio-backoffice/blob/main/CHANGELOG.md)!
 {% endhint %}
 
-## \[2023] Jouw feedback is kostbaar · Your Feedback is Precious
+## \[2023] Uw feedback is kostbaar · Your Feedback is Precious
 
 ### 🍁 Herfst & Winter – Fall & Winter 2023 ❄️
 
@@ -30,9 +30,9 @@ Na de launch van de nieuwe Biblio interface in 2022, hebben we ons ook gericht o
 **🤝** De verspreiding van onderzoeksresultaten en het bieden van een platform voor onze onderzoekers zijn nog steeds onze belangrijkste doelen.
 {% endhint %}
 
-In de tussentijd hebben we ervoor gezorgd dat de Biblio zichtbare en onzichtbare verbeteringen heeft ondergaan, zoals betere filter- en zoekmogelijkheden, duidelijkere informatie en gebruiksvriendelijkheid.
+In de tussentijd hebben we ervoor gezorgd dat de Biblio zichtbare en onzichtbare verbeteringen heeft ondergaan. Je krijgt nu betere en snellere zoekresultaten, meer informatie wordt opgepikt wanneer je publicaties importeert en we hebben ervoor gezorgd dat informatie duidelijker wordt getoond.
 
-Houd ons in de gaten voor de komende reeks updates die tot stand komen door jouw feedback!
+Houd ons in de gaten voor de komende reeks updates die tot stand komen door uw feedback!
 
 **EN**
 
@@ -44,7 +44,7 @@ Following the launch of the new Biblio interface in 2022, we also directed our a
 **🤝** Disseminating research outcomes and providing a platform for our researchers remain our primary objectives.
 {% endhint %}
 
-Meanwhile, we've ensured that Biblio has undergone both visible and invisible improvements, including enhanced filtering and search capabilities, clearer information, and improved user-friendliness.
+In the meantime, we have ensured that the Library has undergone visible and invisible improvements. You will now experience better and faster search results, more information is captured when importing publications, and we have ensured that information is displayed more clearly.
 
 Stay tuned for our upcoming set of updates coming to life with your feedback!
 
