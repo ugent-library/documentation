@@ -16,10 +16,12 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 **NL**
 
-The end-of-year bustle is about to get started for everyone. The entire research community is preparing to get things done in time so they can enjoy the holidays. To make your life just a _liiiiiitle_ bit easier during those busy times, the Biblio Team built some new features. These features will support you in your journey to spread your research in a qualitative way and ensure funding:
+The end-of-year bustle is about to begin for everyone. The research community is preparing to get things done in time so they can enjoy the holidays. To make your life just a _liiiiiitle_ bit easier during those busy times, the Biblio Team built some new features. These features will support you in your journey to spread your research in a qualitative way and meet funding requirements:
 
 1.  **Dashboard for easy management**\
     _The Biblio dashboard gives you an instant overview of which publications and datasets are missing some crucial information and need to be (re)published._\
+    \
+    _Go to_ [_http://backoffice.biblio.ugent.be_](http://backoffice.biblio.ugent.be) _and check out the dashboard yourself!_\
 
 
     <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.27.51.png" alt=""><figcaption><p>Action required &#x26; Drafts to complete</p></figcaption></figure>
@@ -35,6 +37,8 @@ The end-of-year bustle is about to get started for everyone. The entire research
 2. **Activity overview for more transparency \[beta]**\
    _See which datasets and publications have been recently adapted by you, a colleague or a Biblio team member._\
    \
+   Find the recent activity on your dashboard via [http://backoffice.biblio.ugent.be](http://backoffice.biblio.ugent.be).\
+   \
    ![](<../../.gitbook/assets/Screenshot 2023-11-22 at 11.29.28.png>)\
    \
    We're taking small steps in making what happens in Biblio more transparent. We've started off with creating a basic overview of what recently happened to your publications and datasets. Whether someone created a new publication that mentions your name or whether someone else edited one of your datasets – you'll see it here. This feature is in beta, which means we appreciate your feedback in making this feature more valuable.\
@@ -45,7 +49,9 @@ The end-of-year bustle is about to get started for everyone. The entire research
 
     <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.41.01.png" alt=""><figcaption></figcaption></figure>
 
-    We have added identifiers such as BioStudies, ENA, ENA BioProject, Ensembl, and Handle to maintain consistent online visibility and meet funding requirements. This feature is in beta as well – do not hesitate to tell us how we can make this better!\
+    We have added identifiers such as BioStudies, ENA, ENA BioProject, Ensembl, and Handle to maintain consistent online visibility and meet funding requirements.\
+    \
+    Visit [https://backoffice.biblio.ugent.be/dataset/add](https://backoffice.biblio.ugent.be/dataset/add) and give it a go. This feature is in beta as well – do not hesitate to tell us how we can make this better!\
 
 
     <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.42.28.png" alt=""><figcaption></figcaption></figure>
