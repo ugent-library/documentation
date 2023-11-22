@@ -16,6 +16,51 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 **NL**
 
+De eindejaarsdrukte staat voor de deur. De hele onderzoeksgemeenschap bereidt zich voor om taken op tijd af te ronden en van de feestdagen te genieten. Om je leven een _beeeeeeetje_ gemakkelijker te maken, heeft het Biblio Team enkele nieuwe functies toegevoegd. Deze functies ondersteunen je om je onderzoek op een kwalitatieve manier te verspreiden en financiering te garanderen.
+
+1.  **Dashboard voor eenvoudig beheer**\
+    _Het Biblio-dashboard geeft je direct een overzicht van welke publicaties en datasets cruciale informatie missen en opnieuw moeten worden gepubliceerd._\
+    \
+    Ga naar [backoffice.biblio.ugent.be](http://backoffice.biblio.ugent.be) en probeer het uit!\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.27.51.png" alt=""><figcaption><p>Action required &#x26; Drafts to complete</p></figcaption></figure>
+
+    * _**Action required**_\
+      Het Biblio-team staat elke dag klaar om de kwaliteit van de metadata van je onderzoek te waarborgen. Hierdoor komt je onderzoek in aanmerking voor financiering en is het te vinden op platforms zoals [Google Scholar](http://scholar.google.com), [OpenAire Explore](https://explore.openaire.eu), [GISMO](http://gismo.ugent.be) en [FRIS](https://www.researchportal.be/nl).\
+      \
+      "Action required" toont onderzoek dat cruciale informatie mist. Zodra je de ontbrekende informatie hebt ingevuld, kun je het onderzoek opnieuw publiceren. Op deze manier komen die publicaties en datasets in aanmerking voor financiering en kan de wereld ze opnieuw zien.
+    * _**Drafts to complete**_\
+      Misschien ben je een tijdje geleden begonnen met het toevoegen van een publicatie of dataset aan Biblio. Of je was nog steeds wat informatie aan het missen om het te voltooien, of je was het vergeten; deze sectie herinnert je eraan dat de wereld je onderzoek nog niet heeft ontdekt.\
+
+2. **Recent activity voor meer transparantie \[Bèta]**\
+   _Zie welke datasets en publicaties recentelijk zijn aangepast door jou, een collega of een lid van het Biblio-team. Bekijk jouw recent activity_ [backoffice.biblio.ugent.be](http://backoffice.biblio.ugent.be).\
+   ![](<../../.gitbook/assets/Screenshot 2023-11-22 at 11.29.28.png>)\
+   \
+   We zetten stapjes om wat er in Biblio gebeurt transparanter te maken. Op je dashboard vind je nu een overzicht van wat er recentelijk is gebeurd met je publicaties en datasets. Of iemand nu een nieuwe publicatie heeft gemaakt die je naam vermeldt of iemand anders heeft een van je datasets bewerkt - je ziet het hier. Deze functie is in bèta, wat betekent dat we jouw feedback waarderen om deze functie waardevoller te maken.
+3.  **Meer datasets registreren \[Bèta]**\
+    Vorig jaar introduceerden we de mogelijkheid om datasets te registreren met een DOI. Om ervoor te zorgen dat je datasets met andere identificatiemiddelen kunt registreren en toevoegen via Biblio, hebben we de optie toegevoegd om gepubliceerde datasets handmatig te registreren.\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.41.01.png" alt=""><figcaption><p>Voeg meer datasets toe via de manuele optie.</p></figcaption></figure>
+
+    \
+    We hebben identifiers zoals BioStudies, ENA, ENA BioProject, Ensembl en Handle toegevoegd om consistente online zichtbaarheid te behouden en te voldoen aan financieringseisen\
+    Bezoek [https://backoffice.biblio.ugent.be/dataset/add](https://backoffice.biblio.ugent.be/dataset/add) en probeer het uit. Deze functie is ook in bèta - aarzel niet om ons te laten weten hoe we dit kunnen verbeteren!\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.42.28.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Feedback van de onderzoeksgemeenschap heeft dit mogelijk gemaakt**\
+Om ervoor te zorgen dat we jouw feedback vastleggen en ervoor zorgen dat onze functies de waarde bieden die je nodig hebt, voeren we elk jaar testrondes en interviews uit met onze onderzoeksgemeenschap en lanceren we functies in bèta. Neem contact met ons op via [biblio@ugent.be](mailto:biblio@ugent.be) als je geïnteresseerd bent of iets te zeggen hebt!
+{% endhint %}
+
+Het Biblio Team\
+
+
+**EN**
+
 The end-of-year bustle is about to begin for everyone. The research community is preparing to get things done in time so they can enjoy the holidays. To make your life just a _liiiiiitle_ bit easier during those busy times, the Biblio Team built some new features. These features will support you in your journey to spread your research in a qualitative way and meet funding requirements:
 
 1.  **Dashboard for easy management**\
@@ -62,12 +107,6 @@ To make sure we capture your feedback and make sure our features deliver the val
 {% endhint %}
 
 The Biblio Team
-
-
-
-Tijdens de lente en de zomer hebben we feedback vergaard, en tijdens de herfst hebben&#x20;
-
-EN
 
 ***
 
