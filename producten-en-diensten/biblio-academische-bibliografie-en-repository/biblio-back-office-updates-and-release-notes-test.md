@@ -16,24 +16,46 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 **NL**
 
-The end-of-year bustle is about to get started for everyone. The entire research community is preparing to get things done in time so they can enjoy the holidays. To make your life just a _liiiiiitle_ bit easier, the Biblio Team built some new features. These features will support you in your journey to spread your research in a qualitative way and ensure funding:
+The end-of-year bustle is about to get started for everyone. The entire research community is preparing to get things done in time so they can enjoy the holidays. To make your life just a _liiiiiitle_ bit easier during those busy times, the Biblio Team built some new features. These features will support you in your journey to spread your research in a qualitative way and ensure funding:
 
-1. **Dashboard for easy management**\
-   The Biblio dashboard gives you an instant overview of which publications and datasets are missing some crucial information and need to be published.\
-   \
-   _**Action required**_: The Biblio team helps you ensure the quality of your research's metadata every day. By doing this, your research can be found on platforms such as [Google Scholar](http://scholar.google.com), [OpenAire Explore](https://explore.openaire.eu), [GISMO](http://gismo.ugent.be) and [FRIS](https://www.researchportal.be/nl). When crucial information is missing, you'll see your research output pop up under "action required". Complete the datasets and publications, and republish them for the world to see it!\
-   \
-   _**Drafts to complete**_: You might have started adding research output to Biblio a while back. Whether you were still missing some information in order to complete it, or whether you forgot about it; this section reminds you to the world is missing out on finding your research and count for funding.\
+1.  **Dashboard for easy management**\
+    _The Biblio dashboard gives you an instant overview of which publications and datasets are missing some crucial information and need to be (re)published._\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.27.51.png" alt=""><figcaption><p>Action required &#x26; Drafts to complete</p></figcaption></figure>
+
+    * _**Action required**_\
+      The Biblio team helps you ensure the quality of your research's metadata every day. By doing this, your research is qualified for funding and can be found on platforms such as [Google Scholar](http://scholar.google.com), [OpenAire Explore](https://explore.openaire.eu), [GISMO](http://gismo.ugent.be) and [FRIS](https://www.researchportal.be/nl).\
+      \
+      "Action required" shows you research output that is missing crucial information. Once you complete the missing information, you can republish the research output. This way those publications and datasets qualify for funding and the world can see them once again.\
+
+    * _**Drafts to complete**_\
+      You might have started adding research output to Biblio a while back. Whether you were still missing some information in order to complete it, or whether you forgot about it; this section reminds you to the world is missing out on finding your research.\
 
 2. **Activity overview for more transparency \[beta]**\
-   We're taking small steps in making what happens in Biblio more transparent. We've started off with creating a basic overview of what recently happened to your publications and datasets. Whether someone created a new publication that mentions your name or whether someone else edited one of your datasets – you'll see it here. This feature is in beta.\
+   _See which datasets and publications have been recently adapted by you, a colleague or a Biblio team member._\
+   \
+   ![](<../../.gitbook/assets/Screenshot 2023-11-22 at 11.29.28.png>)\
+   \
+   We're taking small steps in making what happens in Biblio more transparent. We've started off with creating a basic overview of what recently happened to your publications and datasets. Whether someone created a new publication that mentions your name or whether someone else edited one of your datasets – you'll see it here. This feature is in beta, which means we appreciate your feedback in making this feature more valuable.\
 
-3. **Register more datasets \[beta]**\
-   Up until recent you were able to register datasets via DOI. Today Biblio gives you the possibility to register datasets with other persistent identifiers as well. This feature is in beta – which means we highly appreciate your feedback.
-
-To make sure we capture your feedback in time, we do test rounds with our research community and launch features in&#x20;
+3.  **Register more datasets \[beta]**\
+    _Last year, we introduced the functionality to register datasets with a DOI. To ensure you can register and add datasets with other identifiers through Biblio, we have added the option to include published datasets through manual registration._\
 
 
+    <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.41.01.png" alt=""><figcaption></figcaption></figure>
+
+    We have added identifiers such as BioStudies, ENA, ENA BioProject, Ensembl, and Handle to maintain consistent online visibility and meet funding requirements. This feature is in beta as well – do not hesitate to tell us how we can make this better!\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.42.28.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Feedback from the research community made this happen**\
+To make sure we capture your feedback and make sure our features deliver the value you need, we do test rounds and interviews with our research community every year and launch features in beta. Get in touch via [biblio@ugent.be](mailto:biblio@ugent.be) if you're interested or have something to say!
+{% endhint %}
+
+The Biblio Team
 
 
 
