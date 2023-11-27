@@ -18,9 +18,15 @@ Om te _weten_ en te _vertellen_
 
 <summary>Ik zal altijd spreken enkel wanneer ik geloof dat dit de algemene resultaten/inspanningsverhouding zal verbeteren.</summary>
 
-Ik weiger onsamenhangende emotionele reacties te geven, en weiger die te accepteren.
-
+Ik weiger onsamenhangende emotionele reacties te geven, en weiger die te accepteren.\
 Ik zal enkel rationeel, resultaatgericht gedrag en communicatie aanbieden en accepteren.
+
+Wanneer ik een beter idee heb dan het momenteel gangbare idee, zal ik het onmiddellijk voorstellen ter beslissende acceptatie of afwijzing, en/of duidelijk streven naar verbetering ervan.
+
+* Ik zal persoonlijk het beste idee ondersteunen
+* ongeacht de bron,
+* hoezeer ik ook hoop dat er later een nog beter idee zal opkomen, en
+* wanneer ik geen superieur alternatief idee heb.
 
 </details>
 
@@ -43,7 +49,7 @@ Ik zal enkel rationeel, resultaatgericht gedrag en communicatie aanbieden en acc
 
 <details>
 
-<summary>Ik zoek altijd effectieve hulp</summary>
+<summary>Ik zoek altijd effectieve hulp.</summary>
 
 Ik zal teams gebruiken, zeker wanneer ik moeilijke taken onderneem.
 
@@ -63,6 +69,14 @@ Ik zal teams gebruiken, zeker wanneer ik moeilijke taken onderneem.
 <summary>Ik zal nooit iets doms met opzet doen.</summary>
 
 
+
+</details>
+
+<details>
+
+<summary>Ik zal proberen vooruit te gaan naar een specifiek doel, door mijn gedrag te beïnvloeden richting actie.</summary>
+
+Ik zal nu doen wat uiteindelijk gedaan moet worden en nu effectief gedaan kan worden.
 
 </details>
 
