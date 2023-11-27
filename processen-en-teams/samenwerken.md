@@ -12,6 +12,8 @@ Om te _weten_ en te _vertellen_
 * wat ik denk, en
 * wat ik voel.
 
+_Ik ben er op uit om meer waar te nemen dan waargenomen te worden._
+
 </details>
 
 <details>
@@ -21,7 +23,11 @@ Om te _weten_ en te _vertellen_
 Ik weiger onsamenhangende emotionele reacties te geven, en weiger die te accepteren.\
 Ik zal enkel rationeel, resultaatgericht gedrag en communicatie aanbieden en accepteren.
 
-Wanneer ik een beter idee heb dan het momenteel gangbare idee, zal ik het onmiddellijk voorstellen ter beslissende acceptatie of afwijzing, en/of duidelijk streven naar verbetering ervan.
+</details>
+
+<details>
+
+<summary>Wanneer ik een beter idee heb dan het momenteel gangbare idee, zal ik het onmiddellijk voorstellen ter beslissende acceptatie of afwijzing, en/of duidelijk streven naar verbetering ervan.</summary>
 
 * Ik zal persoonlijk het beste idee ondersteunen
 * ongeacht de bron,
@@ -34,16 +40,18 @@ Wanneer ik een beter idee heb dan het momenteel gangbare idee, zal ik het onmidd
 
 <summary>Ik zal mij terugtrekken uit minder productieve situaties</summary>
 
-* Wanneer ik de kernprotocollen niet kan naleven
-* Wanneer mijn betrokkenheid ergens anders belangrijker is
+* Wanneer ik de kernprotocollen niet kan naleven.
+* Wanneer mijn betrokkenheid ergens anders belangrijker is.
 
 </details>
 
 <details>
 
-<summary>Ik ben er op uit om meer waar te nemen dan waargenomen te worden.</summary>
+<summary>Ik zal proberen vooruit te gaan naar een specifiek doel, door mijn gedrag te beïnvloeden richting actie.</summary>
 
+Ik zal nu doen wat uiteindelijk gedaan moet worden en nu effectief gedaan kan worden.
 
+Ik zal nooit iets doms met opzet doen.
 
 </details>
 
@@ -63,26 +71,3 @@ Ik zal teams gebruiken, zeker wanneer ik moeilijke taken onderneem.
 2. Ik zal niemand schaden, of het schade tolereren aan iemand, die trouw is aan deze protocollen.
 
 </details>
-
-<details>
-
-<summary>Ik zal nooit iets doms met opzet doen.</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Ik zal proberen vooruit te gaan naar een specifiek doel, door mijn gedrag te beïnvloeden richting actie.</summary>
-
-Ik zal nu doen wat uiteindelijk gedaan moet worden en nu effectief gedaan kan worden.
-
-</details>
-
-
-
-1. Wanneer ik een beter idee heb dan het momenteel gangbare idee, zal ik het onmiddellijk voorstellen ter beslissende acceptatie of afwijzing, en/of duidelijk streven naar verbetering ervan.
-   * Ik zal persoonlijk het beste idee ondersteunen ongeacht de bron,
-   * hoezeer ik ook hoop dat er later een nog beter idee zal opkomen, en
-   * wanneer ik geen superieur alternatief idee heb.
