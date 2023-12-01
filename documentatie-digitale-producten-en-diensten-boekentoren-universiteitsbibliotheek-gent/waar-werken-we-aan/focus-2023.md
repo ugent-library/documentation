@@ -105,16 +105,6 @@ We kunnen niet integereren met alle repositories van datasets, maar we moeten me
 
 </details>
 
-<details>
-
-<summary><code>✨ experiment afgerond</code> Standaardisering en verbetering zoekinfrastructuur als gedeelde dienst voor verschillende bibliotheekoplossingen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
-
-We gaan op zoek naar de meest gepaste oplossing voor onze eindgebruikers en infrastructuur\
-\
-[https://github.com/ugent-library/biblio-backoffice/milestone/16](https://github.com/ugent-library/biblio-backoffice/milestone/16)
-
-</details>
-
 ## Erfgoed & Boekentoren
 
 <details>
