@@ -77,7 +77,7 @@ We richten ons ook op het tijdig vinden van duplicate informatie.\
 
 <details>
 
-<summary><code>✨ afgerond</code> Betere doorstroom van informatie naar hergebruikers<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+<summary><code>✨ afgerond</code> Betere doorstroom van informatie naar hergebruikers testomgeving<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
 
 We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
 
