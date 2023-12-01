@@ -2,7 +2,7 @@
 description: Waarde eerst. Tijd is relatief, de wereld blijft draaien.
 ---
 
-# Focus 2023
+# Focus 2024
 
 ## Onderzoeksdiensten
 
@@ -10,21 +10,9 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Geautomatiseerde communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Verrijken van personen informatie in Biblio<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
 
-De applicatie Biblio geeft heel erg weinig automatische feedback. Je wordt niet op de hooggte gebracht van research resultaten die werden toegevoegd aan jouw profiel door anderen, of wanneer er iets ontbreekt.\
-\
-We werken aan workflows en notificaties. Dit kan hergebruikt worden door diensten zoals Deliver.\
-\
-[https://github.com/ugent-library/biblio-backoffice/milestone/12](https://github.com/ugent-library/biblio-backoffice/milestone/12)
-
-</details>
-
-<details>
-
-<summary><code>🏋️ aan het werk</code> Verrijken van personen informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
-
-Momenteel houden verschillende producten binnen de UGent data bij over personen om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
+Momenteel houden verschillende producten binnen de UGent data bij over personen om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van LDAP om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
 Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).\
 \
