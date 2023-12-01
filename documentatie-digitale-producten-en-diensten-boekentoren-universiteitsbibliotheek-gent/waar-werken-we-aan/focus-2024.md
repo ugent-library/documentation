@@ -5,7 +5,9 @@ description: Waarde eerst. Tijd is relatief, de wereld blijft draaien.
 # Focus 2024
 
 {% hint style="info" %}
-🚧 2024 is under construction 🚧
+🚧 2024 is under construction 🚧\
+\
+Happy New Year! 🥳🥂
 {% endhint %}
 
 ## Onderzoeksdiensten
