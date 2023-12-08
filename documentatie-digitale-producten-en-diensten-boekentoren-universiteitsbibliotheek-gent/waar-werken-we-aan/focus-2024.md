@@ -108,9 +108,15 @@ Meer informatie:\
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> lib.ugent.be – hoge beschikbaarheid <br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+<summary><code>🚧 Under construction 🎬 aan te beginnen</code> GREP – S3<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
 
-\[under construction] Er is nu geen fallback om ervoor te zorgen dat lib.ugent.be goed blijft draaien wanneer achterliggende archiveringssystemen uitvallen. We kijken naar een oplossing die blijft draaien....\
+\[🚧 under construction] Er is nu geen fallback om ervoor te zorgen dat lib.ugent.be goed blijft draaien wanneer achterliggende archiveringssystemen uitvallen. We kijken naar een oplossing die blijft draaien....
+
+GREP, S3, export, ...
+
+Uitkleden Nifi
+
+meemoo SFTP -> S3\
 \
 Meer informatie:\
 [deliver](../../producten-en-diensten/deliver/ "mention")
