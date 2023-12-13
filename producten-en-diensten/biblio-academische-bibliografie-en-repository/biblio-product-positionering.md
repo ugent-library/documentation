@@ -17,9 +17,11 @@ Biblio maakt kennis voor iedereen vindbaar en doorzoekbaar op een toegankelijke 
 
 We beiden diensten aan die onze doelgroepen kunnen toevoegen, vinden, begrijpen en gebruiken zonder om hulp te vragen. Onze doelpublieken kunnen hun doel bereiken met zo weinig mogelijk frictie, en krijgen persoonlijke begeleiding op maat wanneer nodig.
 
+Biblio biedt een begeleide en gestroomlijnde workflow voor het deponeren en registreren van onderzoeksoutput, om de administratieve overlast te verminderen.
+
 _Onze context verandert zo snel, dat het geen nut heeft om specialistische kennis op te bouwen. We kunnen niet verwachten van onze doelgroepen om vakjargon te begrijpen of om specifieke "routes" te gebruiken (mensen en omwegen...). We blijven weg van complexe en bureaucratische werkprocessen._
 
-### Ondersteuning van onderzoekers aan de UGent
+### Ondersteuning van onderzoekers de UGent
 
 Onderzoekers kunnen erop vertrouwen dat hun onderzoek via Biblio wordt **verspreid naar diverse platformen**, waardoor hun zichtbaarheid in de wereld wordt vergroot. We werken hier met standaarden, zodat hergebruik van metadata eenvoudig is. We hechten belang aan interdisciplinaire en globale samenwerkingen.
 
