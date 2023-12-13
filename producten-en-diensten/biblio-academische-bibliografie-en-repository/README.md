@@ -8,8 +8,8 @@ description: Biblio Academische Bibliografie en Repository
 
 Biblio is de academische bibliografie en onderzoeksrepository, gericht op het verspreiden van onderzoek dat plaatsvindt aan de Universiteit Gent – voor onze onderzoekscommunity en het ruimere publiek.
 
-{% content-ref url="biblio-product-positionering.md" %}
-[biblio-product-positionering.md](biblio-product-positionering.md)
+{% content-ref url="biblio-product-positionering/" %}
+[biblio-product-positionering](biblio-product-positionering/)
 {% endcontent-ref %}
 
 ## Technische documentatie en code
