@@ -22,19 +22,19 @@ Integration with other academic systems, such as institutional websites, researc
 
 ### Not (yet) <mark style="color:red;">`TBD`</mark>
 
-#### Usage Statistics (needs to be ethical)
+#### Usage Statistics (needs to be ethical) <mark style="color:blue;">`Ideation`</mark>
 
 Providing analytics and usage statistics allows administrators and researchers to understand how often and in what ways the repository is being utilized, helping in assessing its impact.
 
-#### Version Control
+#### Version Control <mark style="color:blue;">`Ideation`</mark>
 
 To track the evolution of research, version control features ensure that different versions of a document or dataset are preserved, allowing researchers to refer to and compare previous iterations.
 
-#### Collaboration Tools (explore other channels used now – will not build ourselves)
+#### Collaboration Tools (explore other channels used now – will not build ourselves) <mark style="color:orange;">`TBD toolchain and integrations`</mark>
 
 Description: Some repositories integrate collaboration tools, enabling researchers to work together on shared projects, provide feedback, and engage in discussions directly within the platform.
 
-#### DOI Assignment (why don’t we? should we? other tool?)
+#### DOI Assignment (why don’t we? should we? other tool?) <mark style="color:orange;">`TBD toolchain and integrations`</mark>
 
 Assigning Digital Object Identifiers (DOIs) to documents enhances their citability and ensures a persistent link, contributing to the long-term accessibility and recognition of the research.
 

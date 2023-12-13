@@ -47,15 +47,13 @@ De metadata blijft eigendom van de universiteit, wordt in alle veiligheid bewaar
 
 ## Features
 
-{% content-ref url="biblio-features-en.md" %}
-[biblio-features-en.md](biblio-features-en.md)
+{% content-ref url="biblio-product-positionering/biblio-features-en.md" %}
+[biblio-features-en.md](biblio-product-positionering/biblio-features-en.md)
 {% endcontent-ref %}
 
 ## Waarom Biblio en geen ander platform
 
 Wat Biblio onderscheidt van andere repositories en bibliografieën is ons beleid voor het verspreiden van open kennis. Wij streven ernaar ervoor te zorgen dat de verworven kennis aan onze universiteit terugvloeit naar het bredere publiek, uiteraard met instemming van de betrokken onderzoekers en respect.
-
-We gedragen ons niet&#x20;
 
 
 
