@@ -6,9 +6,11 @@ description: Biblio Academische Bibliografie en Repository
 
 **Status:**<mark style="color:purple;">**`Live, in gebruik`**</mark>
 
-* Verzamelen van meer dan 200 jaar onderzoek, uitgevoerd door onderzoekers van de Universiteit Gent.
-* Kwaliteitscontrole op de metadata die ingevoerd wordt door de publicaties en datasets die ingevoerd worden door de onderzoekers.
-* Verspreiden van deze kennis naar de buitenwereld, met aandacht voor openheid, transparantie en privacy.
+Biblio is de academische bibliografie en onderzoeksrepository, gericht op het verspreiden van onderzoek dat plaatsvindt aan de Universiteit Gent – voor onze onderzoekscommunity en het ruimere publiek.
+
+{% content-ref url="biblio-product-positionering.md" %}
+[biblio-product-positionering.md](biblio-product-positionering.md)
+{% endcontent-ref %}
 
 ## Technische documentatie en code
 

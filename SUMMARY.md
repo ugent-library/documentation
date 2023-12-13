@@ -12,6 +12,7 @@
 ## 💻 Producten en diensten
 
 * [Biblio Academische Bibliografie en Repository](producten-en-diensten/biblio-academische-bibliografie-en-repository/README.md)
+  * [Biblio Product Positionering](producten-en-diensten/biblio-academische-bibliografie-en-repository/biblio-product-positionering.md)
   * [Documentatie hergebruik](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/README.md)
     * [Licenties \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/licenties-en/README.md)
       * [Old Licence mappings \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/licenties-en/old-licence-mappings-en.md)
