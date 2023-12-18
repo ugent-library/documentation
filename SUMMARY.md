@@ -19,6 +19,7 @@
       * [Old Licence mappings \[EN\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/documentatie-hergebruik/licenties-en/old-licence-mappings-en.md)
   * [Handleidingen](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/README.md)
     * [Batch operaties](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/batch-operaties.md)
+    * [Help, deze BibTeX file doet het niet](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/help-deze-bibtex-file-doet-het-niet.md)
     * [Help, deze DOI werkt niet](producten-en-diensten/biblio-academische-bibliografie-en-repository/handleidingen/help-deze-doi-werkt-niet.md)
   * [Woordenlijst](producten-en-diensten/biblio-academische-bibliografie-en-repository/woordenlijst.md)
   * [Biblio Back Office Updates & Release Notes \[test\]](producten-en-diensten/biblio-academische-bibliografie-en-repository/biblio-back-office-updates-and-release-notes-test.md)
