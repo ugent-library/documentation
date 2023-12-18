@@ -8,7 +8,7 @@ description: Hoe een BibTeX file omvormen tot iets dat Biblio (waarschijnlijk) b
 BibTex is een formaat dat erg vrij geïnterpreteerd kan worden door verschillende software programma's. Dat zorgt ervoor dat Biblio niet altijd begrijpt wat er in de files staat die van verschillende plekken kan komen zoals andere universiteiten.
 {% endhint %}
 
-## Kies je bron goed
+## Kies een bron die we goed kennen.
 
 Biblio en Scopus begrijpen elkaar. Wanneer het kan, exporteer files van scopus om in Biblio te stoppen.
 
