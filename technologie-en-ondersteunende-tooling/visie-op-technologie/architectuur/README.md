@@ -9,7 +9,7 @@ description: 🚧Under Construction🚧
 Architectuur is een weerspiegeling van\
 **werkprocessen en deeltaken** (systemen) \
 **die als geheel** (door koppelingen) \
-**waarde opleveren** (doelen vervullen).
+**waarde opleveren** (doelen vervullen, diensten leveren).
 
 {% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="6:224" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=6%3A224&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
 
