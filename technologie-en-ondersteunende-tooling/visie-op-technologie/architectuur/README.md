@@ -39,7 +39,12 @@ _Koppelingen tussen systemen: Plato en Biblio Backoffice, een archiefsysteem en 
 
 ***
 
-Principes
+## Principes
 
+We kiezen voor systemen die _**los**_** gekoppeld** zijn, zodat ze\
+**nooit in de weg staan van de core doelen** in onze bibliotheek,\
+**onderhoudbaar en uitwisselbaar** zijn op een manier dat,\
+ondersteuning van onze werkprocessen gegarandeerd blijft,\
+en robuust inpluggen op externe partners en hun diensten.
 
-
+{% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="9:755" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=9%3A755&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
