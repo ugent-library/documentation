@@ -1,5 +1,5 @@
 ---
-description: Hoe een BibTeX file omvormen tot iets dat Biblio (waarschijnlijk) begrijpt.
+description: Hoe een BibTeX file omvormen tot iets dat Biblio begrijpt.
 ---
 
 # Help, deze BibTeX file doet het niet
