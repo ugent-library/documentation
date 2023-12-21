@@ -36,6 +36,9 @@
 
 * [Visie op technologie](technologie-en-ondersteunende-tooling/visie-op-technologie/README.md)
   * [Architectuur](technologie-en-ondersteunende-tooling/visie-op-technologie/architectuur.md)
+  * [Copy of Architectuur](technologie-en-ondersteunende-tooling/visie-op-technologie/copy-of-architectuur.md)
+  * [Copy of Architectuur](technologie-en-ondersteunende-tooling/visie-op-technologie/copy-of-architectuur-1.md)
+  * [Copy of Architectuur](technologie-en-ondersteunende-tooling/visie-op-technologie/copy-of-architectuur-2.md)
 * [Beeldenbank](technologie-en-ondersteunende-tooling/beeldenbank.md)
 * [Cypress testing](technologie-en-ondersteunende-tooling/cypress-testing.md)
 * [GRPC "bicli"](technologie-en-ondersteunende-tooling/grpc-bicli.md)

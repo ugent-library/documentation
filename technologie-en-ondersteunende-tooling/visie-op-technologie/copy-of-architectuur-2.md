@@ -2,7 +2,7 @@
 description: 🚧Under Construction🚧
 ---
 
-# Architectuur
+# Copy of Architectuur
 
 ## Algemene principes
 
