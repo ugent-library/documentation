@@ -22,14 +22,14 @@ _Catalografie, depotbeheer, digitale archivering, chapterscan,..._
 
 ***
 
-### Informatie uitwisseling
+### Informatie uitwisseling binnen en tussen systemen
 
 Systemen kunnen **informatie** _– digitale objecten en metadata_\
 **creëren, modelleren, bewaren, beheren en raadpleegbaar maken**\
 binnen de context van een werkproces,\
 en uitwisselen met andere systemen door koppelingen.
 
-{% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="9:385" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=9%3A385&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
+{% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="9:561" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=9%3A561&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
 
 _Koppelingen binnen systemen: Een Biblio record, PDF’s behorende tot een dissertatie, een Bag, een IIIF-manifest, een TIFF bestand, een hiërarchie van records, een audit log, een tekstfragment, ..._
 
