@@ -5,18 +5,12 @@ description: Hoe een BibTeX file omvormen tot iets dat Biblio (waarschijnlijk) b
 # Help, deze BibTeX file doet het niet
 
 {% hint style="info" %}
-BibTex is een formaat dat erg vrij geïnterpreteerd kan worden door verschillende software programma's. Dat zorgt ervoor dat Biblio niet altijd begrijpt wat er in de files staat die van verschillende plekken kan komen zoals andere universiteiten.
+BibTex is een formaat dat erg vrij geïnterpreteerd kan worden door verschillende software programma's. Dat zorgt ervoor dat Biblio niet altijd begrijpt wat er in de files staat die van verschillende plekken komen.
 {% endhint %}
-
-## Kies een bron die we goed kennen.
-
-Biblio en Scopus begrijpen elkaar. Wanneer het kan, exporteer files van scopus om in Biblio te stoppen.
-
-{% embed url="https://www.scopus.com/search/form.uri?display=basic#basic" %}
 
 ## Laat je files opkuisen
 
-**Gebruik BibTeX Tidy** om de files op te kuisen voor files die niet in Scopus zitten en Biblio niet begrijpt.
+**Gebruik BibTeX Tidy** om de files op te kuisen voor files die Biblio niet begrijpt.
 
 1.  Open de file die je hebt gekregen in een text editor.
 
