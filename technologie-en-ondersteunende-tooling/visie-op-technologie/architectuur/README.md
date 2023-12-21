@@ -48,3 +48,13 @@ ondersteuning van onze werkprocessen gegarandeerd blijft,\
 en robuust inpluggen op externe partners en hun diensten.
 
 {% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="9:755" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=9%3A755&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
+
+Om systemen _los_ te koppelen,\
+gebruiken we event-driven en data-driven communicatie,\
+waarbij systemen kunnen luisteren naar signalen over metadata en digitale objecten\
+en dan een taak of werkproces te kunnen starten.
+
+Meerdere systemen kunnen luisteren naar elkaar, zonder van elkaar af te weten.\
+Afhankelijkheid wordt uitgesloten door het gebruik van gedeelde formaten, datamodellen en protocollen.
+
+{% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="9:796" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=9%3A796&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
