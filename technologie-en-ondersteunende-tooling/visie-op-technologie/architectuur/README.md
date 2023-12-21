@@ -58,3 +58,11 @@ Meerdere systemen kunnen luisteren naar elkaar, zonder van elkaar af te weten.\
 Afhankelijkheid wordt uitgesloten door het gebruik van gedeelde formaten, datamodellen en protocollen.
 
 {% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="9:796" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=9%3A796&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
+
+
+
+## Gekoppelde systemen voor bibliotheekdiensten
+
+{% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="9:771" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=9%3A771&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
+
+{% @figma/embed fileId="fEJGbDVHQ4rR6rpB0emvva" nodeId="14:1373" url="https://www.figma.com/file/fEJGbDVHQ4rR6rpB0emvva/gitbook-architecture?type=design&node-id=14%3A1373&mode=design&t=6r4eB5FNO4hFzrB0-1" %}
