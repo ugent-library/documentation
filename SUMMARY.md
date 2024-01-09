@@ -50,7 +50,5 @@
 
 ## 🤝 Processen en teams
 
-* [Show & tell & inspiration](processen-en-teams/show-and-tell-and-inspiration.md)
 * [Documentatie hulp](processen-en-teams/documentatie-hulp/README.md)
   * [Product/dienst template](processen-en-teams/documentatie-hulp/product-dienst-template.md)
-* [Samenwerken](processen-en-teams/samenwerken.md)
