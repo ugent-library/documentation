@@ -4,12 +4,6 @@ description: Waarde eerst. Tijd is relatief, de wereld blijft draaien.
 
 # Focus 2024
 
-{% hint style="info" %}
-🚧 2024 is under construction 🚧\
-\
-Happy New Year! 🥳🥂
-{% endhint %}
-
 ## Onderzoeksdiensten
 
 Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten-en-diensten/biblio-academische-bibliografie-en-repository/ "mention")
@@ -57,6 +51,18 @@ Fase 4: lancering eerste verbeteringen\
 
 <details>
 
+<summary><code>🏋️ aan het werk</code> Betere doorstroom van informatie naar hergebruikers in gebruik<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+
+We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
+
+We zorgen ervoor dat de informatie die nu uitgewisseld wordt naar GISMO op een standaard manier gebeurt, in lijn met onze andere diensten.
+
+_e.g. betere timestamps, meer standaard herbruikbare oplossing_
+
+</details>
+
+<details>
+
 <summary><code>🎬 te verfijnen</code> Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
 
 \[under construction] We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
@@ -71,23 +77,11 @@ We zorgen ervoor dat flows duidelijker worden.\
 
 </details>
 
-<details>
-
-<summary>🎬<code>te verfijnen</code> Betere doorstroom van informatie naar hergebruikers in gebruik<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
-
-We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
-
-We zorgen ervoor dat de informatie die nu uitgewisseld wordt naar GISMO op een standaard manier gebeurt, in lijn met onze andere diensten.
-
-_e.g. betere timestamps, meer standaard herbruikbare oplossing_
-
-</details>
-
 ## Erfgoed & Boekentoren
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen (pre-ingest)<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
 Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.
 
@@ -97,7 +91,7 @@ Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de B
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
 
 Deliver is in gebruik en het is een succes. Er zijn echter enkele optimalisaties nodig om Deliver snel en snappy te houden. We zorgen ervoor dat er nu paginering is, en dat je eenvoudiger folders kan terugvinden.\
 \
@@ -108,18 +102,13 @@ Meer informatie:\
 
 <details>
 
-<summary><code>🚧 Under construction 🎬 aan te beginnen</code> GREP – S3<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+<summary><code>🎬 aan te beginnen</code> GREP – S3<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
 
-\[🚧 under construction] Er is nu geen fallback om ervoor te zorgen dat lib.ugent.be goed blijft draaien wanneer achterliggende archiveringssystemen uitvallen. We kijken naar een oplossing die blijft draaien....
+Er is nu geen fallback om ervoor te zorgen dat de exports op lib.ugent.be goed blijft draaien wanneer achterliggende archiveringssystemen uitvallen. We kijken naar een oplossing die blijft draaien.
 
-GREP, S3, export, ...
+We kleden het Nifi systeem uit:
 
-Uitkleden Nifi
-
-meemoo SFTP -> S3\
-\
-Meer informatie:\
-[deliver](../../producten-en-diensten/deliver/ "mention")
+![](../../.gitbook/assets/access-digital-archives.png)
 
 </details>
 
@@ -127,7 +116,7 @@ Meer informatie:\
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> Traject vervanging Aleph: start projectgroepen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
+<summary><code>🎬 aan te beginnen (mogelijk 2025)</code> Traject vervanging Aleph: start projectgroepen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
 
 Wanneer de vervanger van Aleph gekozen is, kunnen we aan de slag met de configuratie. Het is belangrijk dat we begrijpen waar de Faculteitsbibliotheken nood aan hebben om dit goed te configureren, en eventuele plooien glad te strijken.\
 \
