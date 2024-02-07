@@ -65,6 +65,8 @@ _e.g. betere timestamps, meer standaard herbruikbare oplossing_
 
 <summary><code>🎬 te verfijnen</code> Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
 
+
+
 \[under construction] We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
 \
 We zorgen dat de bibliotheekmedewerkers op een vlotte manier informatie kunnen verwerken en toevoegen die waarde toebrengt aan de bibliotheek en de universiteit.
@@ -76,6 +78,8 @@ We zorgen ervoor dat flows duidelijker worden.\
 [https://github.com/ugent-library/biblio-backoffice/milestone/10](https://github.com/ugent-library/biblio-backoffice/milestone/10)
 
 </details>
+
+
 
 ## Erfgoed & Boekentoren
 
@@ -124,7 +128,41 @@ Meer informatie: [https://teams.microsoft.com/l/channel/19%3aN8Mcn\_GoTBcJ7UoTLE
 
 </details>
 
-## Library Analytics
+## Gedeelde oplossingen
+
+<details>
+
+<summary> <code>🏋️ Aan het werk</code> Message hub catbird: instant communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+
+Om informatiever te zijn naar onze publieken toe, bouwen we een achterliggend systeem dat ervoor zorgt dat we informatie onmiddellijk kunnen tonen wanneer het nodig is.
+
+Bijvoorbeeld:&#x20;
+
+* kunnen zien dat iemand al werkt aan een formulier dat je net opent
+* kunnen zien dat iemand net een folder heeft weggesmeten waar jij in zit
+
+</details>
+
+<details>
+
+<summary><code>🎬 aan te beginnen</code> Gedeelde componenten voor interne en publieke applicaties binnen de universiteitsbibliotheek<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+
+ddddOp dit moment gebruiken Deliver en Biblio dezelfde UI componenten om applicaties mee te bouwen. Dit resulteert in voorspelbare, herkenbare interfaces. Idealiter gebruiken andere applicaties deze componenten ook. Deze zijn echter nog niet afgestemd op publieksinterfaces. We starten hier  met een oefening:
+
+* Ontbrekende public-facing componenten zoals uitgebreide zoekmogelijkheden.
+* Mogelijkheid om de styling van componenten visueel te wijzigen afhankelijk van de context.
+
+Meer informatie: [https://ugentbe.sharepoint.com/:w:/r/teams/Group.PR202303913/Gedeelde%20documenten/General/T%20-%20Tooling/componentenbibliotheek/2024-01-26%20BKT%20applicaties%20identiteit%20Briefing%20februari.docx?d=w50dcef13c3d4483bbccfd28159102879\&csf=1\&web=1\&e=CDlP0o](https://ugentbe.sharepoint.com/:w:/r/teams/Group.PR202303913/Gedeelde%20documenten/General/T%20-%20Tooling/componentenbibliotheek/2024-01-26%20BKT%20applicaties%20identiteit%20Briefing%20februari.docx?d=w50dcef13c3d4483bbccfd28159102879\&csf=1\&web=1\&e=CDlP0o)
+
+</details>
+
+<details>
+
+<summary><code>🎬 aan te beginnen</code> Analyse mogelijkheden zoekoplossingen<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+
+Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.
+
+</details>
 
 ## Archivering & Digitalisering
 
