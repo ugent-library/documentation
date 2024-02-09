@@ -1,5 +1,5 @@
 ---
-description: Waarde eerst. Tijd is relatief, de wereld blijft draaien.
+description: Niet in die volgorde, onderhevig aan verandering.
 ---
 
 # Focus 2024
@@ -51,7 +51,7 @@ Fase 4: lancering eerste verbeteringen\
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Betere doorstroom van informatie naar hergebruikers in gebruik<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+<summary><code>🏋️ aan het werk</code> Betere doorstroom van informatie naar hergebruikers<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
 
 We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
 
@@ -63,17 +63,17 @@ _e.g. betere timestamps, meer standaard herbruikbare oplossing_
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🎬 te verfijnen</code> Ontwerp en testen: Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
 
 
 
-\[under construction] We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
+We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
 \
 We zorgen dat de bibliotheekmedewerkers op een vlotte manier informatie kunnen verwerken en toevoegen die waarde toebrengt aan de bibliotheek en de universiteit.
 
-We richten ons ook op het tijdig vinden van duplicate informatie.
+We richten ons op het tijdig vinden van duplicate informatie.
 
-We zorgen ervoor dat flows duidelijker worden.\
+We zorgen ervoor dat bilbio status flows duidelijker worden.\
 \
 [https://github.com/ugent-library/biblio-backoffice/milestone/10](https://github.com/ugent-library/biblio-backoffice/milestone/10)
 
@@ -88,6 +88,14 @@ We zorgen ervoor dat flows duidelijker worden.\
 <summary><code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen (pre-ingest)<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
 Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.
+
+</details>
+
+<details>
+
+<summary><code>🏋️ aan het werk</code> Concept open erfgoed portaal<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+
+Exploratie open erfgoedportaal met GUM.
 
 </details>
 
@@ -165,6 +173,14 @@ Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet 
 </details>
 
 ## Archivering & Digitalisering
+
+<details>
+
+<summary><code>➡️ op de radar</code> Meemoo testing traject<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+
+🚧 onder constructie
+
+</details>
 
 ## Doorlopende verantwoordelijkheden
 
@@ -252,14 +268,6 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 * Server upgrades, serverpark migraties
 * Google Books
-
-<details>
-
-<summary><code>➡️ op de radar</code> Meemoo testing traject<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
-
-🚧 onder constructie
-
-</details>
 
 ### Library analytics
 
