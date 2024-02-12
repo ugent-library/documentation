@@ -73,13 +73,21 @@ We zorgen dat de bibliotheekmedewerkers op een vlotte manier informatie kunnen v
 
 We richten ons op het tijdig vinden van duplicate informatie.
 
-We zorgen ervoor dat bilbio status flows duidelijker worden.\
+We zorgen ervoor dat Biblio status flows duidelijker worden.
+
+We maken boodschappen in Biblio duidelijker leesbaar.\
 \
 [https://github.com/ugent-library/biblio-backoffice/milestone/10](https://github.com/ugent-library/biblio-backoffice/milestone/10)
 
 </details>
 
+<details>
 
+<summary><code>🎬 aan het werk</code>  Duurzame archivering Biblio<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+
+Archivering Biblio
+
+</details>
 
 ## Erfgoed & Boekentoren
 
@@ -128,7 +136,7 @@ We kleden het Nifi systeem uit:
 
 <details>
 
-<summary><code>🎬 aan te beginnen (mogelijk 2025)</code> Traject vervanging Aleph: start projectgroepen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
+<summary><code>🎬 aan te beginnen (mogelijk 2025)</code> Traject vervanging Aleph: projectgroepen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
 
 Wanneer de vervanger van Aleph gekozen is, kunnen we aan de slag met de configuratie. Het is belangrijk dat we begrijpen waar de Faculteitsbibliotheken nood aan hebben om dit goed te configureren, en eventuele plooien glad te strijken.\
 \
@@ -178,7 +186,19 @@ Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet 
 
 <summary><code>➡️ op de radar</code> Meemoo testing traject<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
 
-🚧 onder constructie
+🚧 onder constructie\
+\
+Meemoo APIs
+
+</details>
+
+<details>
+
+<summary><code>🎬 Aan te beginnen</code> IIIF 3.0 Image API<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+
+🚧 onder constructie\
+\
+Meemoo APIs
 
 </details>
 
@@ -199,6 +219,9 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
   * **Inschatten** van (nieuwe) noden en gevraagde oplossingen, over alle producten heen.\
 
 * **Inbakken van automatische testen** van gebouwde oplossingen om eventuele fouten voortijdig op te kunnen sporen.\
+
+* Vlot samenwerken: ervoor zorgen dat de technische set-up kwalitatief is voor iedereen die code schrijft, zodat er minder tijd gaat naar het afstemmen.\
+  vb. Containerisation Biblio, Person service, Project service, OAI, ...\
 
 * Samenwerking tussen verschillende UGent diensten ondersteunen en gebruik maken van gedeelde infrastructuur.\
   _Vb. Piwik, samenwerking Inuits, Vault ..._
