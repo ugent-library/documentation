@@ -184,11 +184,11 @@ Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet 
 
 <details>
 
-<summary><code>➡️ op de radar</code> Meemoo testing traject<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+<summary><code>🏋️ Aan het werk</code> Meemoo API – Digitale instroom inschatting<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
 
-🚧 onder constructie\
+Digitale instroom; we leveren semi-automatisch aan bij meemoo, meemoo digitaliseert. Meemoo bouwt nu een API om aan te sluiten, als dienstverlening voor iedereen.\
 \
-Meemoo APIs
+We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we wanneer we instappen.
 
 </details>
 
