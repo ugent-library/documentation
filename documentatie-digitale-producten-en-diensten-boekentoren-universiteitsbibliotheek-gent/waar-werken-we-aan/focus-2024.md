@@ -10,9 +10,9 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Verrijken van personen informatie in Biblio: LDAP &#x26; GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Verrijken van personen- en organisatie informatie in Biblio: LDAP &#x26; GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
 
-Momenteel houden verschillende producten binnen de UGent data bij over personen om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van LDAP om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
+Momenteel houden verschillende producten binnen de UGent data bij over personen en organisaties om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van LDAP om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
 Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).\
 \
@@ -65,8 +65,6 @@ _e.g. betere timestamps, meer standaard herbruikbare oplossing_
 
 <summary><code>🎬 te verfijnen</code> Ontwerp en testen: Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
 
-
-
 We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
 \
 We zorgen dat de bibliotheekmedewerkers op een vlotte manier informatie kunnen verwerken en toevoegen die waarde toebrengt aan de bibliotheek en de universiteit.
@@ -85,7 +83,7 @@ We maken boodschappen in Biblio duidelijker leesbaar.\
 
 <summary><code>🎬 aan het werk</code>  Duurzame archivering Biblio<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
-Archivering Biblio
+Archiefstraat voor Biblio PDF bestanden.
 
 </details>
 
@@ -95,7 +93,9 @@ Archivering Biblio
 
 <summary><code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen (pre-ingest)<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
-Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.
+Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.\
+\
+[https://booktower.gitbook.io/pre-ingest/](https://booktower.gitbook.io/pre-ingest/)
 
 </details>
 
@@ -113,7 +113,7 @@ Exploratie open erfgoedportaal met GUM.
 
 <summary><code>🏋️ aan het werk</code> IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
 
-Deliver is in gebruik en het is een succes. Er zijn echter enkele optimalisaties nodig om Deliver snel en snappy te houden. We zorgen ervoor dat er nu paginering is, en dat je eenvoudiger folders kan terugvinden.\
+Deliver is in gebruik en gebruikers zijn tevreden. Er zijn echter enkele optimalisaties nodig om Deliver snel en snappy te houden. We zorgen ervoor dat er nu paginering is, en dat je eenvoudiger folders kan terugvinden.\
 \
 Meer informatie:\
 [deliver](../../producten-en-diensten/deliver/ "mention")
@@ -163,7 +163,7 @@ Bijvoorbeeld:&#x20;
 
 <summary><code>🎬 aan te beginnen</code> Gedeelde componenten voor interne en publieke applicaties binnen de universiteitsbibliotheek<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
-ddddOp dit moment gebruiken Deliver en Biblio dezelfde UI componenten om applicaties mee te bouwen. Dit resulteert in voorspelbare, herkenbare interfaces. Idealiter gebruiken andere applicaties deze componenten ook. Deze zijn echter nog niet afgestemd op publieksinterfaces. We starten hier  met een oefening:
+Op dit moment gebruiken Deliver en Biblio dezelfde UI componenten om applicaties mee te bouwen. Dit resulteert in voorspelbare, herkenbare interfaces. Idealiter gebruiken andere applicaties deze componenten ook. Deze zijn echter nog niet afgestemd op publieksinterfaces. We starten hier  met een oefening:
 
 * Ontbrekende public-facing componenten zoals uitgebreide zoekmogelijkheden.
 * Mogelijkheid om de styling van componenten visueel te wijzigen afhankelijk van de context.
@@ -206,7 +206,9 @@ Meemoo APIs
 
 <summary><code>🎬 Aan te beginnen</code> IIIF 3.0 external Image API references<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
 
-[https://github.ugent.be/Universiteitsbibliotheek/grim/issues/316](https://github.ugent.be/Universiteitsbibliotheek/grim/issues/316)
+Tijdens de [GIVE](https://meemoo.be/nl/projecten/give-gecoordineerd-initiatief-voor-vlaamse-erfgoeddigitalisering)-projecten heeft Meemoo meer dan 62.000 objecten uit onze collectie gedigitaliseerd. De digitale afbeeldingen zullen beschikbaar worden gesteld via een IIIF Image API v3-eindpunt dat wordt beheerd en gearchiveerd door Meemoo. We zouden graag integreren met dit eindpunt. Op deze manier vermijden we het downloaden van de TIFF-afbeeldingen en het opslaan ervan in GREP, en het blootstellen ervan via onze eigen IIIF-infrastructuur.
+
+Op dit moment voert Meemoo een beperkt pilootproject uit waarin ze hun IIIF-infrastructuur + flows in dienst willen testen. We zullen samenwerken door een zeer beperkte steekproef van afbeeldingen te testen (234 items).
 
 </details>
 
