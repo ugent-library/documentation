@@ -202,6 +202,14 @@ Meemoo APIs
 
 </details>
 
+<details>
+
+<summary><code>🎬 Aan te beginnen</code> IIIF 3.0 external Image API references<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+
+[https://github.ugent.be/Universiteitsbibliotheek/grim/issues/316](https://github.ugent.be/Universiteitsbibliotheek/grim/issues/316)
+
+</details>
+
 ## Doorlopende verantwoordelijkheden
 
 De wereld stopt niet met draaien. We zitten in een context waar onze verantwoordelijkheid van die aard is dat we diensten en producten niet zomaar "on hold" kunnen zetten.
