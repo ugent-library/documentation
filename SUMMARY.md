@@ -29,8 +29,7 @@
   * [Deliver 2.0: aanpassingen](producten-en-diensten/deliver/deliver-2.0-aanpassingen.md)
     * [Deliver Release Notities 2.1](producten-en-diensten/deliver/deliver-2.0-aanpassingen/deliver-release-notities-2.1.md)
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
-* [Deledda](producten-en-diensten/deledda/README.md)
-  * [Deledda Handleiding](producten-en-diensten/deledda/deledda-handleiding.md)
+* [Concept Open Erfgoedportaal](producten-en-diensten/concept-open-erfgoedportaal.md)
 
 ## 🧑🚀 Technologie en ondersteunende tooling
 
@@ -39,6 +38,8 @@
     * [Earlier drawings](technologie-en-ondersteunende-tooling/visie-op-technologie/architectuur-dienstverlening-boekentoren/earlier-drawings.md)
 * [Beeldenbank](technologie-en-ondersteunende-tooling/beeldenbank.md)
 * [Cypress testing](technologie-en-ondersteunende-tooling/cypress-testing.md)
+* [Deledda](technologie-en-ondersteunende-tooling/deledda/README.md)
+  * [Deledda Handleiding](technologie-en-ondersteunende-tooling/deledda/deledda-handleiding.md)
 * [GRPC "bicli"](technologie-en-ondersteunende-tooling/grpc-bicli.md)
 * [IIIF](technologie-en-ondersteunende-tooling/iiif.md)
 * [Keycloak – rights management](technologie-en-ondersteunende-tooling/keycloak-rights-management.md)
