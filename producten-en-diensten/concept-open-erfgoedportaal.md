@@ -7,7 +7,11 @@ description: >-
 
 # Concept Open Erfgoedportaal
 
-## Scope 2024
+## Scope 2024: prototype
+
+
+
+Briefing prototype:
 
 {% embed url="https://ugentbe.sharepoint.com/:w:/r/teams/Group.PR202304094/Gedeelde%20documenten/General/openerfgoed.ugent.be/Analyses%20en%20ontwerp/Bauke/DynamischPrototypeBauke-Werkdocument-v2.docx?d=w5eba2bf317e3470382726f131272963d&csf=1&web=1&e=JtehUs" %}
 
