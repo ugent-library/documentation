@@ -31,7 +31,7 @@
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
 * [Concept Open Erfgoedportaal](producten-en-diensten/concept-open-erfgoedportaal.md)
 
-## 🧑🚀 Technologie en ondersteunende tooling
+## 🧑‍🚀 Technologie en ondersteunende tooling
 
 * [Visie op technologie](technologie-en-ondersteunende-tooling/visie-op-technologie/README.md)
   * [Architectuur Dienstverlening Boekentoren](technologie-en-ondersteunende-tooling/visie-op-technologie/architectuur-dienstverlening-boekentoren/README.md)
