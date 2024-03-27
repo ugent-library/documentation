@@ -14,16 +14,18 @@ _Deliver voorziet digitale ruimtes voor bibliotheken, waarin deelbare mappen aan
     Heb je geen toegang? Stuur een mailtje naar [libservice@ugent.be.](mailto:libservice@ugent.be)\
 
 
-    <figure><img src="../../.gitbook/assets/deliver-space.png" alt=""><figcaption><p>Links zie je de spaces waar je toegang tot krijgt.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/deliver-manual-spaces.png" alt=""><figcaption><p>Links zie je de spaces waar je toegang tot krijgt.</p></figcaption></figure>
 3.  Maak een nieuwe folder aan. Deze vervalt na één maand.\
-
-
-    <figure><img src="../../.gitbook/assets/deliver-3-folder.png" alt=""><figcaption><p>Je foldernaam kan cijfers, tekens en letters bevatten. Zolang het een unieke naam is, ben je vrij om de naam te kiezen.</p></figcaption></figure>
-
     \
 
 
+    <figure><img src="../../.gitbook/assets/deliver-manual-space-make-folder (2).png" alt=""><figcaption><p>Je foldernaam kan cijfers, tekens en letters bevatten. Zolang het een unieke naam is, ben je vrij om de naam te kiezen.</p></figcaption></figure>
+
+
+
     <figure><img src="../../.gitbook/assets/deliver-4-vervaldatum.png" alt=""><figcaption><p>De vervaldatum wordt automatisch gegenereerd.</p></figcaption></figure>
+
+
 4.  Laad een of meer bestanden tegelijk op.\
 
 
