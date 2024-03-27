@@ -51,9 +51,11 @@ _Deliver voorziet digitale ruimtes voor bibliotheken, waarin deelbare mappen aan
 
 ### Deliver Spaces
 
-Deliver heeft verschillende omgevingen, genoemd spaces, waarin je met je collega's mappen kan aanmaken om documenten mee te delen. Elke [faculteitsbibliotheek](https://lib.ugent.be/nl/libraries) binnen de Universiteitsbibliotheek hebben een eigen space.
+Deliver heeft verschillende omgevingen, genoemd spaces, waarin je met je collega's mappen kan aanmaken om documenten mee te delen. Elke [faculteitsbibliotheek](https://lib.ugent.be/nl/libraries) binnen de Universiteitsbibliotheek hebben een eigen space.\
+\
 
-<figure><img src="../../.gitbook/assets/deliver-2-space.png" alt=""><figcaption><p>In de linker zijbalk heb je een overzicht met alle spaces waar je toegang tot hebt gekregen.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-manual-spaces (1).png" alt=""><figcaption><p>In de linker zijbalk heb je een overzicht met alle spaces waar je toegang tot hebt gekregen.</p></figcaption></figure>
 
 {% hint style="info" %}
 ### Toegang krijgen tot een space
@@ -68,9 +70,11 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 #### Mappen maken
 
 📂 Bovenaan de space krijg je de optie om een map aan te maken.\
-🗓️  Elke folder vervalt na een maand, om de veiligheid en het gemak te verhogen.
+🗓️  Elke folder vervalt na een maand, om de veiligheid en het gemak te verhogen.\
+\
 
-<figure><img src="../../.gitbook/assets/deliver-3-folder (2).png" alt=""><figcaption><p>Interface voor het aanmaken van een folder.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-manual-space-make-folder (3).png" alt=""><figcaption><p>Interface voor het aanmaken van een folder.</p></figcaption></figure>
 
 #### Mappen overzicht
 
