@@ -16,7 +16,6 @@ _Deliver voorziet digitale ruimtes voor bibliotheken, waarin deelbare mappen aan
 
     <figure><img src="../../.gitbook/assets/deliver-manual-spaces.png" alt=""><figcaption><p>Links zie je de spaces waar je toegang tot krijgt.</p></figcaption></figure>
 3.  Maak een nieuwe folder aan. Deze vervalt na één maand.\
-    \
 
 
     <figure><img src="../../.gitbook/assets/deliver-manual-space-make-folder (2).png" alt=""><figcaption><p>Je foldernaam kan cijfers, tekens en letters bevatten. Zolang het een unieke naam is, ben je vrij om de naam te kiezen.</p></figcaption></figure>
@@ -51,9 +50,7 @@ _Deliver voorziet digitale ruimtes voor bibliotheken, waarin deelbare mappen aan
 
 ### Deliver Spaces
 
-Deliver heeft verschillende omgevingen, genoemd spaces, waarin je met je collega's mappen kan aanmaken om documenten mee te delen. Elke [faculteitsbibliotheek](https://lib.ugent.be/nl/libraries) binnen de Universiteitsbibliotheek hebben een eigen space.\
-\
-
+Deliver heeft verschillende omgevingen, genoemd spaces, waarin je met je collega's mappen kan aanmaken om documenten mee te delen. Elke [faculteitsbibliotheek](https://lib.ugent.be/nl/libraries) binnen de Universiteitsbibliotheek hebben een eigen space.
 
 <figure><img src="../../.gitbook/assets/deliver-manual-spaces (1).png" alt=""><figcaption><p>In de linker zijbalk heb je een overzicht met alle spaces waar je toegang tot hebt gekregen.</p></figcaption></figure>
 
@@ -70,9 +67,7 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 #### Mappen maken
 
 📂 Bovenaan de space krijg je de optie om een map aan te maken.\
-🗓️  Elke folder vervalt na een maand, om de veiligheid en het gemak te verhogen.\
-\
-
+🗓️  Elke folder vervalt na een maand, om de veiligheid en het gemak te verhogen.
 
 <figure><img src="../../.gitbook/assets/deliver-manual-space-make-folder (3).png" alt=""><figcaption><p>Interface voor het aanmaken van een folder.</p></figcaption></figure>
 
@@ -80,7 +75,7 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 
 **Overzicht**
 
-📁 In je space zie je een overzicht van alle mappen in de space.\
+📁 In je space zie je een overzicht van alle mappen in de space. Je ziet 20 folders per pagina.\
 👁️ Iedereen die toegang heeft tot een space, kan elkaars mappen zien in die space.\
 ℹ️ Je ziet het aantal documenten, de grootte, vervaldatum, creatiedatum en bewerkingsdatum.
 
@@ -88,11 +83,16 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 
 📂 Klik op de "Folder" naam om de map te openen, of door op "Open" te klikken.\
 📫 Kopieer de publiek deelbare link door op "Copy link" te klikken.\
-🔎 Zoek naar folders door "`ctrl+f`" of "`command+f`" in te houden.
+🔎 Zoek naar folders door in de zoekbalk te typen\
+🗄️ Sorteer op vervaldatum\
+\
 
-<figure><img src="../../.gitbook/assets/deliver-overview.png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/deliver-ctrl-f.png" alt=""><figcaption><p>Zoeken met ctrl+f in je browser.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deliver-manual-space-folder-overview (1).png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-manual-space-folder-overview-pagination.png" alt=""><figcaption><p>Paginering</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-manual-space-folder-overview-search-sort.png" alt=""><figcaption><p>Zoeken en sorteren</p></figcaption></figure>
 
 #### Mappen delen
 
