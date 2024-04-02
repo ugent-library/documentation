@@ -34,6 +34,18 @@ Momenteel houden verschillende producten binnen de UGent data bij over projecten
 
 <details>
 
+<summary><code>🏋️ aan het werk</code> Betere doorstroom van informatie naar hergebruikers (OAI)<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+
+We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
+
+We zorgen ervoor dat de informatie die nu uitgewisseld wordt naar GISMO op een standaard manier gebeurt, in lijn met onze andere diensten.
+
+_e.g. betere timestamps, meer standaard herbruikbare oplossing_
+
+</details>
+
+<details>
+
 <summary><code>🏋️ aan het werk</code> Automatisering en administratieve vereenvoudiging: automatische doorstroom van dissertaties uit Plato<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
 
 Plato verzamelt, net zoals Biblio, dissertaties. Het delen van die informatie gebeurt nu echter manueel door leden van de Boekentoren, onderzoeksmedewerkers of wordt gewoon manueel ingegeven. Hier gebeurt enorm veel dubbel werk.\
@@ -51,13 +63,9 @@ Fase 4: lancering eerste verbeteringen\
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Betere doorstroom van informatie naar hergebruikers<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+<summary><code>🎬 te verfijnen</code>  Duurzame archivering Biblio<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
-We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
-
-We zorgen ervoor dat de informatie die nu uitgewisseld wordt naar GISMO op een standaard manier gebeurt, in lijn met onze andere diensten.
-
-_e.g. betere timestamps, meer standaard herbruikbare oplossing_
+Archiefstraat voor Biblio PDF bestanden.
 
 </details>
 
@@ -76,14 +84,6 @@ We zorgen ervoor dat Biblio status flows duidelijker worden.
 We maken boodschappen in Biblio duidelijker leesbaar.\
 \
 [https://github.com/ugent-library/biblio-backoffice/milestone/10](https://github.com/ugent-library/biblio-backoffice/milestone/10)
-
-</details>
-
-<details>
-
-<summary><code>🎬 aan het werk</code>  Duurzame archivering Biblio<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
-
-Archiefstraat voor Biblio PDF bestanden.
 
 </details>
 
