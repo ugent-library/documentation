@@ -119,13 +119,20 @@ Gebruik de link in de browserbalk om naar je collega's te sturen. Zij zien, als 
 #### Mappen beheren
 
 ✍️ Pas de naam van de folder aan door op "Edit" te klikken, de naam aan te passen, en te bewaren.\
-🗑️ Verwijder de folder aan door op "Edit" te klikken, en daarna op "Delete folder". Dit verwijderd de folder en de inhoud onmiddelijk, zonder herstelfunctie.
+🗑️ Verwijder de folder aan door op "Edit" te klikken, en daarna op "Delete folder". Dit verwijderd de folder en de inhoud onmiddelijk, zonder herstelfunctie.\
+⏱️ Stel de vervaldatum uit van een folder.
 
 <figure><img src="../../.gitbook/assets/deliver-edit.png" alt=""><figcaption><p>Verwijderen of bewerken van de map in de map zelf.</p></figcaption></figure>
 
 Je kan enkel de naam van de map aanpassen, of de map pas verwijderen, nadat je op bewerken hebt geklikt.
 
 <figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-03-08 om 12.48.08.png" alt=""><figcaption><p>Bewerken of verwijderen van een map.</p></figcaption></figure>
+
+Stel de vervaldatum van een folder uit met 31 dagen per keer met de "Postpone expiration" knop. Op deze manier hoef je geen tijd te steken in opkuiswerk achteraf bij folders die je uitzonderlijk langer nodig hebt, aangezien ze nog steeds automatisch zullen verdwijnen na de vervaldag.
+
+<figure><img src="../../.gitbook/assets/deliver-manual-space-folder-manage-expiration-button.png" alt=""><figcaption><p>Vervaldatum van een folder uitstellen met de "Postpone expiration" knop.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/deliver-manual-space-folder-manage-expiration-dialogue.png" alt=""><figcaption><p>Gebruik de knop zo veel als nodig, om de vervaldag van de folder telkens met 31 dagen uit te stellen.</p></figcaption></figure>
 
 ### Documenten opladen in een map
 
