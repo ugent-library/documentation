@@ -58,6 +58,8 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 * 8701504,eisbn.add,"0268-1161" 1234,eisbn.remove,"0268-1161"
 * 8701504,issn.add,"0268-1161" 1234,issn.remove,"0268-1161"
 * 8701504,eissn.add,"0268-1161" 1234,eissn.remove,"0268-1161"
+* 8701504,lock
+* 8701504,unlock
 
 🚨 Niet elke operatie werkt voor elk type publicatie, de velden moeten beschikbaar zijn.
 
@@ -84,6 +86,12 @@ Tips:
 ### Classificaties instellen
 
 Instellen: 8701504,`classification.set`,A2
+
+### Locking instellen
+
+Instellen: 8701504,`lock`
+
+Instellen: 8701504,`unlock`
 
 ### Reviewer tags toevoegen en verwijderen
 
