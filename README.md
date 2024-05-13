@@ -7,17 +7,17 @@ description: >-
 
 # Booktower – Documentatie Digitale Producten en Diensten Universiteitsbibliotheek Gent, Boekentoren
 
-**De Boekentoren bouwt aan stabiele, gedragen, uitbreidbare producten.**\
+**We bouwen aan stabiele, gedragen, uitbreidbare producten.**\
 _Digitale producten die bijdragen aan onze toekomstvisie om duurzame, klantgerichte diensten te bieden die bijdragen aan het verspreiden van kennis._ [_Meer informatie over onze "sustainability, literacy, user drivenness en web services"_](https://boekentoren.gent/nl/bibliotheek/universiteitsbibliotheek)_._&#x20;
 
 ## Producten & Diensten
 
-{% content-ref url="booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/waar-werken-we-aan/" %}
-[waar-werken-we-aan](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/waar-werken-we-aan/)
+{% content-ref url="documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/" %}
+[waar-werken-we-aan](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/)
 {% endcontent-ref %}
 
-{% content-ref url="booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/principes-dienstverlening-and-producten.md" %}
-[principes-dienstverlening-and-producten.md](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/principes-dienstverlening-and-producten.md)
+{% content-ref url="documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/principes-dienstverlening-and-producten.md" %}
+[principes-dienstverlening-and-producten.md](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/principes-dienstverlening-and-producten.md)
 {% endcontent-ref %}
 
 ### Overzicht

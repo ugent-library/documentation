@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Booktower – Documentatie Digitale Producten en Diensten Universiteitsbibliotheek Gent, Boekentoren](README.md)
-  * [Principes Dienstverlening & Producten](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/principes-dienstverlening-and-producten.md)
-  * [High-level dienstenoverzicht](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/high-level-dienstenoverzicht.md)
-  * [Waar werken we aan](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/waar-werken-we-aan/README.md)
-    * [Focus 2024](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/waar-werken-we-aan/focus-2024.md)
-    * [Focus 2023](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/waar-werken-we-aan/focus-2023.md)
-    * [Focus 2022](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/waar-werken-we-aan/focus-2022.md)
-    * [Overzicht te vernieuwen producten en diensten](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/waar-werken-we-aan/overzicht-te-vernieuwen-producten-en-diensten.md)
+  * [Principes Dienstverlening & Producten](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/principes-dienstverlening-and-producten.md)
+  * [High-level dienstenoverzicht](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/high-level-dienstenoverzicht.md)
+  * [Waar werken we aan](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/README.md)
+    * [Focus 2024](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/focus-2024.md)
+    * [Focus 2023](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/focus-2023.md)
+    * [Focus 2022](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/doelen-2022.md)
+    * [Overzicht te vernieuwen producten en diensten](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/overzicht-te-vernieuwen-producten-en-diensten.md)
 
 ## 💻 Producten en diensten
 
@@ -37,8 +37,8 @@
   * [Architectuur Dienstverlening Boekentoren](technologie-en-ondersteunende-tooling/visie-op-technologie/architectuur-dienstverlening-boekentoren/README.md)
     * [Earlier drawings](technologie-en-ondersteunende-tooling/visie-op-technologie/architectuur-dienstverlening-boekentoren/earlier-drawings.md)
 * [Beeldenbank](technologie-en-ondersteunende-tooling/beeldenbank.md)
-* [Deledda Handleiding](technologie-en-ondersteunende-tooling/deledda-handleiding.md)
-* [Deledda manual](technologie-en-ondersteunende-tooling/deledda-manual.md)
+* [Deledda Handleiding](technologie-en-ondersteunende-tooling/deledda/deledda-handleiding.md)
+* [Deledda manual](producten-en-diensten/deledda/README.md)
 * [GRPC "bicli"](technologie-en-ondersteunende-tooling/grpc-bicli.md)
 * [IIIF](technologie-en-ondersteunende-tooling/iiif.md)
 * [Nomad](technologie-en-ondersteunende-tooling/nomad.md)
