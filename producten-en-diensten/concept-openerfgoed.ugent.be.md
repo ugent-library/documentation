@@ -1,11 +1,11 @@
 ---
 description: >-
-  Het open erfgoedplatform is een venster op de erfgoedcollecties van het GUM en
-  de Boekentoren, dat je inspireert om met onze open erfgoed aan de slag te gaan
-  en dieper in de collecties te duiken.
+  openerfgoed.ugent.be is een venster op de erfgoedcollecties van het GUM en de
+  Boekentoren, dat je inspireert om met onze open erfgoed aan de slag te gaan en
+  dieper in de collecties te duiken.
 ---
 
-# Concept Open Erfgoedportaal
+# Concept Openerfgoed.ugent.be
 
 ## Scope 2024: prototype
 

@@ -29,7 +29,7 @@
   * [Deliver 2.0: aanpassingen](producten-en-diensten/deliver/deliver-2.0-aanpassingen.md)
     * [Deliver Release Notities 2.1](producten-en-diensten/deliver/deliver-2.0-aanpassingen/deliver-release-notities-2.1.md)
 * [Pre-ingest](producten-en-diensten/pre-ingest.md)
-* [Concept Open Erfgoedportaal](producten-en-diensten/concept-open-erfgoedportaal.md)
+* [Concept Openerfgoed.ugent.be](producten-en-diensten/concept-openerfgoed.ugent.be.md)
 
 ## 🧑‍🚀 Technologie en ondersteunende tooling
 
