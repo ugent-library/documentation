@@ -12,7 +12,7 @@ description: >-
 
 IIIF is een [internationale gemeenschap](https://iiif.io/community/consortium/) die er voor zorgt dat we visuele objecten, zoals PDF, foto en video en hun metadata op een standaard manier online ter beschikking kunnen stellen. Zo kunnen derden, zoals culturele instellingen, die objecten en hun informatie hergebruiken en weergeven op de manier zoals zij dat graag willen.
 
-{% embed url="https://www.figma.com/file/zCNP5xa2pNO3Ewa5AfnZ8Y/Architectuur?node-id=101%3A257&t=hxWhv7J9o1G1P194-1" %}
+{% @figma/embed fileId="zCNP5xa2pNO3Ewa5AfnZ8Y" nodeId="101:257" url="https://www.figma.com/file/zCNP5xa2pNO3Ewa5AfnZ8Y/Architectuur?node-id=101%3A257&t=hxWhv7J9o1G1P194-1" %}
 
 ## Technische documentatie
 
@@ -28,8 +28,8 @@ Achtergrond van de bibliotheek
 
 ## Gebruikte technologieën en tools
 
-{% content-ref url="extern-meemoo-archief.md" %}
-[extern-meemoo-archief.md](extern-meemoo-archief.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="beeldenbank.md" %}

@@ -27,6 +27,6 @@ Test omgeving: [https://deliver.libtest.ugent.be](https://deliver.libtest.ugent.
 
 ## Gebruikte technologieën en tools
 
-{% content-ref url="../../technologie-en-ondersteunende-tooling/keycloak-rights-management.md" %}
-[keycloak-rights-management.md](../../technologie-en-ondersteunende-tooling/keycloak-rights-management.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

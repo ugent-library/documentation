@@ -1,2 +1,0 @@
-# Keycloak – rights management
-

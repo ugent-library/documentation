@@ -1,3 +1,0 @@
-# Deledda
-
-🚧 under construction 🚧

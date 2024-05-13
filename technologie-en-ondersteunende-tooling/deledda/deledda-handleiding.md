@@ -1,3 +1,0 @@
-# Deledda Handleiding
-
-🚧 under construction 🚧
