@@ -117,7 +117,7 @@ Gebruik de link in de browserbalk om naar je collega's te sturen. Zij zien, als 
 #### Mappen beheren
 
 ✍️ Pas de naam van de folder aan door op "Edit" te klikken, de naam aan te passen, en te bewaren.\
-🗑️ Verwijder de folder aan door op "Edit" te klikken, en daarna op "Delete folder". Dit verwijderd de folder en de inhoud onmiddelijk, zonder herstelfunctie.\
+🗑️ Verwijder de folder aan door op "Edit" te klikken, en daarna op "Delete folder". Dit verwijdert de folder en de inhoud onmiddelijk, zonder herstelfunctie.\
 ⏱️ Stel de vervaldatum uit van een folder.
 
 <figure><img src="../../.gitbook/assets/deliver-edit.png" alt=""><figcaption><p>Verwijderen of bewerken van de map in de map zelf.</p></figcaption></figure>
