@@ -155,9 +155,14 @@ Eens je een document hebt opgeladen, verschijnt deze in de lijst. Je ziet de naa
 **Acties**
 
 🗳️ Download het document door op de "File name" of "Download" te klikken.\
-🗑️ Verwijder het document door op "Delete" te klikken.
+🗑️ Verwijder het document door op "Delete" te klikken.\
+📂 Start onmiddellijk een nieuwe folder, wanneer je klaar bent met het opladen van je documenten in deze folder.
 
 <figure><img src="../../.gitbook/assets/deliver-monitor.png" alt=""><figcaption><p>Files in de folder.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-28 at 10.27.36.png" alt=""><figcaption><p>Klik "Make new folder" of druk de "n" toets in om snel een nieuwe folder te maken vanuit deze folder.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-05-28 at 10.28.13.png" alt=""><figcaption><p>Zo ga je onmiddellijk naar de hoofdpagina, met je cursor in de aanslag van de folder naam.</p></figcaption></figure>
 
 ### Ontvangen van een publieke deelbare link naar een map
 
