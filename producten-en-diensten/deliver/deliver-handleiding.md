@@ -67,7 +67,7 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 #### Mappen maken
 
 📂 Bovenaan de space krijg je de optie om een map aan te maken.\
-🗓️  Elke folder vervalt na een maand, om de veiligheid en het gemak te verhogen.
+🗓️  Elke folder vervalt na een maand, om de veiligheid en het gemak te verhogen. Indien nodig, kan je de vervaldatum met een maand verlengen met de [**postpone**](deliver-handleiding.md#mappen-beheren) knop.
 
 <figure><img src="../../.gitbook/assets/deliver-manual-space-make-folder (3).png" alt=""><figcaption><p>Interface voor het aanmaken van een folder.</p></figcaption></figure>
 
@@ -84,9 +84,7 @@ In deliver spaces kan je deelbare mappen aanmaken om documenten in op te laden v
 📂 Klik op de "Folder" naam om de map te openen, of door op "Open" te klikken.\
 📫 Kopieer de publiek deelbare link door op "Copy link" te klikken.\
 🔎 Zoek naar folders door in de zoekbalk te typen\
-🗄️ Sorteer op vervaldatum\
-\
-
+🗄️ Sorteer op vervaldatum
 
 <figure><img src="../../.gitbook/assets/deliver-manual-space-folder-overview (1).png" alt=""><figcaption><p>Overzicht van alle mappen of folders.</p></figcaption></figure>
 
