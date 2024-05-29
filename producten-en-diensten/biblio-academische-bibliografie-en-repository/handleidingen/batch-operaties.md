@@ -60,6 +60,12 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 * 8701504,eissn.add,"0268-1161" 1234,eissn.remove,"0268-1161"
 * 8701504,lock
 * 8701504,unlock
+* 8701504,status.set,deleted
+* 8701504,status.set,private
+* 8701504,status.set,public
+* 8701504,status.set,returned
+
+
 
 🚨 Niet elke operatie werkt voor elk type publicatie, de velden moeten beschikbaar zijn.
 
@@ -127,6 +133,20 @@ Verwijderen: 8701504,`issn.remove`,"0268-1161"
 
 Toevoegen: 8701504,`eissn.add`,"0268-1161"\
 Verwijderen: 8701504,`eissn.remove`,"0268-1161"
+
+**Status van een record aanpassen**\
+_Use it wisely ;-)_
+
+* Withdraw:\
+  8701504,`status.set`,returned
+* Delete:\
+  8701504,`status.set`,deleted
+* Private:\
+  8701504,`status.set`,private
+* Public:\
+  8701504,`status.set`,public
+
+
 
 ### _Wat is er nog mogelijk?_
 
