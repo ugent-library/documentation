@@ -139,7 +139,8 @@ Verwijderen: 8701504,`eissn.remove`,"0268-1161"
 _Use it wisely ;-)_
 
 **Set record to public**\
-8701504,`status.set`,public
+8701504,`status.set`,public\
+⚠️ _een onvolledig record kan je niet op public zetten._
 
 **Set record as draft**\
 8701504,`status.set`,private
