@@ -134,17 +134,19 @@ Verwijderen: 8701504,`issn.remove`,"0268-1161"
 Toevoegen: 8701504,`eissn.add`,"0268-1161"\
 Verwijderen: 8701504,`eissn.remove`,"0268-1161"
 
-**Status van een record aanpassen**\
-_Use it wisely ;-)_
+### Status van een record aanpassen _Use it wisely ;-)_
 
-* Withdraw:\
-  8701504,`status.set`,returned
-* Delete:\
-  8701504,`status.set`,deleted
-* Private:\
-  8701504,`status.set`,private
-* Public:\
-  8701504,`status.set`,public
+**Set record to public**\
+8701504,`status.set`,public
+
+**Set record as draft**\
+8701504,`status.set`,private
+
+**Withdraw record**\
+8701504,`status.set`,returned
+
+**Delete record**\
+8701504,`status.set`,deleted
 
 
 
