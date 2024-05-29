@@ -134,7 +134,9 @@ Verwijderen: 8701504,`issn.remove`,"0268-1161"
 Toevoegen: 8701504,`eissn.add`,"0268-1161"\
 Verwijderen: 8701504,`eissn.remove`,"0268-1161"
 
-### Status van een record aanpassen _Use it wisely ;-)_
+### Status van een record aanpassen
+
+_Use it wisely ;-)_
 
 **Set record to public**\
 8701504,`status.set`,public
