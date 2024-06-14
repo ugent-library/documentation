@@ -167,25 +167,22 @@ Gebruik deze excel sheet om je operaties mee op te bouwen:
     Maximum 500 regels.\
 
 
-    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.37.26.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 16.37.07.png" alt=""><figcaption></figcaption></figure>
 2.  **Kopieer de velden.**\
     Zonder de hoofdingen.\
 
 
-    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.37.48.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 16.37.43.png" alt=""><figcaption></figcaption></figure>
 3.  **Plak in het "Operations" veld.**\
 
 
-    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.40.09.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 16.39.01.png" alt=""><figcaption></figcaption></figure>
 4.  Klik op Process\
+    \
+    Je ziet wat er slaagt, en wat er mislukt.\
 
 
-    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.41.35.png" alt=""><figcaption></figcaption></figure>
-
-    Als er iets niet lukt, zie je dat ook:\
-
-
-    <figure><img src="../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.57.29.png" alt=""><figcaption><p>Let op; in je excel kan het nummer van je regel verschillen.</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 16.39.38.png" alt=""><figcaption></figcaption></figure>
 5.  Bekijk je resultaat in het record\
     ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.43.15.png>)\
     ![](<../../../.gitbook/assets/Scherm­afbeelding 2023-06-05 om 11.44.23.png>)\
