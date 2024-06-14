@@ -60,8 +60,8 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 * 1234,remove\_issn,"0268-1161"
 * 8701504,add\_eissn,"0268-1161"
 * 1234,remove\_eissn,"0268-1161"
-* 8701504,lock
-* 8701504,unlock
+* 8701504,set\_locked,true
+* 8701504,set\_locked,false
 * 8701504,set\_status,deleted
 * 8701504,set\_status,private
 * 8701504,set\_status,public
