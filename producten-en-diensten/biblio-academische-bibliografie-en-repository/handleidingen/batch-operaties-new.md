@@ -26,7 +26,7 @@ De batch operaties zijn opgebouwd uit 3 onderdelen:
    `add_keyword`\
    vb. vabb\_year, project, keyword, classification, reviewer\_tag\
    \
-   `set.classification`\
+   `set_classification`\
    vb. set (instellen voor classificatie)\
    vb. add (toevoegen voor project, keywords, reviewer\_tag, vabb\_year)\
    vb. remove (verwijderen keywords, reviewer\_tag)\
@@ -62,10 +62,10 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 * 1234,remove\_eissn,"0268-1161"
 * 8701504,lock
 * 8701504,unlock
-* 8701504,status.set,deleted
-* 8701504,status.set,private
-* 8701504,status.set,public
-* 8701504,status.set,returned
+* 8701504,set\_status,deleted
+* 8701504,set\_status,private
+* 8701504,set\_status,public
+* 8701504,set\_status,returned
 
 
 
