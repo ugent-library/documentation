@@ -10,13 +10,11 @@ description: 'Batch operaties: records in bulk aanpassen voor BKT bibliotheekmed
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 15.47.28.png" alt=""><figcaption><p>Screenshot van test omgeving</p></figcaption></figure>
 
-Je kan meerdere records tegelijk bewerken. Een actie per regel per record, bijvoorbeeld:
-
-/
-
 _Voorlopig enkel beschikbaar voor publicaties. Wanneer een bulk operatie nodig is voor datasets, kunnen we de functionaliteit uitbreiden._
 
 ## Algemene principes
+
+Met batch operaties kan je meerdere records tegelijk bewerken. Een actie per regel per record.
 
 De batch operaties zijn opgebouwd uit 3 onderdelen:
 
@@ -25,10 +23,10 @@ De batch operaties zijn opgebouwd uit 3 onderdelen:
    `8701504`\
 
 2. **Metadata veld + actie**\
-   `keyword.add`\
+   `add_keyword`\
    vb. vabb\_year, project, keyword, classification, reviewer\_tag\
    \
-   `classification.set`\
+   `set.classification`\
    vb. set (instellen voor classificatie)\
    vb. add (toevoegen voor project, keywords, reviewer\_tag, vabb\_year)\
    vb. remove (verwijderen keywords, reviewer\_tag)\
@@ -41,23 +39,27 @@ De batch operaties zijn opgebouwd uit 3 onderdelen:
 
 Je plakt het commando eenvoudig aan elkaar met komma's:
 
-`8701504,project.add,2345`
+`8701504,add_project,2345`
 
 ## Voorbeelden batch operaties
 
-* 8701504,project.add,2345&#x20;
-* 8701504,vabb\_year.add,2023&#x20;
-* 8701504,classification.set,A2&#x20;
-* 8701504,keyword.add,dna,"double helix"&#x20;
-* 8701504,keyword.remove,dna&#x20;
-* 8701504,reviewer\_tag.add,esci&#x20;
-* 8701504,reviewer\_tag.remove,esci
-* 8701504,journal\_title.set,"my journal"
-* 8701504,journal\_abbreviation.set,"my journal abbreviation"
-* 8701504,isbn.add,"0268-1161" 1234,isbn.remove,"0268-1161"
-* 8701504,eisbn.add,"0268-1161" 1234,eisbn.remove,"0268-1161"
-* 8701504,issn.add,"0268-1161" 1234,issn.remove,"0268-1161"
-* 8701504,eissn.add,"0268-1161" 1234,eissn.remove,"0268-1161"
+* 8701504,add\_project,2345&#x20;
+* 8701504,add\_vabb\_year,2023&#x20;
+* 8701504,set\_classification,A2&#x20;
+* 8701504,add\_keyword,dna,"double helix"&#x20;
+* 8701504,remove\_keyword,dna
+* 8701504,add\_reviewer\_tag,esci&#x20;
+* 8701504,remove\_reviewer\_tag,esci
+* 8701504,set\_journal\_title,"my journal"
+* 8701504,set\_journal\_abbreviation,"my journal abbreviation"
+* 8701504,add\_isbn,"0268-1161"
+* 1234,remove\_isbn,"0268-1161"
+* 8701504,add\_eisbn,"0268-1161"
+* 1234,remove\_eisbn,"0268-1161"
+* 8701504,add\_issn,"0268-1161"
+* 1234,remove\_issn,"0268-1161"
+* 8701504,add\_eissn,"0268-1161"
+* 1234,remove\_eissn,"0268-1161"
 * 8701504,lock
 * 8701504,unlock
 * 8701504,status.set,deleted
