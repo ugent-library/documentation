@@ -73,16 +73,16 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 
 ### Projecten toevoegen
 
-8701504,`project.add`,001D04503
+8701504,`add_project`,001D04503
 
 ### VABB jaar toevoegen
 
-Toevoegen: 8701504,`vabb_year.add`,2023
+Toevoegen: 8701504,`add_vabb_year`,2023
 
 ### Keywords toevoegen en verwijderen
 
-Toevoegen: 8701504,`keyword.add`,dna,"double helix"\
-Verwijderen: 8701504,`keyword.remove`,dna
+Toevoegen: 8701504,`add_keyword`,dna,"double helix"\
+Verwijderen: 8701504,`remove_keyword`,dna
 
 _Je kan meerdere keywords tegelijk toevoegen met een komma. Keywords met een spatie tussen kan je toevoegen door er aanhalingstekens rond te zetten._
 
@@ -93,67 +93,65 @@ Tips:
 
 ### Classificaties instellen
 
-Instellen: 8701504,`classification.set`,A2
+Instellen: 8701504,`set_classification`,A2
 
 ### Locking instellen
 
-Instellen: 8701504,`lock`
+Instellen: 8701504,`set_locked`,true
 
-Instellen: 8701504,`unlock`
+Instellen: 8701504,`set_locked`,false
 
 ### Reviewer tags toevoegen en verwijderen
 
-Toevoegen: 8701504,`reviewer_tag.add`,esci\
-Verwijderen: 8701504,`reviewer_tag.remove`,esci
+Toevoegen: 8701504,`add_reviewer_tag`,esci\
+Verwijderen: 8701504,`remove_reviewer_tag`,esci
 
 ### Journal title toevoegen
 
-Toevoegen: 8701504,`journal_title.set`,"my journal"
+Toevoegen: 8701504,`set_journal_title`,"my journal"
 
 ### Journal abbreviation toevoegen
 
-Toevoegen: 8701504,`journal_abbreviation.set`,"my journal abbreviation"
+Toevoegen: 8701504,`set_journal_abbreviation`,"my journal abbreviation"
 
 ### ISBN, eISBN, ISSN, eISSN title toevoegen en verwijderen
 
 #### ISBN
 
-Toevoegen: 8701504,`isbn.add`,"0268-1161"\
-Verwijderen: 8701504,`isbn.remove`,"0268-1161"
+Toevoegen: 8701504,`add_isbn`,"0268-1161"\
+Verwijderen: 8701504,`remove_isbn`,"0268-1161"
 
 #### eISBN
 
-Toevoegen: 8701504,`eisbn.add`,"0268-1161"\
-Verwijderen: 8701504,`eisbn.remove`,"0268-1161"
+Toevoegen: 8701504,`add_eisbn`,"0268-1161"\
+Verwijderen: 8701504,`remove_eisbn`,"0268-1161"
 
 #### ISSN
 
-Toevoegen: 8701504,`issn.add`,"0268-1161"\
-Verwijderen: 8701504,`issn.remove`,"0268-1161"
+Toevoegen: 8701504,`add_issn`,"0268-1161"\
+Verwijderen: 8701504,`remove_issn`,"0268-1161"
 
 #### eISSN
 
-Toevoegen: 8701504,`eissn.add`,"0268-1161"\
-Verwijderen: 8701504,`eissn.remove`,"0268-1161"
+Toevoegen: 8701504,`add_eissn`,"0268-1161"\
+Verwijderen: 8701504,`remove_eissn`,"0268-1161"
 
 ### Status van een record aanpassen
 
 _Use it wisely ;-)_
 
 **Set record to public**\
-8701504,`status.set`,public\
+8701504,`set_status`,public\
 ⚠️ _een onvolledig record kan je niet op public zetten._
 
 **Set record as draft**\
-8701504,`status.set`,private
+8701504,`set_status`,private
 
 **Withdraw record**\
-8701504,`status.set`,returned
+8701504,`set_status`,returned
 
 **Delete record**\
-8701504,`status.set`,deleted
-
-
+8701504,`set_status`,deleted
 
 ### _Wat is er nog mogelijk?_
 
