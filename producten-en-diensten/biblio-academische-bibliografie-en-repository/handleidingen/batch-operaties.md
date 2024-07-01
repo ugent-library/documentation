@@ -31,7 +31,7 @@ De batch operaties zijn opgebouwd uit 3 onderdelen:
    vb. add (toevoegen voor project, keywords, reviewer\_tag, vabb\_year)\
    vb. remove (verwijderen keywords, reviewer\_tag)\
    \
-   **Tip:** Aan elkaar vast met een punt tussen. Hier mogen geen in spaties staan.\
+   **Tip:** Aan elkaar vast met een laag kastlijntje ( \_ ) tussen. Hier mogen geen spaties staan.\
 
 3. **Waarde voor veld**\
    vb.  `A2` of  `2023`\
