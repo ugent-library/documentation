@@ -31,7 +31,10 @@ _Coming up!_
 * Projecten tonen nu wat meer informatie.
 * Kleine interface aanpassingen.
 
-🔮 _Ondertussen maken we ons klaar voor grotere veranderingen..._&#x20;
+&#x20;_Ondertussen maken we ons klaar voor grotere veranderingen..._ 🔮\
+_Het Biblio team_
+
+
 
 **🏷️ EN – Handy gadgets**
 
@@ -44,7 +47,8 @@ _Coming up!_
 * Projects now show a bit more information.
 * Minor interface adjustments.
 
-🔮 _In the meantime, we are preparing for bigger changes..._
+_In the meantime, we are preparing for bigger changes..._ 🔮\
+_The Biblio team_
 
 ## \[2023] Uw feedback is kostbaar · Your Feedback is Precious
 
