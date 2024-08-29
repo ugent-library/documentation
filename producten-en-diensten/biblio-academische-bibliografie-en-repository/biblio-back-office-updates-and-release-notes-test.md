@@ -10,6 +10,42 @@ description: >-
 Looking for a more technical point of view? Go [here](https://github.com/ugent-library/biblio-backoffice/blob/main/CHANGELOG.md)!
 {% endhint %}
 
+## \[2024] Inzetten op automatisering – Focus on automation &#x20;
+
+### ⌨️🍃 Herfst & Winter – Fall & Winter ☃️🤖
+
+_Coming up!_
+
+## \[2024] Kleine updates • Small updates
+
+### 🌱Lente & Zomer – Spring & Summer 🌻
+
+**🏷️ NL – Handigheidjes**
+
+* Meer informatie te zien in het zoekoverzicht en de detailpagina hoofdingen.\
+  _Biblio ID snelknop, bewerkingsinformatie, snelle links naar ontbrekende informatie, ..._
+* Links in de Biblio message zijn nu klikbaar.\
+  _Wanneer de link start met `https://`_
+* Filters en sortering:\
+  Duidelijkere structuur en een nieuwe sorteeroptie.
+* Projecten tonen nu wat meer informatie.
+* Kleine interface aanpassingen.
+
+🔮 _Ondertussen maken we ons klaar voor grotere veranderingen..._&#x20;
+
+**🏷️ EN – Handy gadgets**
+
+* More information shown in the search overview and the detail page headers.\
+  _Biblio ID shortcut, edit information, quick links to missing information, ..._
+* Links in the Biblio message are now clickable.\
+  _When the link starts with `https://`_
+* Filters and sorting:\
+  Clearer structure and a new sort option.
+* Projects now show a bit more information.
+* Minor interface adjustments.
+
+🔮 _In the meantime, we are preparing for bigger changes..._
+
 ## \[2023] Uw feedback is kostbaar · Your Feedback is Precious
 
 ### 🍁 Herfst & Winter – Fall & Winter 2023 ❄️
