@@ -14,11 +14,17 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 ### ⌨️🍃 Herfst & Winter – Fall & Winter ☃️🤖
 
+**NL**
 
+Weet je nog toen we de mogelijkheid om je supervised dissertaties te bekijken in de backoffice? Wel, we waren dit aan het voorbereiden...
 
+_Binnenkort..._
 
+**EN**
 
-_Coming up!_
+Remember when we added the possibility to see the dissertations you supervised? Well, we were preparing for this...
+
+_Soon..._
 
 ## \[2024] Kleine updates • Small updates
 
