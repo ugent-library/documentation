@@ -47,7 +47,7 @@ _Coming up!_
     <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.06.59.png" alt=""><figcaption><p>Gestructureerde filter en een extra sorteeroptie</p></figcaption></figure>
 *   Projecten tonen nu wat meer informatie.
 
-    <figure><img src="broken-reference" alt=""><figcaption><p>Meer informatie in de projectzoeker</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.23.10.png" alt=""><figcaption><p>Meer informatie in de projectzoeker</p></figcaption></figure>
 
 &#x20;_Ondertussen maken we ons klaar voor grotere veranderingen..._ 🔮\
 _Het Biblio team_
@@ -73,9 +73,10 @@ _Het Biblio team_
     Clearer structure and a new sorting option.
 
     <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.06.59.png" alt=""><figcaption><p>Structured filters and an extra sorting option</p></figcaption></figure>
-*   Projects now show a bit more information.
+*   Projects now show a bit more information.\
 
-    <figure><img src="broken-reference" alt=""><figcaption><p>More info when looking for projects</p></figcaption></figure>
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.23.10.png" alt=""><figcaption><p>More info when looking for projects</p></figcaption></figure>
 
 _In the meantime, we are preparing for bigger changes..._ 🔮\
 _The Biblio team_
@@ -97,7 +98,7 @@ De eindejaarsdrukte staat voor de deur. De hele onderzoeksgemeenschap bereidt zi
     <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.27.51.png" alt=""><figcaption><p>Action required &#x26; Drafts to complete</p></figcaption></figure>
 
     * _**Action required**_\
-      Het Biblio team staat elke dag voor je klaar om de kwaliteit van de metadata van je onderzoek te waarborgen. Hierdoor komt je onderzoek in aanmerking voor financiering en is het te vinden op platforms zoals [Google Scholar](http://scholar.google.com), [OpenAire Explore](https://explore.openaire.eu), [GISMO](http://gismo.ugent.be) en [FRIS](https://www.researchportal.be/nl), en voldoet je onderzoeksoutput aan financieringseisen.\
+      Het Biblio team staat elke dag voor je klaar om de kwaliteit van de metadata van je onderzoek te waarborgen. Hierdoor komt je onderzoek in aanmerking voor financiering en is het te vinden op platforms zoals [Google Scholar](http://scholar.google.com), [OpenAire Explore](https://explore.openaire.eu), [GISMO](http://research.ugent.be) en [FRIS](https://www.researchportal.be/nl), en voldoet je onderzoeksoutput aan financieringseisen.\
       \
       "Action required" toont onderzoek dat cruciale informatie mist. Zodra je de ontbrekende informatie hebt ingevuld, kun je het onderzoek opnieuw publiceren. Op deze manier komen die publicaties en datasets in aanmerking voor financiering en kan de wereld ze opnieuw zien.
     * _**Drafts to complete**_\
@@ -117,7 +118,7 @@ De eindejaarsdrukte staat voor de deur. De hele onderzoeksgemeenschap bereidt zi
 
     \
     We hebben identifiers zoals BioStudies, ENA, ENA BioProject, Ensembl en Handle toegevoegd om consistente online zichtbaarheid te behouden en te voldoen aan financieringseisen\
-    Bezoek [https://backoffice.biblio.ugent.be/dataset/add](https://backoffice.biblio.ugent.be/dataset/add) en probeer het uit. Deze functie is ook in bèta - aarzel niet om ons te laten weten hoe we dit kunnen verbeteren!\
+    Bezoek [https://backoffice.biblio.ugent.be/add-dataset](https://backoffice.biblio.ugent.be/add-dataset) en probeer het uit. Deze functie is ook in bèta - aarzel niet om ons te laten weten hoe we dit kunnen verbeteren!\
 
 
     <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.42.28.png" alt=""><figcaption></figcaption></figure>
@@ -167,7 +168,7 @@ The end-of-year bustle is about to begin for everyone. The research community is
 
     We have added identifiers such as BioStudies, ENA, ENA BioProject, Ensembl, and Handle to maintain consistent online visibility and meet funding requirements.\
     \
-    Visit [https://backoffice.biblio.ugent.be/dataset/add](https://backoffice.biblio.ugent.be/dataset/add) and give it a go. This feature is in beta as well – do not hesitate to tell us how we can make this better!\
+    Visit [https://backoffice.biblio.ugent.be/add-dataset](https://backoffice.biblio.ugent.be/add-dataset) and give it a go. This feature is in beta as well – do not hesitate to tell us how we can make this better!\
 
 
     <figure><img src="../../.gitbook/assets/Screenshot 2023-11-22 at 11.42.28.png" alt=""><figcaption></figcaption></figure>
@@ -187,7 +188,7 @@ The Biblio Team
 
 In de lente en zomer hebben de teams bij de [Universiteitsbibliotheek Gent – Boekentoren](http://boekentoren.gent) zich gericht op het verzamelen van feedback van de onderzoekscommunity. Dank aan de talloze onderzoekers en onderzoeksmedewerkers die de tijd hebben genomen om hun behoeften aan ons door te geven! In het najaar zullen we hier mee aan de slag gaan.
 
-Ondertussen hebben we niet stilgezeten. Na de launch van de nieuwe Biblio interface in 2022, hebben we ons ook gericht op de belanghebbenden die onze gegevens hergebruiken, zoals [GISMO](http://gismo.ugent.be), [FRIS](https://www.researchportal.be/nl), [OpenAire Explore](https://explore.openaire.eu) en [Google Scholar](http://scholar.google.com).
+Ondertussen hebben we niet stilgezeten. Na de launch van de nieuwe Biblio interface in 2022, hebben we ons ook gericht op de belanghebbenden die onze gegevens hergebruiken, zoals [GISMO](http://research.ugent.be), [FRIS](https://www.researchportal.be/nl), [OpenAire Explore](https://explore.openaire.eu) en [Google Scholar](http://scholar.google.com).
 
 {% hint style="success" %}
 **🤝** De verspreiding van onderzoeksresultaten en het bieden van een platform voor onze onderzoekers zijn nog steeds onze belangrijkste doelen.
@@ -201,7 +202,7 @@ Houd ons in de gaten voor de komende reeks updates die tot stand komen door uw f
 
 During spring and summer, our teams at [Ghent University Library – Booktower](https://boekentoren.gent/en) focused on gathering feedback from the research community. A big thanks to the countless researchers and research staff who took the time to share their needs with us! We'll be launching new features at the end of the year based on yoru feedback.
 
-Meanwhile, we've been busy behind the scenes. Following the launch of the new Biblio interface in 2022, we also directed our attention to stakeholders reusing our data, such as [GISMO](http://gismo.ugent.be), [FRIS](https://www.researchportal.be/nl), [OpenAire Explore](https://explore.openaire.eu), and [Google Scholar](http://scholar.google.com).
+Meanwhile, we've been busy behind the scenes. Following the launch of the new Biblio interface in 2022, we also directed our attention to stakeholders reusing our data, such as [GISMO](http://research.ugent.be), [FRIS](https://www.researchportal.be/nl), [OpenAire Explore](https://explore.openaire.eu), and [Google Scholar](http://scholar.google.com).
 
 {% hint style="success" %}
 **🤝** Disseminating research outcomes and providing a platform for our researchers remain our primary objectives.
@@ -225,9 +226,9 @@ We hebben de afgelopen jaren hard gewerkt aan de ontwikkeling van een nieuwe, ro
 
 De nieuwe Biblio werd gelanceerd tegelijkertijd met het nieuwe publicatiebeleid van de Universiteit Gent. Dit nieuwe beleid bevordert de _open-access_ beweging en de verspreiding van de waardevolle kennis die onze onderzoekers de wereld in brengen.
 
-De nieuwe interface legt de basis voor enkele functionaliteiten die we de komende jaren zullen introduceren. Een van die functionaliteiten is het toevoegen van datasets als onderzoeksoutput in Biblio. Op deze manier kunnen onderzoekers zich beter profileren naar de buitenwereld toe. Andere platforms zoals FRIS, OpenAIRE Explore en Google Scholar gebruiken Biblio als hun belangrijkste bron van kwalitatieve onderzoeksoutput.\
-\
-[Lees meer over het publicatiebeleid en de impact op onze onderzoeksgemeenschap.](https://bozi.ugent.be/nl/bozi/bWCvtoNQ8nftT8GLGDHYUq/)
+De nieuwe interface legt de basis voor enkele functionaliteiten die we de komende jaren zullen introduceren. Een van die functionaliteiten is het toevoegen van datasets als onderzoeksoutput in Biblio. Op deze manier kunnen onderzoekers zich beter profileren naar de buitenwereld toe. Andere platforms zoals FRIS, OpenAIRE Explore en Google Scholar gebruiken Biblio als hun belangrijkste bron van kwalitatieve onderzoeksoutput.
+
+{% embed url="https://bozi.ugent.be/nl/bozi/bWCvtoNQ8nftT8GLGDHYUq/" %}
 
 **EN**
 
