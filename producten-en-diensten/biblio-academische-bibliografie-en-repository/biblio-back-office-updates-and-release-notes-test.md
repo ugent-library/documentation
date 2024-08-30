@@ -14,17 +14,59 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 ### ⌨️🍃 Herfst & Winter – Fall & Winter ☃️🤖
 
-**NL**
+_\[EN] Remember when we added the possibility to see the dissertations you supervised? Well, we were preparing for the next step…_
 
-Weet je nog toen we de mogelijkheid om je supervised dissertaties te bekijken in de backoffice? Wel, we waren dit aan het voorbereiden...
+#### **Biblio Suggestions – Claim and complete research that might belong to you.**
 
-_Binnenkort..._
+_The "Only once" principle_
 
-**EN**
+There’s already so much information out there about you. We want to lower the barrier for you to reuse that information.
 
-Remember when we added the possibility to see the dissertations you supervised? Well, we were preparing for this...
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.43.56.png" alt=""><figcaption><p>Biblio suggestions: where we show research output found on other trusted platforms.</p></figcaption></figure>
 
-_Soon..._
+_A new way to add research output_
+
+We already made it possible before to import research output from other platforms via identifiers and file uploads. Now, we are experimenting with automatically adding information from other resources, and directly presenting it to you in Biblio. All you need to do is confirm the research output is yours and correct or fill out any missing information. No more manual steps!
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.08.png" alt=""><figcaption><p>Preview your suggestion, claim your as your research output and fill it out.</p></figcaption></figure>
+
+_Starting with our first integration_
+
+We want to make sure we only suggest quality resources for you, with information that is worthy of your bibliography, can be shared with important parties that reuse our data such as Google Scholar and funding partners such as GISMO and FRIS, and is as complete as possible.
+
+We integrated with the UGent-resource Plato, that holds dissertations for a couple of faculties. The integration with this qualitative resource reduces the time to completion significantly as it contains a lot of information from the get go.
+
+It’s a great way to get used to this new way of working, as the volume of publications is low, but the quality is high. This also gives us time to gather feedback and get ready for bigger resources.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.54.png" alt=""><figcaption><p>Plato already has the right people selected via UGent IDs, and will suggest you departments.</p></figcaption></figure>
+
+#### Handy extra’s
+
+_More info in detail page headings_\
+When looking at your research output on a detail page, you’ll be able to see more information in the heading and copy the Biblio ID with the click of a button.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.26.58.png" alt=""><figcaption><p>Showing more information for publications, citation-style.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 16.53.21.png" alt=""><figcaption><p>Showing more information for datasets, citation-style.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.25.23.png" alt=""><figcaption><p>Copy Biblio IDs with just one click.</p></figcaption></figure>
+
+_We finally got rid of those annoying radio buttons for the import page_\
+You still need to be able to import research output from other resources, and be able to create them manually. This used to be two steps, we turned it into just one.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.18.48 (1).png" alt=""><figcaption><p>A simplified import page for publications</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.18.38 (1).png" alt=""><figcaption><p>A simplified import page for datasets</p></figcaption></figure>
+
+#### What's next?
+
+We're looking forward to receiving your feedback our new suggestions feature. In the meantime, we will be making Biblio ready to import different resources, and analysing which resources would be qualitative, sustainable and fruitful.
+
+See you back next year!
+
+The Biblio Team
+
+
 
 ## \[2024] Kleine updates • Small updates
 
