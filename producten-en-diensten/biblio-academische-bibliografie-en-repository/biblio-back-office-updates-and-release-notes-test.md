@@ -14,6 +14,10 @@ Looking for a more technical point of view? Go [here](https://github.com/ugent-l
 
 ### ⌨️🍃 Herfst & Winter – Fall & Winter ☃️🤖
 
+
+
+
+
 _Coming up!_
 
 ## \[2024] Kleine updates • Small updates
@@ -22,14 +26,28 @@ _Coming up!_
 
 **🏷️ NL – Handigheidjes**
 
-* Meer informatie te zien in het zoekoverzicht en de detailpagina hoofdingen.\
-  _Biblio ID snelknop, bewerkingsinformatie, snelle links naar ontbrekende informatie, ..._
-* Links in de Biblio message zijn nu klikbaar.\
-  _Wanneer de link start met `https://`_
-* Filters en sortering:\
-  Duidelijkere structuur en een nieuwe sorteeroptie.
-* Projecten tonen nu wat meer informatie.
-* Kleine interface aanpassingen.
+*   Meer informatie te zien in het zoekoverzicht en de detailpagina hoofdingen.\
+    _Biblio ID snelknop, bewerkingsinformatie, jouw rol voor de publicatie en datasets, snelle links naar ontbrekende informatie, ..._\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 14.10.39.png" alt=""><figcaption><p>Publicatie met snelle links naar ontbrekend informatie en een badge met jouw rol</p></figcaption></figure>
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 14.31.39 (1).png" alt=""><figcaption><p>Ingevulde publicatie</p></figcaption></figure>
+*   Supervised dissertaties nu zichtbaar voor supervisors.\
+    _Supervised disserataties kan je nu zien in "All" en "Supervised by me"_
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.02.23.png" alt=""><figcaption></figcaption></figure>
+*   Links in de Biblio message zijn nu klikbaar.\
+    _Wanneer de link start met `https://`_
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.06.16.png" alt=""><figcaption><p>Klikbare link in een boodschap</p></figcaption></figure>
+*   Filters en sortering:\
+    Duidelijker gegroepeerd en een nieuwe sorteeroptie.
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.06.59.png" alt=""><figcaption><p>Gestructureerde filter en een extra sorteeroptie</p></figcaption></figure>
+*   Projecten tonen nu wat meer informatie.
+
+    <figure><img src="broken-reference" alt=""><figcaption><p>Meer informatie in de projectzoeker</p></figcaption></figure>
 
 &#x20;_Ondertussen maken we ons klaar voor grotere veranderingen..._ 🔮\
 _Het Biblio team_
@@ -38,14 +56,26 @@ _Het Biblio team_
 
 **🏷️ EN – Handy gadgets**
 
-* More information shown in the search overview and the detail page headers.\
-  _Biblio ID shortcut, edit information, quick links to missing information, ..._
-* Links in the Biblio message are now clickable.\
-  _When the link starts with `https://`_
-* Filters and sorting:\
-  Clearer structure and a new sort option.
-* Projects now show a bit more information.
-* Minor interface adjustments.
+*   More information shown in the search overview and the detail page headers.\
+    _Biblio ID shortcut, edit information, quick links to missing information, ..._\
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 14.10.39.png" alt=""><figcaption><p>Publications with quick link to missing information, and a badge for your role.</p></figcaption></figure>
+
+
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 14.31.39 (1).png" alt=""><figcaption><p>Filled out publication</p></figcaption></figure>
+*   Links in the Biblio message are now clickable.\
+    _When the link starts with `https://`_
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.06.16.png" alt=""><figcaption><p>Clickable link in a message</p></figcaption></figure>
+*   Filters and sorting:\
+    Clearer structure and a new sorting option.
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 09.06.59.png" alt=""><figcaption><p>Structured filters and an extra sorting option</p></figcaption></figure>
+*   Projects now show a bit more information.
+
+    <figure><img src="broken-reference" alt=""><figcaption><p>More info when looking for projects</p></figcaption></figure>
 
 _In the meantime, we are preparing for bigger changes..._ 🔮\
 _The Biblio team_
