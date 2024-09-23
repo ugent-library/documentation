@@ -10,27 +10,23 @@ description: >-
 Looking for a more technical point of view? Go [here](https://github.com/ugent-library/biblio-backoffice/blob/main/CHANGELOG.md)!
 {% endhint %}
 
-## \[2024] Inzetten op automatisering – Focus on automation &#x20;
+## \[2024] Administratieve vereenvoudiging & automatisatie – Administrative simplification & automation &#x20;
 
 ### ⌨️🍃 Herfst & Winter – Fall & Winter ☃️🤖
 
-_\[EN] Remember when we added the possibility to see the dissertations you supervised? Well, we were preparing for the next step…_
+#### **\[EN] Biblio Suggestions – Import and complete your research output.**
 
-#### **Biblio Suggestions – Claim and complete research that might belong to you.**
+_A new way of adding information to Biblio_
 
-_The "Only once" principle_
+We already made it possible before to import research output from other platforms via identifiers and file uploads. But there’s already so much information out there about you. We want to lower the barrier for you to **reuse existing information**.
 
-There’s already so much information out there about you. We want to lower the barrier for you to reuse that information.
+We are experimenting with automatically adding information from other resources, and directly presenting it to you in Biblio. All you need to do is confirm the research output is yours and correct or fill out any missing information. No more manual steps!
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.43.56.png" alt=""><figcaption><p>Biblio suggestions: where we show research output found on other trusted platforms.</p></figcaption></figure>
 
-_A new way to add research output_
-
-We already made it possible before to import research output from other platforms via identifiers and file uploads. Now, we are experimenting with automatically adding information from other resources, and directly presenting it to you in Biblio. All you need to do is confirm the research output is yours and correct or fill out any missing information. No more manual steps!
-
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.08.png" alt=""><figcaption><p>Preview your suggestion, claim your as your research output and fill it out.</p></figcaption></figure>
 
-_Starting with our first integration_
+_Our first integration: Plato_
 
 We want to make sure we only suggest quality resources for you, with information that is worthy of your bibliography, can be shared with important parties that reuse our data such as Google Scholar and funding partners such as GISMO and FRIS, and is as complete as possible.
 
@@ -54,9 +50,9 @@ When looking at your research output on a detail page, you’ll be able to see m
 _We finally got rid of those annoying radio buttons for the import page_\
 You still need to be able to import research output from other resources, and be able to create them manually. This used to be two steps, we turned it into just one.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.18.48 (1).png" alt=""><figcaption><p>A simplified import page for publications</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.18.48 (1).png" alt=""><figcaption><p>A simplified import page for publications.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.18.38 (1).png" alt=""><figcaption><p>A simplified import page for datasets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.18.38 (1).png" alt=""><figcaption><p>A simplified import page for datasets.</p></figcaption></figure>
 
 #### What's next?
 
@@ -66,7 +62,54 @@ See you back next year!
 
 The Biblio Team
 
+***
 
+#### **\[NL] Biblio suggesties – Importeer en vervolledig jouw onderzoeksoutput**
+
+_Een nieuwe manier om informatie toe te voegen aan Biblio_
+
+Eerder maakten we het al mogelijk om onderzoeksresultaten van andere platforms te importeren via identificatoren en bestandsuploads. Maar er is al zoveel informatie over jou beschikbaar. We willen de drempel verlagen om **bestaande informatie zo veel mogelijk opnieuw te gebruiken**.
+
+We experimenteren met het automatisch toevoegen van informatie uit andere bronnen, die we vervolgens direct aan jou presenteren in Biblio. Het enige wat jij hoeft te doen, is bevestigen dat de onderzoeksresultaten van jou zijn, en eventuele ontbrekende informatie aanvullen. Geen handmatige stappen meer nodig!
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.43.56.png" alt=""><figcaption><p>Biblio-suggesties: hier tonen we onderzoeksresultaten die op andere vertrouwde platforms zijn gevonden.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.08.png" alt=""><figcaption><p>Bekijk een voorbeeld van uw suggestie, claim uw als uw onderzoeksresultaten en vul deze in.</p></figcaption></figure>
+
+_Onze eerste integratie: Plato_
+
+We willen er zeker van zijn dat we alleen _kwalitatieve bronnen_ voorstellen, met informatie die geschikt is voor jouw bibliografie. Deze informatie kan gedeeld worden met belangrijke partijen die onze gegevens hergebruiken, zoals Google Scholar, en met financieringspartners zoals GISMO en FRIS. Bovendien willen we dat deze informatie zo compleet mogelijk is.
+
+We hebben een integratie gemaakt met de UGent-bron Plato, die dissertaties bevat van enkele faculteiten. De integratie met deze kwalitatieve bron vermindert de tijd tot voltooiing aanzienlijk, omdat er vanaf het begin veel informatie beschikbaar is.
+
+Dit is een geweldige manier om vertrouwd te raken met deze nieuwe werkwijze, omdat het volume van publicaties laag is, maar de kwaliteit hoog. Dit geeft ons ook de tijd om feedback te verzamelen en ons voor te bereiden op grotere bronnen.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.54.png" alt=""><figcaption><p>Plato heeft al de juiste mensen geselecteerd via UGent-ID's en zal u afdelingen voorstellen.</p></figcaption></figure>
+
+#### Handige extra's
+
+_Meer informatie in de kopteksten van detailpagina’s_\
+Wanneer je jouw onderzoeksresultaten op een detailpagina bekijkt, kun je meer informatie zien in de koptekst en met één klik het Biblio-ID kopiëren.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.26.58.png" alt=""><figcaption><p>Meer informatie weergeven voor publicaties, citatiestijl.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 16.53.21.png" alt=""><figcaption><p>Meer informatie weergeven voor datasets, citatiestijl.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.25.23.png" alt=""><figcaption><p>Kopieer Biblio-ID's met slechts één klik.</p></figcaption></figure>
+
+_Eindelijk verlost van die vervelende keuzerondjes op de importpagina_\
+Je moet nog steeds onderzoeksresultaten uit andere bronnen kunnen importeren en ze handmatig kunnen aanmaken. Voorheen bestond dit uit twee stappen, maar we hebben dit teruggebracht naar slechts één stap.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.18.48 (1).png" alt=""><figcaption><p>Een vereenvoudigde importpagina voor publicaties.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 15.18.38 (1).png" alt=""><figcaption><p>Een vereenvoudigde importpagina voor datasets.</p></figcaption></figure>
+
+#### Wat nu?
+
+We kijken ernaar uit om jouw feedback over onze nieuwe suggestiefunctie te ontvangen. In de tussentijd maken we Biblio klaar om verschillende bronnen te importeren en analyseren we welke bronnen kwalitatief, duurzaam en waardevol zijn.
+
+Tot volgend jaar!\
+Het Biblio Team
 
 ## \[2024] Kleine updates • Small updates
 
