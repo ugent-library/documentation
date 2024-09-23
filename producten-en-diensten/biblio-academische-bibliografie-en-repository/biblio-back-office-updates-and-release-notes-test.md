@@ -10,7 +10,7 @@ description: >-
 Looking for a more technical point of view? Go [here](https://github.com/ugent-library/biblio-backoffice/blob/main/CHANGELOG.md)!
 {% endhint %}
 
-## \[2024] Administratieve vereenvoudiging & automatisatie – Administrative simplification & automation &#x20;
+## \[2024] Administratieve vereenvoudiging & automatisatie + handige extra's – Administrative simplification & automation + handy extra's
 
 ### ⌨️🍃 Herfst & Winter – Fall & Winter ☃️🤖
 
@@ -110,8 +110,6 @@ We kijken ernaar uit om jouw feedback over onze nieuwe suggestiefunctie te ontva
 
 Tot volgend jaar!\
 Het Biblio Team
-
-## \[2024] Kleine updates • Small updates
 
 ### 🌱Lente & Zomer – Spring & Summer 🌻
 
