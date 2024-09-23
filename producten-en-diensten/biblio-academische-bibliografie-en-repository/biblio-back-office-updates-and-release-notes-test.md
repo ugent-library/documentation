@@ -22,7 +22,9 @@ We already made it possible before to import research output from other platform
 
 We are experimenting with automatically adding information from other resources, and directly presenting it to you in Biblio. All you need to do is confirm the research output is yours and correct or fill out any missing information. No more manual steps!
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.43.56.png" alt=""><figcaption><p>Biblio suggestions: where we show research output found on other trusted platforms.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/biblio-plato-2-suggestions-2.png" alt=""><figcaption><p>Biblio suggestions: where we show research output found on other trusted platforms.</p></figcaption></figure>
+
+<figure><img src="broken-reference" alt=""><figcaption><p>Preview your suggestion, claim your as your research output and fill it out.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.08.png" alt=""><figcaption><p>Preview your suggestion, claim your as your research output and fill it out.</p></figcaption></figure>
 
@@ -34,7 +36,7 @@ We integrated with the UGent-resource Plato, that holds dissertations for a coup
 
 It’s a great way to get used to this new way of working, as the volume of publications is low, but the quality is high. This also gives us time to gather feedback and get ready for bigger resources.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.54.png" alt=""><figcaption><p>Plato already has the right people selected via UGent IDs, and will suggest you departments.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/biblio-plato-3-preview-people (1).png" alt=""><figcaption><p>Plato already has the right people selected via UGent IDs, and will suggest you departments.</p></figcaption></figure>
 
 #### Handy extra’s
 
@@ -72,7 +74,9 @@ Eerder maakten we het al mogelijk om onderzoeksresultaten van andere platforms t
 
 We experimenteren met het automatisch toevoegen van informatie uit andere bronnen, die we vervolgens direct aan jou presenteren in Biblio. Het enige wat jij hoeft te doen, is bevestigen dat de onderzoeksresultaten van jou zijn, en eventuele ontbrekende informatie aanvullen. Geen handmatige stappen meer nodig!
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.43.56.png" alt=""><figcaption><p>Biblio-suggesties: hier tonen we onderzoeksresultaten die op andere vertrouwde platforms zijn gevonden.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/biblio-plato-2-suggestions-2 (1).png" alt=""><figcaption><p>Biblio-suggesties: hier tonen we onderzoeksresultaten die op andere vertrouwde platforms zijn gevonden.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/biblio-plato-3-preview.png" alt=""><figcaption><p>Bekijk een voorbeeld van uw suggestie, claim uw als uw onderzoeksresultaten en vul deze in.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.08.png" alt=""><figcaption><p>Bekijk een voorbeeld van uw suggestie, claim uw als uw onderzoeksresultaten en vul deze in.</p></figcaption></figure>
 
@@ -84,7 +88,7 @@ We hebben een integratie gemaakt met de UGent-bron Plato, die dissertaties bevat
 
 Dit is een geweldige manier om vertrouwd te raken met deze nieuwe werkwijze, omdat het volume van publicaties laag is, maar de kwaliteit hoog. Dit geeft ons ook de tijd om feedback te verzamelen en ons voor te bereiden op grotere bronnen.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-30 at 14.45.54.png" alt=""><figcaption><p>Plato heeft al de juiste mensen geselecteerd via UGent-ID's en zal u afdelingen voorstellen.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/biblio-plato-3-preview-people.png" alt=""><figcaption><p>Plato heeft al de juiste mensen geselecteerd via UGent-ID's en zal u afdelingen voorstellen.</p></figcaption></figure>
 
 #### Handige extra's
 
