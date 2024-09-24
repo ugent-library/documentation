@@ -44,6 +44,7 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 ## Voorbeelden batch operaties
 
 * 8701504,add\_project,2345&#x20;
+* 8701504,remove\_project,2345&#x20;
 * 8701504,add\_vabb\_year,2023&#x20;
 * 8701504,set\_classification,A2&#x20;
 * 8701504,add\_keyword,dna,"double helix"&#x20;
