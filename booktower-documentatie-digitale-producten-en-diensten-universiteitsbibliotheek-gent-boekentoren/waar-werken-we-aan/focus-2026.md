@@ -142,6 +142,11 @@ Meer informatie:\
 
 ## Archivering & Digitalisering
 
+* NOOD\
+  Beleidskader, policy voor
+  * merging en frbrisation – wat verwachten we dat er in onze discovery tool zit?
+  * archivering
+
 <details>
 
 <summary><code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen (pre-ingest)<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
