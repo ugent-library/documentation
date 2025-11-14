@@ -8,13 +8,19 @@ description: Niet in die volgorde, onderhevig aan verandering.
 
 Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten-en-diensten/biblio-academische-bibliografie-en-repository/ "mention")
 
+\- Verrijken van organisaties en projecten informatie in Biblio: samenwerking met GISMO
+
+
+
 <details>
 
 <summary><code>🏋️ aan het werk</code> Verrijken van personen- en organisatie informatie in Biblio: LDAP &#x26; GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
 
 Momenteel houden verschillende producten binnen de UGent data bij over personen en organisaties om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van LDAP om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
-Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).\
+Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).
+
+TBD? UGent memorialis transfer\
 \
 [https://github.com/ugent-library/biblio-backoffice/milestone/13](https://github.com/ugent-library/biblio-backoffice/milestone/13)\
 [https://github.com/ugent-library/people-service/issues](https://github.com/ugent-library/people-service/issues)
@@ -248,10 +254,7 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 ### Onderzoeksdiensten
 
-\[later op de radar] Standaardisering en verbetering zoekinfrastructuur als gedeelde dienst voor verschillende bibliotheekoplossingen\
-\[later op de radar] Verrijken van organisaties en projecten informatie in Biblio: samenwerking met GISMO\
-\[later op de radar] UGent memorialis transfer\
-\[later op de radar] Infrastructuur hoge beschikbaarheid: zorgen dat onze producten zo bereikbaar en duurzaam mogelijk zijn\
+\
 \[later op de radar] GDPR en legale vereisten, gedeeld over producten en diensten
 
 ### Bibliotheekdiensten
