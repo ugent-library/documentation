@@ -100,7 +100,41 @@ Bijvoorbeeld:&#x20;
 
 </details>
 
+<details>
+
+<summary><code>🎬 aan te beginnen</code> Analyse mogelijkheden zoekoplossingen<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+
+Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.
+
+</details>
+
 ## Erfgoed & Boekentoren
+
+<details>
+
+<summary><code>🎬 aan te beginnen</code> Digitale exhibities </summary>
+
+Tijdelijke en permanente oplossingen voor tentoonstellingen.\
+Doel: opgezet zonder tussenkomst van ontwikkelteam, liefst in Primo / Alma.
+
+In samenwerking met Sarah, Femke, Paul, Klara, ...
+
+</details>
+
+## Bibliotheekdiensten
+
+<details>
+
+<summary><code>🛠️ Maintenance &#x26; upgrades</code> Deliver – IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+
+Deliver is in gebruik en gebruikers zijn tevreden. Er zijn echter enkele optimalisaties nodig om Deliver snel en snappy te houden. We zorgen ervoor dat er nu paginering is, en dat je eenvoudiger folders kan terugvinden.\
+\
+Meer informatie:\
+[deliver](../../producten-en-diensten/deliver/ "mention")
+
+</details>
+
+## Archivering & Digitalisering
 
 <details>
 
@@ -129,67 +163,11 @@ Volgorde TBD – iteratief te verbeteren: \
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> Digitale exhibities </summary>
-
-Tijdelijke en permanente oplossingen voor tentoonstellingen.\
-Doel: opgezet zonder tussenkomst van ontwikkelteam, liefst in Primo / Alma.
-
-In samenwerking met Sarah, Femke, Paul, Klara, ...
-
-</details>
-
-## Bibliotheekdiensten
-
-<details>
-
-<summary><code>🛠️ Maintenance &#x26; upgrades</code> Deliver – IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
-
-Deliver is in gebruik en gebruikers zijn tevreden. Er zijn echter enkele optimalisaties nodig om Deliver snel en snappy te houden. We zorgen ervoor dat er nu paginering is, en dat je eenvoudiger folders kan terugvinden.\
-\
-Meer informatie:\
-[deliver](../../producten-en-diensten/deliver/ "mention")
-
-</details>
-
-## Gedeelde oplossingen
-
-<details>
-
-<summary><code>🎬 aan te beginnen</code> Analyse mogelijkheden zoekoplossingen<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
-
-Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.
-
-</details>
-
-## Archivering & Digitalisering
-
-<details>
-
 <summary><code>🏋️ Aan het werk</code> Meemoo API – Digitale instroom inschatting<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
 
 Digitale instroom; we leveren semi-automatisch aan bij meemoo, meemoo digitaliseert. Meemoo bouwt nu een API om aan te sluiten, als dienstverlening voor iedereen.\
 \
 We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we wanneer we instappen.
-
-</details>
-
-<details>
-
-<summary><code>🎬 Aan te beginnen</code> IIIF 3.0 Image API<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
-
-🚧 onder constructie\
-\
-Meemoo APIs
-
-</details>
-
-<details>
-
-<summary><code>🎬 Aan te beginnen</code> IIIF 3.0 external Image API references<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
-
-Tijdens de [GIVE](https://meemoo.be/nl/projecten/give-gecoordineerd-initiatief-voor-vlaamse-erfgoeddigitalisering)-projecten heeft Meemoo meer dan 62.000 objecten uit onze collectie gedigitaliseerd. De digitale afbeeldingen zullen beschikbaar worden gesteld via een IIIF Image API v3-eindpunt dat wordt beheerd en gearchiveerd door Meemoo. We zouden graag integreren met dit eindpunt. Op deze manier vermijden we het downloaden van de TIFF-afbeeldingen en het opslaan ervan in GREP, en het blootstellen ervan via onze eigen IIIF-infrastructuur.
-
-Op dit moment voert Meemoo een beperkt pilootproject uit waarin ze hun IIIF-infrastructuur + flows in dienst willen testen. We zullen samenwerken door een zeer beperkte steekproef van afbeeldingen te testen (234 items).
 
 </details>
 
@@ -237,7 +215,7 @@ Deze documentatie zorgt er ook voor dat er **standaarden** ontstaan waarmee we o
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> Gedeelde componenten voor interne en publieke applicaties binnen de universiteitsbibliotheek<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+<summary>Gedeelde UI componenten voor interne en publieke applicaties binnen de universiteitsbibliotheek, zodat er een herkenbare identiteit zit in onze applicaties<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
 Op dit moment gebruiken Deliver en Biblio dezelfde UI componenten om applicaties mee te bouwen. Dit resulteert in voorspelbare, herkenbare interfaces. Idealiter gebruiken andere applicaties deze componenten ook. Deze zijn echter nog niet afgestemd op publieksinterfaces. We starten hier  met een oefening:
 
