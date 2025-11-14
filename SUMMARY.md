@@ -4,6 +4,7 @@
   * [Principes Dienstverlening & Producten](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/principes-dienstverlening-and-producten.md)
   * [High-level dienstenoverzicht](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/high-level-dienstenoverzicht.md)
   * [Waar werken we aan](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/README.md)
+    * [Focus 2026](booktower-documentatie-digitale-producten-en-diensten-universiteitsbibliotheek-gent-boekentoren/waar-werken-we-aan/focus-2026.md)
     * [Focus 2024](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/focus-2024.md)
     * [Focus 2023](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/focus-2023.md)
     * [Focus 2022](documentatie-digitale-producten-en-diensten-boekentoren-universiteitsbibliotheek-gent/waar-werken-we-aan/doelen-2022.md)
