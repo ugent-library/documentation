@@ -8,13 +8,32 @@ description: Niet in die volgorde, onderhevig aan verandering.
 
 Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten-en-diensten/biblio-academische-bibliografie-en-repository/ "mention")
 
+### Doelen
+
+* Administratieve vereenvoudiging
+* Geen zelfinvoer (hergebruik – copycat)
+* Proactief output verzamelen
+* Mensen automatisch identificeren
+* Copyright automatisch identificeren
+* Archivering
+* Interoperabiliteit naar andere organisaties en softwares toe&#x20;
+* Zoeken beter maken
+  * Query completion
+  * Semantische zoeksuggesties
+* Artificiele limieten weghalen (exporteren, bestandsgroottes, lijstjes, ...)&#x20;
+* UI feedback: transparantie over samenwerking aan zelfde record (persoon X werkt ook aan record)
+* Verbeteringen en aanvullingen op records suggereren zonder dat een record geblokkeerd of weggehaald wordt
+  * Conversatie met reviewers over een record moet losgekoppeld worden van de zichtbaarheid
+  * Heldere workflow en communicatie over ontbrekende / foutieve informatie
+* Permissies
+
+
+
 \- Verrijken van organisaties en projecten informatie in Biblio: samenwerking met GISMO
-
-
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Verrijken van personen- en organisatie informatie in Biblio: LDAP &#x26; GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Verrijken van personen- en organisatie informatie in Biblio: LDAP &#x26; GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeelde standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
 
 Momenteel houden verschillende producten binnen de UGent data bij over personen en organisaties om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van LDAP om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
 \
@@ -90,19 +109,6 @@ We zorgen ervoor dat Biblio status flows duidelijker worden.
 We maken boodschappen in Biblio duidelijker leesbaar.\
 \
 [https://github.com/ugent-library/biblio-backoffice/milestone/10](https://github.com/ugent-library/biblio-backoffice/milestone/10)
-
-</details>
-
-<details>
-
-<summary> <code>🏋️ Aan het werk</code> Message hub catbird: instant communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
-
-Om informatiever te zijn naar onze publieken toe, bouwen we een achterliggend systeem dat ervoor zorgt dat we informatie onmiddellijk kunnen tonen wanneer het nodig is.
-
-Bijvoorbeeld:&#x20;
-
-* kunnen zien dat iemand al werkt aan een formulier dat je net opent
-* kunnen zien dat iemand net een folder heeft weggesmeten waar jij in zit
 
 </details>
 
