@@ -129,6 +129,14 @@ In samenwerking met Sarah, Femke, Paul, Klara, ...
 
 ## Bibliotheekdiensten
 
+* online betalingen
+* SAP straatje herschrijven
+* itemise
+* depot
+* primo configuratie en customisations duurzaam maken
+* alma outreach community&#x20;
+* API gateway&#x20;
+
 <details>
 
 <summary><code>🛠️ Maintenance &#x26; upgrades</code> Deliver – IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
