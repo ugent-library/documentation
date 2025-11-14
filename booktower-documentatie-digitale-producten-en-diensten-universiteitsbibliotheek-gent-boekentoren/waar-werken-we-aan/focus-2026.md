@@ -87,6 +87,19 @@ We maken boodschappen in Biblio duidelijker leesbaar.\
 
 </details>
 
+<details>
+
+<summary> <code>🏋️ Aan het werk</code> Message hub catbird: instant communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+
+Om informatiever te zijn naar onze publieken toe, bouwen we een achterliggend systeem dat ervoor zorgt dat we informatie onmiddellijk kunnen tonen wanneer het nodig is.
+
+Bijvoorbeeld:&#x20;
+
+* kunnen zien dat iemand al werkt aan een formulier dat je net opent
+* kunnen zien dat iemand net een folder heeft weggesmeten waar jij in zit
+
+</details>
+
 ## Erfgoed & Boekentoren
 
 <details>
@@ -116,9 +129,12 @@ Volgorde TBD – iteratief te verbeteren: \
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Concept open erfgoed portaal<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary><code>🎬 aan te beginnen</code> Digitale exhibities </summary>
 
-Exploratie open erfgoedportaal met GUM.
+Tijdelijke en permanente oplossingen voor tentoonstellingen.\
+Doel: opgezet zonder tussenkomst van ontwikkelteam, liefst in Primo / Alma.
+
+In samenwerking met Sarah, Femke, Paul, Klara, ...
 
 </details>
 
@@ -126,7 +142,7 @@ Exploratie open erfgoedportaal met GUM.
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+<summary><code>🛠️ Maintenance &#x26; upgrades</code> Deliver – IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
 
 Deliver is in gebruik en gebruikers zijn tevreden. Er zijn echter enkele optimalisaties nodig om Deliver snel en snappy te houden. We zorgen ervoor dat er nu paginering is, en dat je eenvoudiger folders kan terugvinden.\
 \
@@ -135,57 +151,7 @@ Meer informatie:\
 
 </details>
 
-<details>
-
-<summary><code>🎬 aan te beginnen</code> GREP – S3<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
-
-Er is nu geen fallback om ervoor te zorgen dat de exports op lib.ugent.be goed blijft draaien wanneer achterliggende archiveringssystemen uitvallen. We kijken naar een oplossing die blijft draaien.
-
-We kleden het Nifi systeem uit:
-
-![](../../.gitbook/assets/access-digital-archives.png)
-
-</details>
-
-## Externe software
-
-<details>
-
-<summary><code>🎬 aan te beginnen (mogelijk 2025)</code> Traject vervanging Aleph: projectgroepen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
-
-Wanneer de vervanger van Aleph gekozen is, kunnen we aan de slag met de configuratie. Het is belangrijk dat we begrijpen waar de Faculteitsbibliotheken nood aan hebben om dit goed te configureren, en eventuele plooien glad te strijken.\
-\
-Meer informatie: [https://teams.microsoft.com/l/channel/19%3aN8Mcn\_GoTBcJ7UoTLEX17kmy8-Pcsw-7IMsn5k8UBcs1%40thread.tacv2/General?groupId=471e228f-fcb7-4a2f-b7d0-a9b85b8f0b58\&tenantId=d7811cde-ecef-496c-8f91-a1786241b99c](https://teams.microsoft.com/l/channel/19%3aN8Mcn_GoTBcJ7UoTLEX17kmy8-Pcsw-7IMsn5k8UBcs1%40thread.tacv2/General?groupId=471e228f-fcb7-4a2f-b7d0-a9b85b8f0b58\&tenantId=d7811cde-ecef-496c-8f91-a1786241b99c)
-
-</details>
-
 ## Gedeelde oplossingen
-
-<details>
-
-<summary> <code>🏋️ Aan het werk</code> Message hub catbird: instant communicatie<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
-
-Om informatiever te zijn naar onze publieken toe, bouwen we een achterliggend systeem dat ervoor zorgt dat we informatie onmiddellijk kunnen tonen wanneer het nodig is.
-
-Bijvoorbeeld:&#x20;
-
-* kunnen zien dat iemand al werkt aan een formulier dat je net opent
-* kunnen zien dat iemand net een folder heeft weggesmeten waar jij in zit
-
-</details>
-
-<details>
-
-<summary><code>🎬 aan te beginnen</code> Gedeelde componenten voor interne en publieke applicaties binnen de universiteitsbibliotheek<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
-
-Op dit moment gebruiken Deliver en Biblio dezelfde UI componenten om applicaties mee te bouwen. Dit resulteert in voorspelbare, herkenbare interfaces. Idealiter gebruiken andere applicaties deze componenten ook. Deze zijn echter nog niet afgestemd op publieksinterfaces. We starten hier  met een oefening:
-
-* Ontbrekende public-facing componenten zoals uitgebreide zoekmogelijkheden.
-* Mogelijkheid om de styling van componenten visueel te wijzigen afhankelijk van de context.
-
-Meer informatie: [https://ugentbe.sharepoint.com/:w:/r/teams/Group.PR202303913/Gedeelde%20documenten/General/T%20-%20Tooling/componentenbibliotheek/2024-01-26%20BKT%20applicaties%20identiteit%20Briefing%20februari.docx?d=w50dcef13c3d4483bbccfd28159102879\&csf=1\&web=1\&e=CDlP0o](https://ugentbe.sharepoint.com/:w:/r/teams/Group.PR202303913/Gedeelde%20documenten/General/T%20-%20Tooling/componentenbibliotheek/2024-01-26%20BKT%20applicaties%20identiteit%20Briefing%20februari.docx?d=w50dcef13c3d4483bbccfd28159102879\&csf=1\&web=1\&e=CDlP0o)
-
-</details>
 
 <details>
 
@@ -266,6 +232,19 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
 Deze documentatie zorgt er ook voor dat er **standaarden** ontstaan waarmee we ontwikkelen, zodat onze oplossingen beter op te volgen zijn.\
 \
 [https://github.com/ugent-library/biblio-backoffice/milestone/15](https://github.com/ugent-library/biblio-backoffice/milestone/15)
+
+</details>
+
+<details>
+
+<summary><code>🎬 aan te beginnen</code> Gedeelde componenten voor interne en publieke applicaties binnen de universiteitsbibliotheek<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+
+Op dit moment gebruiken Deliver en Biblio dezelfde UI componenten om applicaties mee te bouwen. Dit resulteert in voorspelbare, herkenbare interfaces. Idealiter gebruiken andere applicaties deze componenten ook. Deze zijn echter nog niet afgestemd op publieksinterfaces. We starten hier  met een oefening:
+
+* Ontbrekende public-facing componenten zoals uitgebreide zoekmogelijkheden.
+* Mogelijkheid om de styling van componenten visueel te wijzigen afhankelijk van de context.
+
+Meer informatie: [https://ugentbe.sharepoint.com/:w:/r/teams/Group.PR202303913/Gedeelde%20documenten/General/T%20-%20Tooling/componentenbibliotheek/2024-01-26%20BKT%20applicaties%20identiteit%20Briefing%20februari.docx?d=w50dcef13c3d4483bbccfd28159102879\&csf=1\&web=1\&e=CDlP0o](https://ugentbe.sharepoint.com/:w:/r/teams/Group.PR202303913/Gedeelde%20documenten/General/T%20-%20Tooling/componentenbibliotheek/2024-01-26%20BKT%20applicaties%20identiteit%20Briefing%20februari.docx?d=w50dcef13c3d4483bbccfd28159102879\&csf=1\&web=1\&e=CDlP0o)
 
 </details>
 
