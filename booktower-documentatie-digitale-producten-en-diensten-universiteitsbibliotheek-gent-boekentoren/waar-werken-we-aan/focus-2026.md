@@ -248,42 +248,28 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 ***
 
+## Infrastructuur secretariaat
+
+* Decomissioning van servers die na de Alma-D-Primo overstap + archiveringsflow niet meer nodig zijn.
+* Via snowflake analytische data aanleveren aan power BI:\
+  Vereenvoudigen van datastromen over verschillende applicaties heen
+* Ism DICT: metrics (prometheus als aanvulling op log collector)
+
 ## Later op de radar
 
 2024 en later.
 
 ### Onderzoeksdiensten
 
-\
-\[later op de radar] GDPR en legale vereisten, gedeeld over producten en diensten
-
-### Bibliotheekdiensten
-
-* Flow print-bestellingen, flow e-bookbestellingen, flowable upgrades
-* Eliot servers uitschakelen
-* Bezoekersaccounts en Externe online inschrijvingen
-
-### Erfgoed en Boekentoren
-
-* Erfgoed data-hub
-* Consult code GUM – BKT samenbrengen strategie voor erfgoedportaal
-* Pre-ingest interface
-* Collectie Virginie Loveling
-* Glasplatencollectie
-* OJS servers uit
+* \[later op de radar] GDPR en legale vereisten, gedeeld over producten en diensten
 
 ### Archivering
 
-* Server upgrades, serverpark migraties
 * Google Books
 
-### Library analytics
+### CMS
 
-* Vereenvoudigen van datastromen over verschillende applicaties heen
-* DICT graylog infrastructur
+* CraftCMS vervangen door UGentCMS
+  * Boekentoren.gent
+  * tour.boekentoren.gent
 
-### Doorlopende verantwoordelijkheden
-
-* Kennisopbouw en gedeelde infrastructuur experiment:
-  * Asynchrone batch-operaties
-  * Beslissing deadline: orchestrator / dispatcher service
