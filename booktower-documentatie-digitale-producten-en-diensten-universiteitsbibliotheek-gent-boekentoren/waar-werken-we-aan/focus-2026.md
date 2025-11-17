@@ -144,10 +144,27 @@ In samenwerking met Sarah, Femke, Paul, Klara, ...
 ## Bibliotheekdiensten
 
 * online betalingen
-* SAP straatje herschrijven
+  * TBD Rosemie; timing niet opportuun
+  * Q4 2025 – Q1 2026
+* SAP tijdelijke oplossing
+  * Q4 2025 TBD met Koen
+* SAP straatje _**herschrijven**_
+  * Q3 2026 (in lijn met oplossingen archief)
 * itemise
+  * Q4 2025 TBD met Koen
+  * Afzonderlijke applicatie in Alma (Plan A)\
+    of Go (Plan C)\
+    of tussenweg Alma & Go (Plan B = A+C)
+  * Scoping to do
+    * Technisch (Leuven?)
+    * Inhoudelijk
 * depot
+  * Na Q1 2026 – maintenance mode, lager tempo
 * primo configuratie en customisations duurzaam maken
+  * Evalueren hoe breekbaar oplossingen zijn
+  * Community traject: welke oplossingen kunnen opgenomen worden
+  * Breekbare onderdelen verduurzamen (Angular componenten + testen)
+  * TBD guinea pig traject – zelfde als community?
 * alma outreach community&#x20;
 * API gateway (openingsuren etc)
 
@@ -164,24 +181,29 @@ Meer informatie:\
 
 ## Archivering & Digitalisering
 
-* NOOD\
-  Beleidskader, policy voor
-  * merging en frbrisation – wat verwachten we dat er in onze discovery tool zit?
-  * archivering
+* Nood: Beleidskader, policy voor merging en frbrisation – wat verwachten we dat er in onze discovery tool zit? + archivering
+  * Uitgeschreven, beslissingsboom
+  * Pat, Fran, ...
+  * Timing TBD met Pat&#x20;
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen (pre-ingest)<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary>TBD met Sarah en Matthias <code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen (pre-ingest) <br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
 Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.\
 \
 [https://booktower.gitbook.io/pre-ingest/](https://booktower.gitbook.io/pre-ingest/)
 
-**Stap 1a**: Vervanging van de scan-workflow door middel van een dropfolder.\
+**Stap 1a**: Vervanging van de scan-workflow door middel van een drop folder.\
 Structuur afgeklopt, aan het implementeren. POC kan al ingezet worden om materiaal in op te stapelen zonder te verwerken.
 
-**Stap 1b**: Allemaal in een S3 buffer.\
-\
+* Q1
+
+**Stap 1b**: Allemaal in een S3 buffer.
+
+* Q1\
+
+
 Volgorde TBD – iteratief te verbeteren: \
 \
 **Stap W**:  GUI om materiaal op te vragen + communicatie (instant, mailing – depends).\
@@ -196,7 +218,7 @@ Volgorde TBD – iteratief te verbeteren: \
 
 <details>
 
-<summary><code>🏋️ Aan het werk</code> Meemoo API – Digitale instroom inschatting<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+<summary>Timing To Be Defined <code>🏋️ Aan het werk</code> Meemoo API – Digitale instroom inschatting<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
 
 Digitale instroom; we leveren semi-automatisch aan bij meemoo, meemoo digitaliseert. Meemoo bouwt nu een API om aan te sluiten, als dienstverlening voor iedereen.\
 \
