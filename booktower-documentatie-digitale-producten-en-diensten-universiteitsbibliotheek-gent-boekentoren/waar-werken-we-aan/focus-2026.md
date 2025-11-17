@@ -8,6 +8,8 @@ description: Niet in die volgorde, onderhevig aan verandering.
 
 Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten-en-diensten/biblio-academische-bibliografie-en-repository/ "mention")
 
+
+
 ### Doelen
 
 * Administratieve vereenvoudiging
@@ -26,6 +28,12 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
   * Conversatie met reviewers over een record moet losgekoppeld worden van de zichtbaarheid
   * Heldere workflow en communicatie over ontbrekende / foutieve informatie
 * Permissies
+
+
+
+Ruimte voor strategie
+
+Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
 
 
 
@@ -141,7 +149,7 @@ In samenwerking met Sarah, Femke, Paul, Klara, ...
 * depot
 * primo configuratie en customisations duurzaam maken
 * alma outreach community&#x20;
-* API gateway&#x20;
+* API gateway (openingsuren etc)
 
 <details>
 
@@ -269,14 +277,30 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 ## Infrastructuur secretariaat
 
-* Decomissioning van servers die na de Alma-D-Primo overstap + archiveringsflow niet meer nodig zijn.
+* Decomissioning van servers die na de Alma-D-Primo overstap\
+  \+ archiveringsflow niet meer nodig zijn.
+  * Libadmin, flowable, lib, solar, libstore, ...\
+    decomissioned, geen VMs meer
+  * EOY 2026
 * Via snowflake analytische data aanleveren aan power BI:\
   Vereenvoudigen van datastromen over verschillende applicaties heen
-* Ism DICT: metrics (prometheus als aanvulling op log collector)
+  * Case: Jaarverslag, onderzoeken, analyse – een case vinden
+  * Samenwerkingen
+    * Anniek
+    * Veerle
+    * Iemand bij DICT
+  * **Q1 2026: case maken voor 2027; partially TBD**
+* Metrics (prometheus als aanvulling op log collector)
+  * Case: 1 applicatie in productie die metrics naar prometheus
+  * Ism DICT&#x20;
+  * **Q2 depot**&#x20;
+* Samenwerking DICT lange termijn, betere afspraken
+  * **Q1**
+  * -> Rosemie, Johan VC
 
 ## Later op de radar
 
-2024 en later.
+2027 en later.
 
 ### Onderzoeksdiensten
 
