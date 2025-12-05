@@ -200,14 +200,16 @@ Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de B
 \
 [https://booktower.gitbook.io/pre-ingest/](https://booktower.gitbook.io/pre-ingest/)
 
-**Stap 1a**: Vervanging van de scan-workflow door middel van een drop folder.\
+**Stap 1a (Q1 afgerond)**: Vervanging van de scan-workflow door middel van een drop folder / inbox.\
 Structuur afgeklopt, aan het implementeren. POC kan al ingezet worden om materiaal in op te stapelen zonder te verwerken.
 
 * Q1
 
 **Stap 1b**: Allemaal in een S3 buffer.
 
-* Q1<br>
+* Q1\
+  \
+  <mark style="color:$primary;background-color:blue;">Te escaleren naar Rosemie: Thesissen termijn</mark><br>
 
 Volgorde TBD – iteratief te verbeteren: \
 \
