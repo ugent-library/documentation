@@ -200,24 +200,34 @@ Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de B
 \
 [https://booktower.gitbook.io/pre-ingest/](https://booktower.gitbook.io/pre-ingest/)
 
-**Stap 1a (Q1 afgerond)**: Vervanging van de scan-workflow door middel van een drop folder / inbox.\
-Structuur afgeklopt, aan het implementeren. POC kan al ingezet worden om materiaal in op te stapelen zonder te verwerken.
+Volgorde TBD – iteratief te verbeteren:&#x20;
 
-* Q1
+**Q1**
 
-**Stap 1b**: Allemaal in een S3 buffer.
+* **Stap 1a (Q1 afgerond)**: Vervanging van de scan-workflow door middel van een drop folder / inbox.\
+  Structuur afgeklopt, aan het implementeren. POC kan al ingezet worden om materiaal in op te stapelen zonder te verwerken.
+* **Stap 1b**: Allemaal in een S3 buffer.
+* <mark style="color:$primary;background-color:blue;">Te escaleren naar Rosemie: Thesissen termijn</mark>\
+  Februari: 1 x manueel migratie / upload van thesissen.
 
-* Q1\
-  \
-  <mark style="color:$primary;background-color:blue;">Te escaleren naar Rosemie: Thesissen termijn</mark><br>
+**Q2**
 
-Volgorde TBD – iteratief te verbeteren: \
+Werken aan Alma D Route + Roda (later Meemoo)
+
+_Primitieve manier van self-service download nog te bekijken in Q2 -_\
+_hi-res beschikbaar in Alma D._<br>
+
+* **Stap W**:  GUI om materiaal op te vragen + communicatie (instant, mailing – depends).
+* **Stap X**: Straat van buffer naar Roda.
+* **Stap Y**: Straat van Roda naar meemoo en Alma D (TBD).
+
 \
-**Stap W**:  GUI om materiaal op te vragen + communicatie (instant, mailing – depends).\
+**Q2-Q3**<br>
+
+* Pas na de zomer opnieuw upload van thesissen, maar op duurzame manier.
+
 \
-**Stap X**: Straat van buffer naar Roda.\
-\
-**Stap Y**: Straat van Roda naar meemoo en Alma D (TBD).
+**Q3?**
 
 **Stap Z**: Dashboard om status van wat er in de dropfolder zit te kunnen opvolgen (success, gefaald, redenen, jobs weer in gang steken).
 
@@ -232,6 +242,10 @@ Digitale instroom; we leveren semi-automatisch aan bij meemoo, meemoo digitalise
 We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we wanneer we instappen.
 
 </details>
+
+Thesissen
+
+
 
 ## Doorlopende verantwoordelijkheden
 
