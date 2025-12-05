@@ -207,7 +207,7 @@ Volgorde TBD – iteratief te verbeteren:&#x20;
 * **Stap 1a (Q1 afgerond)**: Vervanging van de scan-workflow door middel van een drop folder / inbox.\
   Structuur afgeklopt, aan het implementeren. POC kan al ingezet worden om materiaal in op te stapelen zonder te verwerken.
 * **Stap 1b**: Allemaal in een S3 buffer.
-* <mark style="color:$primary;background-color:blue;">Te escaleren naar Rosemie: Thesissen termijn</mark>\
+* <mark style="color:$warning;background-color:blue;">**Te escaleren naar Rosemie: Thesissen termijn**</mark>\
   Februari: 1 x manueel migratie / upload van thesissen.
 
 **Q2**
