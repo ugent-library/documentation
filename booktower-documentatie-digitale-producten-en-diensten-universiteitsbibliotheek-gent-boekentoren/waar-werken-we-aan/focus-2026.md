@@ -139,7 +139,8 @@ Doel: opgezet zonder tussenkomst van ontwikkelteam, liefst in Primo / Alma.
 
 In samenwerking met Sarah, Femke, Paul, Klara, ...\
 \
-Emily? Specto? Lib.ugent.be?
+Emily? Specto? Lib.ugent.be?\
+Van De Velde 2027
 
 </details>
 
