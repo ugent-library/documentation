@@ -137,7 +137,9 @@ Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet 
 Tijdelijke en permanente oplossingen voor tentoonstellingen.\
 Doel: opgezet zonder tussenkomst van ontwikkelteam, liefst in Primo / Alma.
 
-In samenwerking met Sarah, Femke, Paul, Klara, ...
+In samenwerking met Sarah, Femke, Paul, Klara, ...\
+\
+Emily? Specto? Lib.ugent.be?
 
 </details>
 
@@ -163,8 +165,11 @@ In samenwerking met Sarah, Femke, Paul, Klara, ...
 * primo configuratie en customisations duurzaam maken
   * Evalueren hoe breekbaar oplossingen zijn
   * Community traject: welke oplossingen kunnen opgenomen worden
+    * Igelu
+    * TBD guinea pig traject – zelfde als community?
+    * Oplossingen laten opnemen
   * Breekbare onderdelen verduurzamen (Angular componenten + testen)
-  * TBD guinea pig traject – zelfde als community?
+  * Werkgroepjes
 * alma outreach community&#x20;
 * API gateway (openingsuren etc)
 
@@ -201,8 +206,7 @@ Structuur afgeklopt, aan het implementeren. POC kan al ingezet worden om materia
 
 **Stap 1b**: Allemaal in een S3 buffer.
 
-* Q1\
-
+* Q1<br>
 
 Volgorde TBD – iteratief te verbeteren: \
 \
@@ -236,17 +240,13 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
 
 *   **Nodig onderhoud van onderliggende technische systemen.** We zorgen ervoordat onze onderliggende systemen veilig en robuust blijven.
 
-    _Vb. front-end framework upgrades: Bootstrap 5, server upgrades: librecat -> CentOS, serverpark migraties, back-ups, object store, CraftCMS, opvolging Inuits... Wegmigreren van oude software, archivering van historische Bibliotheekaanvragen_\
-
+    _Vb. front-end framework upgrades: Bootstrap 5, server upgrades: librecat -> CentOS, serverpark migraties, back-ups, object store, CraftCMS, opvolging Inuits... Wegmigreren van oude software, archivering van historische Bibliotheekaanvragen_<br>
 * **Derde lijn ondersteuning van bestaande software oplossingen**: Biblio, Deliver, Lib, IIIF, Shared Canvas, DMP online (ondersteuning uitfasering), LibAdmin, logisitiek systeem, GREP.
   * **Ondersteuning** bij nieuwe functionaliteiten of veranderingen binnen bestaande producten. _Vb. Biblio, Deliver, Lib_
-  * **Inschatten** van (nieuwe) noden en gevraagde oplossingen, over alle producten heen.\
-
-* **Inbakken van automatische testen** van gebouwde oplossingen om eventuele fouten voortijdig op te kunnen sporen.\
-
+  * **Inschatten** van (nieuwe) noden en gevraagde oplossingen, over alle producten heen.<br>
+* **Inbakken van automatische testen** van gebouwde oplossingen om eventuele fouten voortijdig op te kunnen sporen.<br>
 * Vlot samenwerken: ervoor zorgen dat de technische set-up kwalitatief is voor iedereen die code schrijft, zodat er minder tijd gaat naar het afstemmen.\
-  vb. Containerisation Biblio, Person service, Project service, OAI, ...\
-
+  vb. Containerisation Biblio, Person service, Project service, OAI, ...<br>
 * Samenwerking tussen verschillende UGent diensten ondersteunen en gebruik maken van gedeelde infrastructuur.\
   &#xNAN;_&#x56;b. Piwik, samenwerking Inuits, Vault ..._
 
