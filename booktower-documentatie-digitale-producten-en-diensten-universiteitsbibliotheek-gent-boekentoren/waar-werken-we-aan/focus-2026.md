@@ -37,7 +37,7 @@ Inhoud
 
 </details>
 
-
+## Extra
 
 Ruimte voor strategie
 
@@ -45,78 +45,43 @@ Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
 
 
 
+## Blokjes
+
 \- Verrijken van organisaties en projecten informatie in Biblio: samenwerking met GISMO
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Verrijken van personen- en organisatie informatie in Biblio: LDAP &#x26; GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeelde standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Biblio uitbreiding<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
 
-Momenteel houden verschillende producten binnen de UGent data bij over personen en organisaties om hun diensten vlot aan te bieden. GISMO en LDAP zijn hier twee voorbeelden. We integereren met de systemen van LDAP om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
-\
-Deze manier van uitwisselen kan later ook hergebruikt worden in andere systemen (vb. vervanger Aleph).
+* Front-end afzonderlijk product maken
+* Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...)
+* OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
 
-TBD? UGent memorialis transfer\
-\
-[https://github.com/ugent-library/biblio-backoffice/milestone/13](https://github.com/ugent-library/biblio-backoffice/milestone/13)\
-[https://github.com/ugent-library/people-service/issues](https://github.com/ugent-library/people-service/issues)
+Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.
 
-</details>
+Doel:
 
-<details>
-
-<summary><code>🏋️ aan het werk</code> Verrijken van project informatie in Biblio: samenwerking met GISMO<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
-
-Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.\
-\
-[https://github.com/ugent-library/biblio-backoffice/milestone/13](https://github.com/ugent-library/biblio-backoffice/milestone/13)\
-[https://github.com/ugent-library/people-service/issues](https://github.com/ugent-library/people-service/issues)
+* Betere metadata
+* Administratieve vereenvoudiging door hergebruik (copycat)
+* Agent-proof maken: ontwikkelingseffort delen\
+  (Bots + andere mensen binnen de bibliotheek zoals Pat en Kevin kunnen bijdragen)
+* Onderzoeksoutput wordt niet zomaar offline gehaald en we laten toe om output te verbeteren (change requests)
 
 </details>
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Betere doorstroom van informatie naar hergebruikers (OAI)<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    </summary>
+<summary><code>🎬 te verfijnen</code>  Duurzame archivering Biblio 🚨<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
-We pakken het bibliotheekprotocol OAI dat gebruikt wordt door derden om informatie mee binnen te trekken aan. We zorgen dat derden de informatie beter kunnen verwerken.
-
-We zorgen ervoor dat de informatie die nu uitgewisseld wordt naar GISMO op een standaard manier gebeurt, in lijn met onze andere diensten.
-
-_e.g. betere timestamps, meer standaard herbruikbare oplossing_
+Archiefstraat voor Biblio PDF bestanden. Niet via DICT, share, Roda, ...&#x20;
 
 </details>
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Automatisering en administratieve vereenvoudiging: automatische doorstroom van dissertaties uit Plato<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>    <mark style="color:red;"><code>administratief eenvoudig</code></mark>  <mark style="color:red;"><code>only once</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark></summary>
+<summary><code>🎬 te verfijnen</code> Ontwerp en testen:<br>Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
 
-Plato verzamelt, net zoals Biblio, dissertaties. Het delen van die informatie gebeurt nu echter manueel door leden van de Boekentoren, onderzoeksmedewerkers of wordt gewoon manueel ingegeven. Hier gebeurt enorm veel dubbel werk.\
-\
-Plato is de eerste case die we gebruiken. We willen dit ook graag toepassen op andere diensten.\
-\
-Fase 1: designfase + design testfase (afgerond)\
-Fase 2: eerste klikbare prototype + prototype testfase (bijna afgerond)\
-Fase 3: eerst werkende prototype (aan te starten)\
-Fase 4: lancering eerste verbeteringen\
-\
-[https://github.com/ugent-library/biblio-backoffice/milestone/11](https://github.com/ugent-library/biblio-backoffice/milestone/11)
-
-</details>
-
-<details>
-
-<summary><code>🎬 te verfijnen</code>  Duurzame archivering Biblio<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
-
-Archiefstraat voor Biblio PDF bestanden.
-
-</details>
-
-<details>
-
-<summary><code>🎬 te verfijnen</code> Ontwerp en testen: Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
-
-We zorgen voor een vlottere instroom van informatie, waarbij we zorgen dat onderzoekers zich kunnen richten op informatie waar zij controle over hebben en waarde uit halen.\
-\
-We zorgen dat de bibliotheekmedewerkers op een vlotte manier informatie kunnen verwerken en toevoegen die waarde toebrengt aan de bibliotheek en de universiteit.
+We zorgen dat onderzoekers zo weinig mogelijk van 0 moeten starten.
 
 We richten ons op het tijdig vinden van duplicate informatie.
 
