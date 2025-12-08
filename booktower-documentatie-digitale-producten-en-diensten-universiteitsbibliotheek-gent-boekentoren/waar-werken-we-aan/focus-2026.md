@@ -7,7 +7,8 @@ description: Niet in die volgorde, onderhevig aan verandering.
 > Het grootste deel van de effort gaat verdeeld zijn over:
 >
 > * Erfgoedwerking (Archief)
-> * Plaats in de universiteit door werk aan Biblio
+> * Plaats in de universiteit door werk aan Biblio\
+>   Uitbreiding front-office&#x20;
 
 ## Onderzoeksdiensten
 
@@ -15,15 +16,16 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Biblio uitbreiding 🦁🦁🦁<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+<summary></summary>
 
-* Front-end afzonderlijk product maken\
-  Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
+* Front-end herwerken
+  * Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
+  * OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...) + metadata verrijken dmv andere repositories af te schuimen
-* OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
+  * Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.
 * Lijm Biblio-FAIRvault
 
-Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.
+
 
 Doel:
 
