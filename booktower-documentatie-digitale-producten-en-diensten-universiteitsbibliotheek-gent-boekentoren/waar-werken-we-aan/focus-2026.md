@@ -6,7 +6,7 @@ description: Niet in die volgorde, onderhevig aan verandering.
 
 > Het grootste deel van de effort gaat verdeeld zijn over:
 >
-> * Erfgoedwerking
+> * Erfgoedwerking (Archief)
 > * Plaats in de universiteit door werk aan Biblio
 
 ## Onderzoeksdiensten
@@ -17,7 +17,8 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <summary><code>🏋️ aan het werk</code> Biblio uitbreiding 🦁🦁🦁<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
-* Front-end afzonderlijk product maken
+* Front-end afzonderlijk product maken\
+  Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...)
 * OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
 
@@ -32,7 +33,7 @@ Doel:
 * Onderzoeksoutput wordt niet zomaar offline gehaald en we laten toe om output te verbeteren (change requests)
 * Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.]
 
-Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
+
 
 </details>
 
@@ -73,7 +74,7 @@ Wie, wat nodig
 Emily uren
 
 * Front office
-* Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, ...)
+* Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, meerdere bronnen, ...)
 
 Product terug in kaart brengen -> features en technologieen in kaart brengen -> profielen en resources in kaart brengen
 
