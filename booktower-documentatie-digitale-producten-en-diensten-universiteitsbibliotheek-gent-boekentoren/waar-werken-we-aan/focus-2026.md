@@ -302,6 +302,10 @@ Onze diensten en producten worden niet in een silo gebouwd.
     * gedragen, implementeerbaar, backwards compatible, klaar voor nieuwe bronnen met vagere types
   * \[Later] Rollen contributors vereenvoudiging
     * Systemen ontwarren, kiezen (Credit, First-last, Shared, ... UGent policy)
+  * Verplichte velden
+    * Gedragen, implementeerbaar
+    * Klaar voor nieuwe bronnen met vagere types
+    * Wat moet er bij GISMO gebeuren?
 
 <details>
 
