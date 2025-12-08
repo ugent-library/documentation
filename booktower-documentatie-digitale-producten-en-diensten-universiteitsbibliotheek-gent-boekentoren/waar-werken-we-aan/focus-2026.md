@@ -169,36 +169,21 @@ Na Q1 2026 – maintenance mode, lager tempo
 
 </details>
 
-
-
-* primo configuratie en customisations duurzaam maken
-  * Evalueren hoe breekbaar oplossingen zijn
-  * Community traject: welke oplossingen kunnen opgenomen worden
-    * Igelu
-    * TBD guinea pig traject – zelfde als community?
-    * Oplossingen laten opnemen
-  * Breekbare onderdelen verduurzamen (Angular componenten + testen)
-  * Werkgroepjes
-* alma outreach community&#x20;
-* API gateway (openingsuren etc)
-
 <details>
 
-<summary><code>🛠️ Maintenance &#x26; upgrades</code> Deliver – IBL diensten – Optimalisatie performantie en zoekmogelijkheden<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+<summary><code>🛠️ Te beginnen</code> Heropbouw open data catalogus <br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
 
-Deliver is in gebruik en gebruikers zijn tevreden. Er zijn echter enkele optimalisaties nodig om Deliver snel en snappy te houden. We zorgen ervoor dat er nu paginering is, en dat je eenvoudiger folders kan terugvinden.\
-\
-Meer informatie:\
-[deliver](../../producten-en-diensten/deliver/ "mention")
+* API Gateway
+  * Catalogus -> dump -> Alma -> S3 object
+  * Openingsuren etc
+* Visie TBD met Pat
+  * Hoe ver gaan we?
+  * SRU, OAI, Biblio, ...&#x20;
+* Later: Documentatie gateway&#x20;
 
 </details>
 
 ## Archivering & Digitalisering
-
-* Nood: Beleidskader, policy voor merging en frbrisation – wat verwachten we dat er in onze discovery tool zit? + archivering
-  * Uitgeschreven, beslissingsboom
-  * Pat, Fran, ...
-  * Timing TBD met Pat&#x20;
 
 <details>
 
@@ -252,6 +237,8 @@ We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we w
 </details>
 
 Thesissen
+
+
 
 
 
@@ -345,9 +332,25 @@ Onze diensten en producten worden niet in een silo gebouwd.
   * **Q1**
   * -> Rosemie, Johan VC
 
-## Uitdagingen
+## 🚧 Uitdagingen, noden, danger zone
+
+<details>
+
+<summary><code>🎬 te verfijnen</code>  Primo configuratie [niet voor ons]<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark> </summary>
+
+* Evalueren hoe breekbaar oplossingen zijn – afwachten Q3 2026
+* Community traject: welke oplossingen kunnen opgenomen worden (Klara? Paul? Kristel? Ontwikkelteam: aanspreekpunt, ondersteuning, terugkoppeling)
+  * Igelu
+  * TBD guinea pig traject – zelfde als community?
+  * Oplossingen laten opnemen
+
+</details>
 
 * Limitatie customization libcatalog
+* Nood: Beleidskader, policy voor merging en frbrisation – wat verwachten we dat er in onze discovery tool zit? + archivering
+  * Uitgeschreven, beslissingsboom
+  * Pat, Fran, ...
+  * Timing TBD met Pat&#x20;
 
 ## Later op de radar
 
@@ -370,4 +373,8 @@ Onze diensten en producten worden niet in een silo gebouwd.
 ### Open Journals
 
 * Design -> duurzaam = bestaand theme gebruiken?
+
+
+
+Deliver
 
