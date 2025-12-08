@@ -21,6 +21,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
   Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...)
 * OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
+* Lijm Biblio-FAIRvault
 
 Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.
 
@@ -32,8 +33,6 @@ Doel:
   (Bots + andere mensen binnen de bibliotheek zoals Pat en Kevin kunnen bijdragen)
 * Onderzoeksoutput wordt niet zomaar offline gehaald en we laten toe om output te verbeteren (change requests)
 * Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.]
-
-
 
 </details>
 
@@ -65,18 +64,23 @@ We maken boodschappen in Biblio duidelijker leesbaar.\
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> Biblio ontwikkelteam verduurzamen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🎬 te verfijnen</code> Biblio strategie en ontwikkelteam verduurzamen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
 
-Team visie uitwerken; lange termijn strategie
+Product terug in kaart brengen -> features en technologieen in kaart brengen
 
-Wie, wat nodig
+* Rol Bibliotheek Visie nota
+* Duidelijk maken: wat is GISMO en wat is Biblio
 
-Emily uren
 
-* Front office
-* Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, meerdere bronnen, ...)
 
-Product terug in kaart brengen -> features en technologieen in kaart brengen -> profielen en resources in kaart brengen
+Team visie uitwerken; lange termijn strategie – Profielen en resources in kaart brengen
+
+* Wie, wat nodig
+* Emily uren
+  * Front office
+  * Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, meerdere bronnen, ...)
+
+
 
 </details>
 
@@ -292,6 +296,9 @@ Onze diensten en producten worden niet in een silo gebouwd.
 ***
 
 ## 🚧 Uitdagingen, noden, danger zone
+
+* Biblio
+  * (resource) types, gedragen, implementeerbaarheid
 
 <details>
 
