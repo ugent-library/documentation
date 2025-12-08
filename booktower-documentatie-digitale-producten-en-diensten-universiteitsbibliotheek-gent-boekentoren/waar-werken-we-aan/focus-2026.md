@@ -51,7 +51,7 @@ Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Biblio uitbreiding<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Biblio uitbreiding<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
 * Front-end afzonderlijk product maken
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...)
@@ -66,6 +66,7 @@ Doel:
 * Agent-proof maken: ontwikkelingseffort delen\
   (Bots + andere mensen binnen de bibliotheek zoals Pat en Kevin kunnen bijdragen)
 * Onderzoeksoutput wordt niet zomaar offline gehaald en we laten toe om output te verbeteren (change requests)
+* Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.
 
 </details>
 
@@ -93,24 +94,26 @@ We maken boodschappen in Biblio duidelijker leesbaar.\
 
 </details>
 
-<details>
-
-<summary><code>🎬 aan te beginnen</code> Analyse mogelijkheden zoekoplossingen<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
-
-Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.
-
-</details>
-
 ## Erfgoed & Boekentoren
 
 <details>
 
 <summary><code>🎬 aan te beginnen</code> Digitale exhibities </summary>
 
-Tijdelijke en permanente oplossingen voor tentoonstellingen.\
-Doel: opgezet zonder tussenkomst van ontwikkelteam, liefst in Primo / Alma.
+Tijdelijke en permanente oplossingen voor tentoonstellingen in Primo / Alma.
 
-In samenwerking met Sarah, Femke, Paul, Klara, ...\
+In samenwerking met Sarah, Femke, Paul, Klara, ...<br>
+
+TBD:
+
+* Welke compromissen sluiten we?
+* Enkel specto of tentoonstellingen in Primo? -> enkel Emily design werk
+  * Enkel gebruiken wat er in Primo zit -> stap 1, meest eenvoudige, dan is er tenminste iets.
+* Custom pagina's  [https://lib-ugent-static-code.vercel.app/lib/collections/detail.html](https://lib-ugent-static-code.vercel.app/lib/collections/detail.html) -> ook werk met cms DICT – niet vanzelfsprekend
+* Voorbeelden?
+
+\
+Uitdaging: grens customisability en integraties (Saas VS in-house)\
 \
 Emily? Specto? Lib.ugent.be?\
 Van De Velde 2027
