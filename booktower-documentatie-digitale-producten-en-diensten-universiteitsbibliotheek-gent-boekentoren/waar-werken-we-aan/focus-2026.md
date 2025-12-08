@@ -72,6 +72,9 @@ Wie, wat nodig
 
 Emily uren
 
+* Front office
+* Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, ...)
+
 Product terug in kaart brengen -> features en technologieen in kaart brengen -> profielen en resources in kaart brengen
 
 </details>
@@ -294,6 +297,7 @@ Onze diensten en producten worden niet in een silo gebouwd.
 <summary><code>🎬 te verfijnen</code>  Primo configuratie [niet voor ons]<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark> </summary>
 
 * Evalueren hoe breekbaar oplossingen zijn – afwachten Q3 2026
+  * Angular components werken nog niet goed; verduurzamen van designwerk is nog niet aan de orde
 * Community traject: welke oplossingen kunnen opgenomen worden (Klara? Paul? Kristel? Ontwikkelteam: aanspreekpunt, ondersteuning, terugkoppeling)
   * Igelu
   * TBD guinea pig traject – zelfde als community?
