@@ -31,10 +31,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 * Agent-proof maken: ontwikkelingseffort delen\
   (Bots + andere mensen binnen de bibliotheek zoals Pat en Kevin kunnen bijdragen)
-* Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.
-
-
-
+* Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.<br>
 * Betere metadata
 * Administratieve vereenvoudiging door hergebruik (copycat)
 * Onderzoeksoutput wordt niet zomaar offline gehaald en we laten toe om output te verbeteren (change requests)
