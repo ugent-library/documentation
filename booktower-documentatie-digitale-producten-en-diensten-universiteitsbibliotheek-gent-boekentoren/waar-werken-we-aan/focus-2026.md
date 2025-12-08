@@ -10,6 +10,11 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 
 
+> Het grootste deel van de effort gaat verdeeld zijn over:
+>
+> * Erfgoedwerking
+> * Plaats in de universiteit door werk aan Biblio
+
 ### Doelen
 
 * Administratieve vereenvoudiging
@@ -51,7 +56,7 @@ Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Biblio uitbreiding<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+<summary><code>🏋️ aan het werk</code> Biblio uitbreiding 🦁🦁🦁<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
 * Front-end afzonderlijk product maken
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...)
@@ -187,9 +192,9 @@ Na Q1 2026 – maintenance mode, lager tempo
 
 <details>
 
-<summary>TBD met Sarah en Matthias <code>🏋️ aan het werk</code> Verrijking van erfgoedcollectie: digitale giften via hardware ondersteunen (pre-ingest) <br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary> <code>🏋️ aan het werk</code> Archiefstraat erfgoedcollectie 🦁🦁🦁<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
-Er is geen manier om digitale bronnen die gedoneerd worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.\
+Er is geen manier om digitale bronnen (vb. scanaanvragen, digitale giften via hardware ondersteunen en thesissen) worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.\
 \
 [https://booktower.gitbook.io/pre-ingest/](https://booktower.gitbook.io/pre-ingest/)
 
@@ -226,21 +231,7 @@ _hi-res beschikbaar in Alma D._<br>
 
 </details>
 
-<details>
-
-<summary>Timing To Be Defined <code>🏋️ Aan het werk</code> Meemoo API – Digitale instroom inschatting<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
-
-Digitale instroom; we leveren semi-automatisch aan bij meemoo, meemoo digitaliseert. Meemoo bouwt nu een API om aan te sluiten, als dienstverlening voor iedereen.\
-\
-We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we wanneer we instappen.
-
-</details>
-
 Thesissen
-
-
-
-
 
 ## Doorlopende verantwoordelijkheden
 
@@ -363,6 +354,16 @@ Onze diensten en producten worden niet in een silo gebouwd.
 ### Archivering
 
 * Google Books
+
+<details>
+
+<summary>Timing To Be Defined <code>🏋️ Aan het werk</code> Meemoo API – Digitale instroom inschatting<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+
+Digitale instroom; we leveren semi-automatisch aan bij meemoo, meemoo digitaliseert. Meemoo bouwt nu een API om aan te sluiten, als dienstverlening voor iedereen.\
+\
+We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we wanneer we instappen.
+
+</details>
 
 ### CMS
 
