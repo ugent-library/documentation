@@ -16,7 +16,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary></summary>
+<summary><code>🏋️ aan het werk</code> Biblio uitbreiding 🦁🦁🦁<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
 * Front-end herwerken
   * Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
@@ -27,14 +27,17 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 
 
-Doel:
+**Doelen**
+
+* Agent-proof maken: ontwikkelingseffort delen\
+  (Bots + andere mensen binnen de bibliotheek zoals Pat en Kevin kunnen bijdragen)
+* Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.
+
+
 
 * Betere metadata
 * Administratieve vereenvoudiging door hergebruik (copycat)
-* Agent-proof maken: ontwikkelingseffort delen\
-  (Bots + andere mensen binnen de bibliotheek zoals Pat en Kevin kunnen bijdragen)
 * Onderzoeksoutput wordt niet zomaar offline gehaald en we laten toe om output te verbeteren (change requests)
-* Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.]
 
 </details>
 
