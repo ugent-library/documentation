@@ -4,55 +4,14 @@ description: Niet in die volgorde, onderhevig aan verandering.
 
 # Focus 2026
 
-## Onderzoeksdiensten
-
-Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten-en-diensten/biblio-academische-bibliografie-en-repository/ "mention")
-
-
-
 > Het grootste deel van de effort gaat verdeeld zijn over:
 >
 > * Erfgoedwerking
 > * Plaats in de universiteit door werk aan Biblio
 
-### Doelen
+## Onderzoeksdiensten
 
-* Administratieve vereenvoudiging
-* Geen zelfinvoer (hergebruik – copycat)
-* Proactief output verzamelen
-* Mensen automatisch identificeren
-* Copyright automatisch identificeren
-* Archivering
-* Interoperabiliteit naar andere organisaties en softwares toe&#x20;
-* Zoeken beter maken
-  * Query completion
-  * Semantische zoeksuggesties
-* Artificiele limieten weghalen (exporteren, bestandsgroottes, lijstjes, ...)&#x20;
-* UI feedback: transparantie over samenwerking aan zelfde record (persoon X werkt ook aan record)
-* Verbeteringen en aanvullingen op records suggereren zonder dat een record geblokkeerd of weggehaald wordt
-  * Conversatie met reviewers over een record moet losgekoppeld worden van de zichtbaarheid
-  * Heldere workflow en communicatie over ontbrekende / foutieve informatie
-* Permissies
-
-<details>
-
-<summary><code>🏋️ template</code> Titel<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeelde standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
-
-Inhoud
-
-</details>
-
-## Extra
-
-Ruimte voor strategie
-
-Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
-
-
-
-## Blokjes
-
-\- Verrijken van organisaties en projecten informatie in Biblio: samenwerking met GISMO
+Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten-en-diensten/biblio-academische-bibliografie-en-repository/ "mention")
 
 <details>
 
@@ -71,7 +30,9 @@ Doel:
 * Agent-proof maken: ontwikkelingseffort delen\
   (Bots + andere mensen binnen de bibliotheek zoals Pat en Kevin kunnen bijdragen)
 * Onderzoeksoutput wordt niet zomaar offline gehaald en we laten toe om output te verbeteren (change requests)
-* Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.
+* Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.]
+
+Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
 
 </details>
 
@@ -80,6 +41,8 @@ Doel:
 <summary><code>🎬 te verfijnen</code>  Duurzame archivering Biblio 🚨<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
 
 Archiefstraat voor Biblio PDF bestanden. Niet via DICT, share, Roda, ...&#x20;
+
+Ook externe postgres dumps
 
 </details>
 
@@ -96,6 +59,20 @@ We zorgen ervoor dat Biblio status flows duidelijker worden.
 We maken boodschappen in Biblio duidelijker leesbaar.\
 \
 [https://github.com/ugent-library/biblio-backoffice/milestone/10](https://github.com/ugent-library/biblio-backoffice/milestone/10)
+
+</details>
+
+<details>
+
+<summary><code>🎬 te verfijnen</code> Biblio ontwikkelteam verduurzamen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
+
+Team visie uitwerken; lange termijn strategie
+
+Wie, wat nodig
+
+Emily uren
+
+Product terug in kaart brengen -> features en technologieen in kaart brengen -> profielen en resources in kaart brengen
 
 </details>
 
@@ -237,6 +214,16 @@ Thesissen
 
 De wereld stopt niet met draaien. We zitten in een context waar onze verantwoordelijkheid van die aard is dat we diensten en producten niet zomaar "on hold" kunnen zetten.
 
+
+
+* Decomissioning van servers die na de Alma-D-Primo overstap\
+  \+ archiveringsflow niet meer nodig zijn.
+  * Libadmin, flowable, lib, solar, libstore, ...\
+    decomissioned, geen VMs meer
+  * EOY 2026
+
+
+
 <details>
 
 <summary>Onderhoud en ondersteuning voor software oplossingen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
@@ -300,29 +287,6 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 ***
 
-## Infrastructuur secretariaat
-
-* Decomissioning van servers die na de Alma-D-Primo overstap\
-  \+ archiveringsflow niet meer nodig zijn.
-  * Libadmin, flowable, lib, solar, libstore, ...\
-    decomissioned, geen VMs meer
-  * EOY 2026
-* Via snowflake analytische data aanleveren aan power BI:\
-  Vereenvoudigen van datastromen over verschillende applicaties heen
-  * Case: Jaarverslag, onderzoeken, analyse – een case vinden
-  * Samenwerkingen
-    * Anniek
-    * Veerle
-    * Iemand bij DICT
-  * **Q1 2026: case maken voor 2027; partially TBD**
-* Metrics (prometheus als aanvulling op log collector)
-  * Case: 1 applicatie in productie die metrics naar prometheus
-  * Ism DICT&#x20;
-  * **Q2 depot**&#x20;
-* Samenwerking DICT lange termijn, betere afspraken
-  * **Q1**
-  * -> Rosemie, Johan VC
-
 ## 🚧 Uitdagingen, noden, danger zone
 
 <details>
@@ -342,10 +306,33 @@ Onze diensten en producten worden niet in een silo gebouwd.
   * Uitgeschreven, beslissingsboom
   * Pat, Fran, ...
   * Timing TBD met Pat&#x20;
+* Budget
+  * AI copilot&#x20;
+
+### DICT & Infrastructuur
+
+* Metrics (prometheus als aanvulling op log collector)
+  * Case: 1 applicatie in productie die metrics naar prometheus
+  * Ism DICT&#x20;
+  * **Q2 depot**&#x20;
+* Samenwerking DICT lange termijn, betere afspraken
+  * **Q1**
+  * -> Rosemie, Johan VC
 
 ## Later op de radar
 
 2027 en later.
+
+### Infrastructuur
+
+* Via snowflake analytische data aanleveren aan power BI:\
+  Vereenvoudigen van datastromen over verschillende applicaties heen
+  * Case: Jaarverslag, onderzoeken, analyse – een case vinden
+  * Samenwerkingen
+    * Anniek
+    * Veerle
+    * Iemand bij DICT
+  * **Q1 2026: case maken voor 2027; partially TBD**
 
 ### Onderzoeksdiensten
 
