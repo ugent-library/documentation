@@ -300,10 +300,8 @@ Onze diensten en producten worden niet in een silo gebouwd.
 * Biblio
   * **(resource) type: Afgerond Q2, bruikbaar Q3**
     * gedragen, implementeerbaar, backwards compatible, klaar voor nieuwe bronnen met vagere types
-  * \[Later] Rollen contributors
-    * Credit
-    * First-last
-    * Shared ...
+  * \[Later] Rollen contributors vereenvoudiging
+    * Systemen ontwarren, kiezen (Credit, First-last, Shared, ... UGent policy)
 
 <details>
 
