@@ -298,7 +298,12 @@ Onze diensten en producten worden niet in een silo gebouwd.
 ## 🚧 Uitdagingen, noden, danger zone
 
 * Biblio
-  * (resource) types, gedragen, implementeerbaarheid
+  * **(resource) type: Afgerond Q2, bruikbaar Q3**
+    * gedragen, implementeerbaar, backwards compatible, klaar voor nieuwe bronnen met vagere types
+  * \[Later] Rollen contributors
+    * Credit
+    * First-last
+    * Shared ...
 
 <details>
 
