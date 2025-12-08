@@ -122,23 +122,55 @@ Van De Velde 2027
 
 ## Bibliotheekdiensten
 
-* online betalingen
-  * TBD Rosemie; timing niet opportuun
-  * Q4 2025 – Q1 2026
-* SAP tijdelijke oplossing
-  * Q4 2025 TBD met Koen
-* SAP straatje _**herschrijven**_
-  * Q3 2026 (in lijn met oplossingen archief)
-* itemise
-  * Q4 2025 TBD met Koen
-  * Afzonderlijke applicatie in Alma (Plan A)\
-    of Go (Plan C)\
-    of tussenweg Alma & Go (Plan B = A+C)
-  * Scoping to do
-    * Technisch (Leuven?)
-    * Inhoudelijk
-* depot
-  * Na Q1 2026 – maintenance mode, lager tempo
+<details>
+
+<summary><code>🎬 te verfijnen</code>  Online betalingen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+
+Bridge 1:\
+Payment requests opvangen uit Alma en doorsturen naar Serrala
+
+Bridge 2: \
+Bevestiging van betaling bij Serrala opvangen en via API in Alma opladen
+
+Q4 2025 – Q1 2026
+
+</details>
+
+<details>
+
+<summary><code>🎬 te verfijnen</code>  SAP Bridge<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+
+* _**Tijdelijke**_ oplossing in gebruik
+  * Q4 2025
+* SAP message bus bridge herschrijven (ook ikv GISMO en Biblio + oplossing archief)
+  * Analyse Q4 2025 – Q1 2026
+  * _**Uitwerken: Q3 2026?**_
+
+</details>
+
+<details>
+
+<summary><code>🎬 te verfijnen</code>  Itemise<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+
+Q4 2025 - Q1 2026
+
+* Demo = done
+* Analyse Fran & Liesbeth
+* Brug applicaties – excel
+* authenticatie
+
+</details>
+
+<details>
+
+<summary><code>🎬 te verfijnen</code>  Depot<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+
+Na Q1 2026 – maintenance mode, lager tempo
+
+</details>
+
+
+
 * primo configuratie en customisations duurzaam maken
   * Evalueren hoe breekbaar oplossingen zijn
   * Community traject: welke oplossingen kunnen opgenomen worden
