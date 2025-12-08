@@ -29,6 +29,14 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
   * Heldere workflow en communicatie over ontbrekende / foutieve informatie
 * Permissies
 
+<details>
+
+<summary><code>🏋️ template</code> Titel<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeelde standaarden</code></mark>  <mark style="color:red;"><code>only once</code></mark></summary>
+
+Inhoud
+
+</details>
+
 
 
 Ruimte voor strategie
@@ -337,6 +345,10 @@ Onze diensten en producten worden niet in een silo gebouwd.
   * **Q1**
   * -> Rosemie, Johan VC
 
+## Uitdagingen
+
+* Limitatie customization libcatalog
+
 ## Later op de radar
 
 2027 en later.
@@ -354,4 +366,8 @@ Onze diensten en producten worden niet in een silo gebouwd.
 * CraftCMS vervangen door UGentCMS
   * Boekentoren.gent
   * tour.boekentoren.gent
+
+### Open Journals
+
+* Design -> duurzaam = bestaand theme gebruiken?
 
