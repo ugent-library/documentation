@@ -19,7 +19,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 * Front-end afzonderlijk product maken\
   Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
-* Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...)
+* Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...) + metadata verrijken dmv andere repositories af te schuimen
 * OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
 * Lijm Biblio-FAIRvault
 
