@@ -76,9 +76,16 @@ Product terug in kaart brengen -> features en technologieen in kaart brengen
 Team visie uitwerken; lange termijn strategie – Profielen en resources in kaart brengen
 
 * Wie, wat nodig
-* Emily uren
-  * Front office
-  * Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, meerdere bronnen, ...)
+* Intern
+  * Inge – change management en liaison
+  * Kevin (?)
+  * Pat
+* Extern
+  * Emily
+    * Front office
+    * Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, meerdere bronnen, ...)
+
+
 
 
 
