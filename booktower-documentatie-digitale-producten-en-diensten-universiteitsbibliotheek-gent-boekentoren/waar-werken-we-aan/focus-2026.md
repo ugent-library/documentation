@@ -110,6 +110,7 @@ TBD:
   * Enkel gebruiken wat er in Primo zit -> stap 1, meest eenvoudige, dan is er tenminste iets.
 * Custom pagina's  [https://lib-ugent-static-code.vercel.app/lib/collections/detail.html](https://lib-ugent-static-code.vercel.app/lib/collections/detail.html) -> ook werk met cms DICT – niet vanzelfsprekend
 * Voorbeelden?
+* Configuratie: [https://knowledge.exlibrisgroup.com/Alma/Product\_Documentation/010Alma\_Online\_Help\_(English)/040Resource\_Management/050Inventory/050Managing\_Collections](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_\(English\)/040Resource_Management/050Inventory/050Managing_Collections)
 
 \
 Uitdaging: grens customisability en integraties (Saas VS in-house)\
