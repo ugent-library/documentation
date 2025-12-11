@@ -119,6 +119,22 @@ Van De Velde 2027
 
 </details>
 
+<details>
+
+<summary><code>🎬 aan te beginnen</code> CraftCMS Major upgrade Maart 2026</summary>
+
+Alternatief: hosten in de cloud tot we dict cms gebruiken [https://craftcms.com/cloud#pricing](https://craftcms.com/cloud#pricing)
+
+</details>
+
+<details>
+
+<summary><code>🎬 aan te beginnen</code> Vercel Bauke</summary>
+
+Overdragen aan Koen?
+
+</details>
+
 ## Bibliotheekdiensten
 
 <details>
@@ -192,36 +208,9 @@ Er is geen manier om digitale bronnen (vb. scanaanvragen, digitale giften via ha
 \
 [https://booktower.gitbook.io/pre-ingest/](https://booktower.gitbook.io/pre-ingest/)
 
-Volgorde TBD – iteratief te verbeteren:&#x20;
+Tijdlijn: [https://ugentbe.sharepoint.com/:w:/r/sites/CA20\_BKT\_Team\_Collecties/Digitale%20collecties/9.%20workflow/Timeline%20upload%20nieuwe%20digitale%20content%20%E2%80%93%20Alma%20Digital%20en%20RO.docx?d=w2c9334da00434ee29fb7fb6c102021d1\&csf=1\&web=1\&e=8PddRw](https://ugentbe.sharepoint.com/:w:/r/sites/CA20_BKT_Team_Collecties/Digitale%20collecties/9.%20workflow/Timeline%20upload%20nieuwe%20digitale%20content%20%E2%80%93%20Alma%20Digital%20en%20RO.docx?d=w2c9334da00434ee29fb7fb6c102021d1\&csf=1\&web=1\&e=8PddRw)
 
-**Q1**
-
-* **Stap 1a (Q1 afgerond)**: Vervanging van de scan-workflow door middel van een drop folder / inbox.\
-  Structuur afgeklopt, aan het implementeren. POC kan al ingezet worden om materiaal in op te stapelen zonder te verwerken.
-* **Stap 1b**: Allemaal in een S3 buffer.
-* <mark style="color:$warning;background-color:blue;">**Te escaleren naar Rosemie: Thesissen termijn**</mark>\
-  Februari: 1 x manueel migratie / upload van thesissen.
-
-**Q2**
-
-Werken aan Alma D Route + Roda (later Meemoo)
-
-_Primitieve manier van self-service download nog te bekijken in Q2 -_\
-_hi-res beschikbaar in Alma D._<br>
-
-* **Stap W**:  GUI om materiaal op te vragen + communicatie (instant, mailing – depends).
-* **Stap X**: Straat van buffer naar Roda.
-* **Stap Y**: Straat van Roda naar meemoo en Alma D (TBD).
-
-\
-**Q2-Q3**<br>
-
-* Pas na de zomer opnieuw upload van thesissen, maar op duurzame manier.
-
-\
-**Q3?**
-
-**Stap Z**: Dashboard om status van wat er in de dropfolder zit te kunnen opvolgen (success, gefaald, redenen, jobs weer in gang steken).
+Te escaleren: thesissen termijn
 
 </details>
 
