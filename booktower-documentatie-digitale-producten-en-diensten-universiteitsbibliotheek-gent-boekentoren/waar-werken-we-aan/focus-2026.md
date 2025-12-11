@@ -73,8 +73,6 @@ Product terug in kaart brengen -> features en technologieen in kaart brengen
 * Rol Bibliotheek Visie nota
 * Duidelijk maken: wat is GISMO en wat is Biblio
 
-
-
 Team visie uitwerken; lange termijn strategie – Profielen en resources in kaart brengen
 
 * Wie, wat nodig
@@ -87,9 +85,22 @@ Team visie uitwerken; lange termijn strategie – Profielen en resources in kaar
     * Front office
     * Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, meerdere bronnen, ...)
 
+</details>
 
+<details>
 
+<summary><code>🎬 te verfijnen</code> FRIS &#x26; FWO Update</summary>
 
+Myriam:\
+Vanaf 2027 is er een uitbreiding van de published output die via FRIS aan FWO moet gerapporteerd worden (bv. ook preprints, book reviews, reports, datasets). Daarvoor zal in 2026 werk zijn aan de GISMO kant (daarvoor is ook een project ingediend en goedgekeurd in de ICT demand oefening voor 2026), maar mogelijks ook bij Biblio (bv. mogelijke impact op de oefening rond de miscellaneous resource types). Wat er al dan niet precies in Biblio moet gebeuren, is nog verder te bespreken en bepalen. Het zou nog kunnen meevallen, maar wellicht best iets om rekening mee te houden. De details over wat er vanaf 2027 gevraagd wordt qua FWO-rapportering via FRIS kent Stefanie best. &#x20;
+
+</details>
+
+<details>
+
+<summary><code>🎬 te verfijnen</code> FairVault integratie: test traject </summary>
+
+Myriam: Ivm FAIRVault: als er eventueel iets van integratie met Biblio is dat we toch al mee zouden willen testen in de FAIRVault pilot (al is het maar bij wijze van proof of concept), dan zal dat ook eerder voor Q1-Q2 2026 zijn. Geen idee of dat wenselijk/haalbaar is, maar ik geef het mee omdat Rosemie er morgen mogelijks naar zal vragen (want ook vroeger al heeft ze gevraagd of integratie met Biblio mee in scope zit van de FAIRVault pilot).
 
 </details>
 
