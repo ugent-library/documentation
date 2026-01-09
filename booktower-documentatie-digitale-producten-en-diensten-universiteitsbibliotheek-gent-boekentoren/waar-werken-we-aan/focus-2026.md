@@ -16,7 +16,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary><code>🏋️ aan het werk</code> Biblio uitbreiding 🦁🦁🦁<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+<summary></summary>
 
 * Front-end herwerken
   * Externen betrekken; tentakels naar buiten (Nele Bracke?)\
@@ -113,6 +113,23 @@ Myriam: Ivm FAIRVault: als er eventueel iets van integratie met Biblio is dat we
 <summary><code>🎬 te verfijnen</code> Thesissen</summary>
 
 De "hete aardappel" moet een plek krijgen. Voorlopig: 2x per jaar thesissen manueel online zetten, daarna meer gestructureerde oplossing nodig als deel van Biblio.
+
+</details>
+
+<details>
+
+<summary>    <code>🤲 nood: Open Science Team</code> (resource) teyps, rollen, verplichte velden</summary>
+
+Nood aan policy van OS team ikv
+
+* **(resource) type: Afgerond Q2, bruikbaar Q3**
+  * gedragen, implementeerbaar, backwards compatible, klaar voor nieuwe bronnen met vagere types
+* \[Later] Rollen contributors vereenvoudiging
+  * Systemen ontwarren, kiezen (Credit, First-last, Shared, ... UGent policy)
+* Verplichte velden
+  * Gedragen, implementeerbaar
+  * Klaar voor nieuwe bronnen met vagere types
+  * Wat moet er bij GISMO gebeuren?
 
 </details>
 
@@ -236,16 +253,6 @@ Te escaleren: thesissen termijn
 
 De wereld stopt niet met draaien. We zitten in een context waar onze verantwoordelijkheid van die aard is dat we diensten en producten niet zomaar "on hold" kunnen zetten.
 
-
-
-* Decomissioning van servers die na de Alma-D-Primo overstap\
-  \+ archiveringsflow niet meer nodig zijn.
-  * Libadmin, flowable, lib, solar, libstore, ...\
-    decomissioned, geen VMs meer
-  * EOY 2026
-
-
-
 <details>
 
 <summary>Sunset / decomission van onnodige servers EOY 2026<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
@@ -322,16 +329,6 @@ Onze diensten en producten worden niet in een silo gebouwd.
 ***
 
 ## 🚧 Uitdagingen, noden, danger zone
-
-* Biblio
-  * **(resource) type: Afgerond Q2, bruikbaar Q3**
-    * gedragen, implementeerbaar, backwards compatible, klaar voor nieuwe bronnen met vagere types
-  * \[Later] Rollen contributors vereenvoudiging
-    * Systemen ontwarren, kiezen (Credit, First-last, Shared, ... UGent policy)
-  * Verplichte velden
-    * Gedragen, implementeerbaar
-    * Klaar voor nieuwe bronnen met vagere types
-    * Wat moet er bij GISMO gebeuren?
 
 <details>
 
