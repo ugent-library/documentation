@@ -361,11 +361,74 @@ Onze diensten en producten worden niet in een silo gebouwd.
   * **Q1**
   * -> Rosemie, Johan VC
 
+***
+
 ## Later op de radar
 
 2027 en later.
 
-### Infrastructuur
+### Onderzoeksdiensten
+
+<details>
+
+<summary> <code>🕰️ TBD</code> GDPR en legale vereisten, gedeeld over producten en diensten Biblio</summary>
+
+
+
+</details>
+
+### Bibliotheekdiensten
+
+<details>
+
+<summary> <code>🕰️ TBD</code> Open Journals</summary>
+
+Design -> duurzaam = bestaand theme gebruiken?
+
+</details>
+
+<details>
+
+<summary> <code>🕰️ TBD</code> Deliver</summary>
+
+
+
+</details>
+
+### Archivering
+
+<details>
+
+<summary> <code>🕰️ TBD</code> Google Books</summary>
+
+
+
+</details>
+
+<details>
+
+<summary><code>🕰️ TBD</code> Meemoo API – Digitale instroom inschatting<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+
+Digitale instroom; we leveren semi-automatisch aan bij meemoo, meemoo digitaliseert. Meemoo bouwt nu een API om aan te sluiten, als dienstverlening voor iedereen.\
+\
+We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we wanneer we instappen.
+
+</details>
+
+### DICT
+
+<details>
+
+<summary> <code>🕰️ TBD</code> CraftCMS vervangen door UGentCMS</summary>
+
+* boekentoren.gent
+* tour.boekentoren.gent
+
+</details>
+
+<details>
+
+<summary> <code>🕰️ TBD</code> Snowflake / power BI</summary>
 
 * Via snowflake analytische data aanleveren aan power BI:\
   Vereenvoudigen van datastromen over verschillende applicaties heen
@@ -376,35 +439,7 @@ Onze diensten en producten worden niet in een silo gebouwd.
     * Iemand bij DICT
   * **Q1 2026: case maken voor 2027; partially TBD**
 
-### Onderzoeksdiensten
-
-* \[later op de radar] GDPR en legale vereisten, gedeeld over producten en diensten
-
-### Archivering
-
-* Google Books
-
-<details>
-
-<summary>Timing To Be Defined <code>🏋️ Aan het werk</code> Meemoo API – Digitale instroom inschatting<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark> <mark style="color:green;"><code>autonomie</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
-
-Digitale instroom; we leveren semi-automatisch aan bij meemoo, meemoo digitaliseert. Meemoo bouwt nu een API om aan te sluiten, als dienstverlening voor iedereen.\
-\
-We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we wanneer we instappen.
-
 </details>
 
-### CMS
 
-* CraftCMS vervangen door UGentCMS
-  * Boekentoren.gent
-  * tour.boekentoren.gent
-
-### Open Journals
-
-* Design -> duurzaam = bestaand theme gebruiken?
-
-
-
-Deliver
 
