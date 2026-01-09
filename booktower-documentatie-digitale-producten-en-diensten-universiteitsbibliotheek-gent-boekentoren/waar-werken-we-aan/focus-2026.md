@@ -19,11 +19,10 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 <summary><code>🏋️ aan het werk</code> Biblio uitbreiding 🦁🦁🦁<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
 * Front-end herwerken
-  * Externen betrekken; werkgroepje; tentakels naar buiten (Nele Bracke? Inge? Pat?)
+  * Externen betrekken; werkgroepje (Open Science + Publiek & innovatie); tentakels naar buiten (Nele Bracke?)
   * OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...) + metadata verrijken dmv andere repositories af te schuimen
   * Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.
-* Lijm Biblio-FAIRvault
 
 
 
@@ -98,7 +97,9 @@ Vanaf 2027 is er een uitbreiding van de published output die via FRIS aan FWO mo
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> FairVault integratie: test traject </summary>
+<summary><code>🎬 te verfijnen</code> FairVault integratie: proof of concept test traject</summary>
+
+Lijm Biblio-FAIRvault proof of concept
 
 Myriam: Ivm FAIRVault: als er eventueel iets van integratie met Biblio is dat we toch al mee zouden willen testen in de FAIRVault pilot (al is het maar bij wijze van proof of concept), dan zal dat ook eerder voor Q1-Q2 2026 zijn. Geen idee of dat wenselijk/haalbaar is, maar ik geef het mee omdat Rosemie er morgen mogelijks naar zal vragen (want ook vroeger al heeft ze gevraagd of integratie met Biblio mee in scope zit van de FAIRVault pilot).
 
