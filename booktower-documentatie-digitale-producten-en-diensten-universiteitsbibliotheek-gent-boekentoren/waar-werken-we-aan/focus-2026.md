@@ -4,7 +4,7 @@ description: Niet in die volgorde, onderhevig aan verandering.
 
 # Focus 2026
 
-> Het grootste deel van de effort gaat verdeeld zijn over:
+> Het grootste deel van de effort in 2026 gaat verdeeld zijn over:
 >
 > * Erfgoedwerking (Archief)
 > * Plaats in de universiteit door werk aan Biblio\
@@ -105,6 +105,14 @@ Vanaf 2027 is er een uitbreiding van de published output die via FRIS aan FWO mo
 Lijm Biblio-FAIRvault proof of concept
 
 Myriam: Ivm FAIRVault: als er eventueel iets van integratie met Biblio is dat we toch al mee zouden willen testen in de FAIRVault pilot (al is het maar bij wijze van proof of concept), dan zal dat ook eerder voor Q1-Q2 2026 zijn. Geen idee of dat wenselijk/haalbaar is, maar ik geef het mee omdat Rosemie er morgen mogelijks naar zal vragen (want ook vroeger al heeft ze gevraagd of integratie met Biblio mee in scope zit van de FAIRVault pilot).
+
+</details>
+
+<details>
+
+<summary><code>🎬 te verfijnen</code> Thesissen</summary>
+
+De "hete aardappel" moet een plek krijgen. Voorlopig: 2x per jaar thesissen manueel online zetten, daarna meer gestructureerde oplossing nodig als deel van Biblio.
 
 </details>
 
@@ -224,8 +232,6 @@ Te escaleren: thesissen termijn
 
 </details>
 
-Thesissen
-
 ## Doorlopende verantwoordelijkheden
 
 De wereld stopt niet met draaien. We zitten in een context waar onze verantwoordelijkheid van die aard is dat we diensten en producten niet zomaar "on hold" kunnen zetten.
@@ -239,6 +245,18 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
   * EOY 2026
 
 
+
+<details>
+
+<summary>Sunset / decomission van onnodige servers EOY 2026<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
+
+Servers die na de Alma-D-Primo overstap & archiveringsflow niet meer nodig zijn verwijderen.
+
+* Libadmin, flowable, lib, solar, libstore, ... geen VMs meer
+
+Plan opstellen door beheerders.
+
+</details>
 
 <details>
 
