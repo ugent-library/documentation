@@ -19,7 +19,8 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 <summary><code>🏋️ aan het werk</code> Biblio uitbreiding 🦁🦁🦁<br><mark style="color:blue;"><code>hergebruik</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:red;"><code>only oncetransparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
 * Front-end herwerken
-  * Externen betrekken; werkgroepje (Open Science + Publiek & innovatie); tentakels naar buiten (Nele Bracke?)
+  * Externen betrekken; tentakels naar buiten (Nele Bracke?)\
+    samen met intern werkgroepje (Open Science + Publiek & Innovatie);&#x20;
   * OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...) + metadata verrijken dmv andere repositories af te schuimen
   * Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.
@@ -29,7 +30,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 **Doelen**
 
 * Agent-proof maken: ontwikkelingseffort delen\
-  (Bots + andere mensen binnen de bibliotheek zoals Pat en Kevin kunnen bijdragen)
+  (Bots + andere mensen binnen de bibliotheek kunnen bijdragen e.g. Kevin)
 * Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.<br>
 * Betere metadata
 * Administratieve vereenvoudiging door hergebruik (copycat)
@@ -117,20 +118,14 @@ Tijdelijke en permanente oplossingen voor tentoonstellingen in Primo / Alma.
 
 In samenwerking met Sarah, Femke, Paul, Klara, ...<br>
 
-TBD:
+Doel: zo weinig mogelijk in libcms / custom, zo veel mogelijk gebruik maken van Primo. Specto: later TBD. Uitdaging: grens customisability en integraties (Saas VS in-house)
 
-* Welke compromissen sluiten we?
-* Enkel specto of tentoonstellingen in Primo? -> enkel Emily design werk
-  * Enkel gebruiken wat er in Primo zit -> stap 1, meest eenvoudige, dan is er tenminste iets.
-* Custom pagina's  [https://lib-ugent-static-code.vercel.app/lib/collections/detail.html](https://lib-ugent-static-code.vercel.app/lib/collections/detail.html) -> ook werk met cms DICT – niet vanzelfsprekend
-* Voorbeelden?
-* Configuratie: [https://knowledge.exlibrisgroup.com/Alma/Product\_Documentation/010Alma\_Online\_Help\_(English)/040Resource\_Management/050Inventory/050Managing\_Collections](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_\(English\)/040Resource_Management/050Inventory/050Managing_Collections)
-
-\
-Uitdaging: grens customisability en integraties (Saas VS in-house)\
-\
-Emily? Specto? Lib.ugent.be?\
-Van De Velde 2027
+* Custom pagina's enkel gebruiken voor high-level doorsnede, geen doorstroom van data [https://lib-ugent-static-code.vercel.app/lib/collections/detail.html](https://lib-ugent-static-code.vercel.app/lib/collections/detail.html)
+* Alma
+  * Configuratie Alma + Primo: samen met Paul\
+    [https://knowledge.exlibrisgroup.com/Alma/Product\_Documentation/010Alma\_Online\_Help\_(English)/040Resource\_Management/050Inventory/050Managing\_Collections](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_\(English\)/040Resource_Management/050Inventory/050Managing_Collections)
+  * Styling Primo: basic, enkel opmaak – Miet
+* Later: Van De Velde 2027
 
 </details>
 
