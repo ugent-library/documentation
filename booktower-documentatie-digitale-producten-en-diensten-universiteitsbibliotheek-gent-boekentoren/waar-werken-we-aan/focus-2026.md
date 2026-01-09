@@ -16,7 +16,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary></summary>
+<summary>Biblio uitbreiding 🦁🦁🦁</summary>
 
 * Front-end herwerken
   * Externen betrekken; tentakels naar buiten (Nele Bracke?)\
