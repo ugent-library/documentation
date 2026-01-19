@@ -256,7 +256,7 @@ Na Q1 2026 – maintenance mode, lager tempo
 
 <details>
 
-<summary> <code>🏋️ aan het werk</code> Archiefstraat erfgoedcollectie 🦁🦁🦁<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary> <code>🏋️ aan het werk</code> Archiefstraat erfgoedcollectie 🦁🦁🦁</summary>
 
 Er is geen manier om digitale bronnen (vb. scanaanvragen, digitale giften via hardware ondersteunen en thesissen) worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.\
 \
@@ -274,7 +274,7 @@ De wereld stopt niet met draaien. We zitten in een context waar onze verantwoord
 
 <details>
 
-<summary>Sunset / decomission van onnodige servers EOY 2026<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
+<summary><strong>Sunset / decomission van onnodige servers EOY 2026</strong></summary>
 
 Servers die na de Alma-D-Primo overstap & archiveringsflow niet meer nodig zijn verwijderen.
 
@@ -286,7 +286,7 @@ Plan opstellen door beheerders.
 
 <details>
 
-<summary>Onderhoud en ondersteuning voor software oplossingen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
+<summary><strong>Onderhoud en ondersteuning voor software oplossingen</strong><br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>   <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dienstgericht</code></mark>  </summary>
 
 *   **Nodig onderhoud van onderliggende technische systemen.** We zorgen ervoordat onze onderliggende systemen veilig en robuust blijven.
 
@@ -306,7 +306,7 @@ Plan opstellen door beheerders.
 
 <details>
 
-<summary>Communicatie over en documentatie van noden, oplossingen en processen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
+<summary><strong>Communicatie over en documentatie van noden, oplossingen en processen</strong><br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark>  <mark style="color:orange;"><code>transparant</code></mark></summary>
 
 **We communiceren met regelmaat** zodat onze collega's begrijpen waar we mee bezig zijn, vooral waarom we hier mee bezig zijn. Dit kan bijvoorbeeld aan de hand van release notes en _deze_ documentatie.
 
@@ -320,7 +320,7 @@ Deze documentatie zorgt er ook voor dat er **standaarden** ontstaan waarmee we o
 
 <details>
 
-<summary>Gedeelde UI componenten voor interne en publieke applicaties binnen de universiteitsbibliotheek, zodat er een herkenbare identiteit zit in onze applicaties<br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
+<summary><strong>Gedeelde UI componenten voor interne en publieke applicaties binnen de universiteitsbibliotheek, zodat er een herkenbare identiteit zit in onze applicaties</strong><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>duurzaam</code></mark></summary>
 
 Op dit moment gebruiken Deliver en Biblio dezelfde UI componenten om applicaties mee te bouwen. Dit resulteert in voorspelbare, herkenbare interfaces. Idealiter gebruiken andere applicaties deze componenten ook. Deze zijn echter nog niet afgestemd op publieksinterfaces. We starten hier  met een oefening:
 
@@ -333,7 +333,7 @@ Meer informatie: [https://ugentbe.sharepoint.com/:w:/r/teams/Group.PR202303913/G
 
 <details>
 
-<summary>Geïnformeerd over onze sector<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
+<summary><strong>Geïnformeerd over onze sector</strong><br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>verantwoordelijk</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark>  <mark style="color:yellow;"><code>geïnformeerd</code></mark></summary>
 
 Onze diensten en producten worden niet in een silo gebouwd.
 
@@ -351,7 +351,9 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  Primo configuratie [niet voor ons]<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark> </summary>
+<summary><code>🎬 te verfijnen</code>  <strong>Primo configuratie [niet voor ons]</strong></summary>
+
+Limitatie customization libcatalog.
 
 * Evalueren hoe breekbaar oplossingen zijn – afwachten Q3 2026
   * Angular components werken nog niet goed; verduurzamen van designwerk is nog niet aan de orde
@@ -362,7 +364,8 @@ Onze diensten en producten worden niet in een silo gebouwd.
 
 </details>
 
-* Limitatie customization libcatalog
+
+
 * Nood: Beleidskader, policy voor merging en frbrisation – wat verwachten we dat er in onze discovery tool zit? + archivering
   * Uitgeschreven, beslissingsboom
   * Pat, Fran, ...
