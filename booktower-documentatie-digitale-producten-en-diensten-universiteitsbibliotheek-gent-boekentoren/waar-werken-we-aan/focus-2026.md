@@ -154,7 +154,7 @@ Nood aan policy van OS team ikv
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> Digitale exhibities </summary>
+<summary><code>🎬 aan te beginnen</code> <strong>Digitale exhibities</strong> </summary>
 
 Tijdelijke en permanente oplossingen voor tentoonstellingen in Primo / Alma.
 
@@ -169,11 +169,13 @@ Doel: zo weinig mogelijk in libcms / custom, zo veel mogelijk gebruik maken van 
   * Styling Primo: basic, enkel opmaak – Miet
 * Later: Van De Velde 2027
 
+Input nodig: collega's digitaal erfgoed en communicatie
+
 </details>
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> CraftCMS Major upgrade Maart 2026</summary>
+<summary><code>🎬 aan te beginnen</code> <strong>CraftCMS Major upgrade Maart 2026</strong></summary>
 
 Alternatief: hosten in de cloud tot we dict cms gebruiken [https://craftcms.com/cloud#pricing](https://craftcms.com/cloud#pricing)
 
@@ -181,7 +183,7 @@ Alternatief: hosten in de cloud tot we dict cms gebruiken [https://craftcms.com/
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> Vercel Bauke</summary>
+<summary><code>🎬 aan te beginnen</code> <strong>Vercel Bauke</strong></summary>
 
 Overdragen aan Koen?
 
