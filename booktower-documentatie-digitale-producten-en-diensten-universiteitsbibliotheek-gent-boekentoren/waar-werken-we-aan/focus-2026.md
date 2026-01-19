@@ -364,24 +364,48 @@ Limitatie customization libcatalog.
 
 </details>
 
+<details>
 
+<summary><code>🤲 nood</code>  <strong>Beleidskader, policy voor merging en frbrisation</strong></summary>
 
-* Nood: Beleidskader, policy voor merging en frbrisation – wat verwachten we dat er in onze discovery tool zit? + archivering
-  * Uitgeschreven, beslissingsboom
-  * Pat, Fran, ...
-  * Timing TBD met Pat&#x20;
-* Budget
-  * AI copilot&#x20;
+Nood: Beleidskader, policy voor merging en frbrisation.
 
-### DICT & Infrastructuur
+Wat verwachten we dat er in onze discovery tool zit? + archivering
 
-* Metrics (prometheus als aanvulling op log collector)
-  * Case: 1 applicatie in productie die metrics naar prometheus
-  * Ism DICT&#x20;
-  * **Q2 depot**&#x20;
-* Samenwerking DICT lange termijn, betere afspraken
-  * **Q1**
-  * -> Rosemie, Johan VC
+* Uitgeschreven, beslissingsboom
+* Pat, Fran, ...
+* Timing TBD met Pat&#x20;
+
+</details>
+
+<details>
+
+<summary><code>🤲 nood</code>  <strong>Budget</strong></summary>
+
+* AI Copilot
+
+</details>
+
+#### DICT & Infrastructuur
+
+<details>
+
+<summary><code>🤲 nood</code>  Metrics (prometheus als aanvulling op log collector)</summary>
+
+* Case: 1 applicatie in productie die metrics naar prometheus
+* Ism DICT&#x20;
+* **Q2 depot**&#x20;
+
+</details>
+
+<details>
+
+<summary><code>🤲 nood</code>  Samenwerking DICT lange termijn, betere afspraken</summary>
+
+* **Q1**
+* -> Rosemie, Johan VC
+
+</details>
 
 ***
 
