@@ -271,6 +271,20 @@ Te escaleren: thesissen termijn
 
 </details>
 
+<details>
+
+<summary> <code>🎬 te verfijnen</code> Google Books?</summary>
+
+Er is geen manier om digitale bronnen (vb. scanaanvragen, digitale giften via hardware ondersteunen en thesissen) worden via hardware aan de Boekentoren veilig te openen en te bekijken. Hier wordt een apart afgesloten computerstation voor gebouwd.\
+\
+[https://booktower.gitbook.io/pre-ingest/](https://booktower.gitbook.io/pre-ingest/)
+
+Tijdlijn: [https://ugentbe.sharepoint.com/:w:/r/sites/CA20\_BKT\_Team\_Collecties/Digitale%20collecties/9.%20workflow/Timeline%20upload%20nieuwe%20digitale%20content%20%E2%80%93%20Alma%20Digital%20en%20RO.docx?d=w2c9334da00434ee29fb7fb6c102021d1\&csf=1\&web=1\&e=8PddRw](https://ugentbe.sharepoint.com/:w:/r/sites/CA20_BKT_Team_Collecties/Digitale%20collecties/9.%20workflow/Timeline%20upload%20nieuwe%20digitale%20content%20%E2%80%93%20Alma%20Digital%20en%20RO.docx?d=w2c9334da00434ee29fb7fb6c102021d1\&csf=1\&web=1\&e=8PddRw)
+
+Te escaleren: thesissen termijn
+
+</details>
+
 ## Doorlopende verantwoordelijkheden
 
 De wereld stopt niet met draaien. We zitten in een context waar onze verantwoordelijkheid van die aard is dat we diensten en producten niet zomaar "on hold" kunnen zetten.
