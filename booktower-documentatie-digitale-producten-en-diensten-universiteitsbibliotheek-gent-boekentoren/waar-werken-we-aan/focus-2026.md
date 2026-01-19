@@ -4,6 +4,10 @@ description: Niet in die volgorde, onderhevig aan verandering.
 
 # Focus 2026
 
+{% hint style="info" %}
+Nog te kaderen in visie Centrale Bibliotheek. Nog in te schaven. Feedback welkom.
+{% endhint %}
+
 > Het grootste deel van de effort in 2026 gaat verdeeld zijn over:
 >
 > * Erfgoedwerking (Archief)
@@ -16,16 +20,14 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary>Biblio uitbreiding 🦁🦁🦁</summary>
+<summary><code>🎬 te verfijnen</code>  <strong>Biblio uitbreiding 🦁🦁🦁</strong></summary>
 
 * Front-end herwerken
-  * Externen betrekken; tentakels naar buiten (Nele Bracke?)\
+  * Externen betrekken; tentakels naar buiten (e.g. Nele Bracke)\
     samen met intern werkgroepje (Open Science + Publiek & Innovatie);&#x20;
   * OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...) + metadata verrijken dmv andere repositories af te schuimen
   * Momenteel houden verschillende producten binnen de UGent data bij over projecten om hun diensten vlot aan te bieden. We integereren met de systemen van GISMO om data van hen te consumeren, zodat we de informatie effectiever en efficienter kunnen delen en beheren. Wij wisselen op onze beurt ook nodige informatie uit aan GISMO.
-
-
 
 **Doelen**
 
@@ -36,11 +38,18 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 * Administratieve vereenvoudiging door hergebruik (copycat)
 * Onderzoeksoutput wordt niet zomaar offline gehaald en we laten toe om output te verbeteren (change requests)
 
+
+
+**Case 1: Person search**
+
+POC om feedback te vergaren en toekomstmogelijkheden te schetsen.\
+Input nodig: testtraject met intern klankbord en Klanten Advies Bureau.
+
 </details>
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  Duurzame archivering Biblio 🚨<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary><code>🎬 te verfijnen</code>  <strong>Duurzame archivering Biblio 🚨</strong></summary>
 
 Archiefstraat voor Biblio PDF bestanden. Niet via DICT, share, Roda, ...&#x20;
 
@@ -52,7 +61,7 @@ ISM Archivering Matthias
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> Ontwerp en testen:<br>Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🎬 te verfijnen</code> <strong>Ontwerp en testen:</strong><br><strong>Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking</strong></summary>
 
 We zorgen dat onderzoekers zo weinig mogelijk van 0 moeten starten.
 
@@ -68,12 +77,12 @@ We maken boodschappen in Biblio duidelijker leesbaar.\
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> Biblio strategie en ontwikkelteam verduurzamen<br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:orange;"><code>transparant</code></mark>   <mark style="color:orange;"><code>duidelijk</code></mark><br><mark style="color:red;"><code>administratief eenvoudig</code></mark>   <mark style="color:red;"><code>niet starten van 0</code></mark>   <mark style="color:red;"><code>only once</code></mark></summary>
+<summary><code>🎬 te verfijnen</code> <strong>Biblio strategie en ontwikkelteam verduurzamen</strong></summary>
 
 Product terug in kaart brengen -> features en technologieen in kaart brengen
 
 * Rol Bibliotheek Visie nota
-* Duidelijk maken: wat is GISMO en wat is Biblio
+* Duidelijk maken aan collega's en partners: wat is Biblio. E.g. GISMO, PLATO, ...
 
 Team visie uitwerken; lange termijn strategie – Profielen en resources in kaart brengen
 
@@ -87,38 +96,46 @@ Team visie uitwerken; lange termijn strategie – Profielen en resources in kaar
     * Front office
     * Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, meerdere bronnen, ...)
 
+Input MT nodig.
+
 </details>
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> FRIS &#x26; FWO Update</summary>
+<summary><code>🎬 te verfijnen</code> <strong>FRIS &#x26; FWO Update</strong></summary>
 
 Myriam:\
 Vanaf 2027 is er een uitbreiding van de published output die via FRIS aan FWO moet gerapporteerd worden (bv. ook preprints, book reviews, reports, datasets). Daarvoor zal in 2026 werk zijn aan de GISMO kant (daarvoor is ook een project ingediend en goedgekeurd in de ICT demand oefening voor 2026), maar mogelijks ook bij Biblio (bv. mogelijke impact op de oefening rond de miscellaneous resource types). Wat er al dan niet precies in Biblio moet gebeuren, is nog verder te bespreken en bepalen. Het zou nog kunnen meevallen, maar wellicht best iets om rekening mee te houden. De details over wat er vanaf 2027 gevraagd wordt qua FWO-rapportering via FRIS kent Stefanie best. &#x20;
 
+Input OS team nodig.
+
 </details>
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> FairVault integratie: proof of concept test traject</summary>
+<summary><code>🎬 te verfijnen</code> <strong>FairVault integratie: proof of concept test traject</strong></summary>
 
 Lijm Biblio-FAIRvault proof of concept
 
 Myriam: Ivm FAIRVault: als er eventueel iets van integratie met Biblio is dat we toch al mee zouden willen testen in de FAIRVault pilot (al is het maar bij wijze van proof of concept), dan zal dat ook eerder voor Q1-Q2 2026 zijn. Geen idee of dat wenselijk/haalbaar is, maar ik geef het mee omdat Rosemie er morgen mogelijks naar zal vragen (want ook vroeger al heeft ze gevraagd of integratie met Biblio mee in scope zit van de FAIRVault pilot).
 
+Input OS team nodig.
+
 </details>
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> Thesissen</summary>
+<summary><code>🎬 te verfijnen</code> <strong>Thesissen</strong></summary>
 
 De "hete aardappel" moet een plek krijgen. Voorlopig: 2x per jaar thesissen manueel online zetten, daarna meer gestructureerde oplossing nodig als deel van Biblio.
 
+Input nodig van verschillende collega's
+
 </details>
 
 <details>
 
-<summary>    <code>🤲 nood: Open Science Team</code> (resource) teyps, rollen, verplichte velden</summary>
+<summary>    <code>🤲 nood: Open Science Team</code> <strong>(resource) types, rollen, verplichte velden</strong></summary>
 
 Nood aan policy van OS team ikv
 
