@@ -125,9 +125,12 @@ Input OS team nodig.
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> <strong>Thesissen</strong></summary>
+<summary><code>🎬 te verfijnen</code> <strong>Thesissen &#x26; UGent Memorialis</strong></summary>
 
-De "hete aardappel" moet een plek krijgen. Voorlopig: 2x per jaar thesissen manueel online zetten, daarna meer gestructureerde oplossing nodig als deel van Biblio.
+De "hete patatten" moeten een plek krijgen.
+
+* Voorlopig: 2x per jaar thesissen manueel online zetten, daarna meer gestructureerde oplossing nodig als deel van Biblio.
+* UGent memorialis gaat afgesloten worden
 
 Input nodig van verschillende collega's
 
