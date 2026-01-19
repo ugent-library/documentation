@@ -193,7 +193,7 @@ Overdragen aan Koen?
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  Online betalingen<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary><code>🎬 te verfijnen</code>  Online betalingen</summary>
 
 Bridge 1:\
 Payment requests opvangen uit Alma en doorsturen naar Serrala
@@ -207,7 +207,7 @@ Q4 2025 – Q1 2026
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  SAP Bridge<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary><code>🎬 te verfijnen</code>  SAP Bridge</summary>
 
 * _**Tijdelijke**_ oplossing in gebruik
   * Q4 2025
@@ -219,7 +219,7 @@ Q4 2025 – Q1 2026
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  Itemise<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary><code>🎬 te verfijnen</code>  Itemise</summary>
 
 Q4 2025 - Q1 2026
 
@@ -232,7 +232,7 @@ Q4 2025 - Q1 2026
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  Depot<br><mark style="color:yellow;"><code>duurzaam</code></mark>  <mark style="color:yellow;"><code>veilig</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark> <mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark></summary>
+<summary><code>🎬 te verfijnen</code>  Depot</summary>
 
 Na Q1 2026 – maintenance mode, lager tempo
 
@@ -240,7 +240,7 @@ Na Q1 2026 – maintenance mode, lager tempo
 
 <details>
 
-<summary><code>🛠️ Te beginnen</code> Heropbouw open data catalogus <br><mark style="color:purple;"><code>dienstgericht</code></mark>   <mark style="color:purple;"><code>noodgedreven</code></mark>  <mark style="color:purple;"><code>dialoog</code></mark><br><mark style="color:yellow;"><code>duurzaam</code></mark>   <mark style="color:yellow;"><code>gedeeld</code></mark>  <mark style="color:yellow;"><code>standaarden</code></mark></summary>
+<summary><code>🛠️ Te beginnen</code> Heropbouw open data catalogus</summary>
 
 * API Gateway
   * Catalogus -> dump -> Alma -> S3 object
