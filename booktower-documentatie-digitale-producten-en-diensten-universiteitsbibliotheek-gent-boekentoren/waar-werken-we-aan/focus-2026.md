@@ -163,15 +163,16 @@ Nood aan policy van OS team ikv
 
 Tijdelijke en permanente oplossingen voor tentoonstellingen in Primo / Alma.
 
-In samenwerking met Sarah, Femke, Paul, Klara, ...<br>
+In samenwerking met publieksteam en digitale collecties
 
 Doel: zo weinig mogelijk in libcms / custom, zo veel mogelijk gebruik maken van Primo. Specto: later TBD. Uitdaging: grens customisability en integraties (Saas VS in-house)
 
 * Custom pagina's enkel gebruiken voor high-level doorsnede, geen doorstroom van data [https://lib-ugent-static-code.vercel.app/lib/collections/detail.html](https://lib-ugent-static-code.vercel.app/lib/collections/detail.html)
 * Alma
-  * Configuratie Alma + Primo: samen met Paul\
+  * Configuratie Alma + Primo – ontwikkelteam\
     [https://knowledge.exlibrisgroup.com/Alma/Product\_Documentation/010Alma\_Online\_Help\_(English)/040Resource\_Management/050Inventory/050Managing\_Collections](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_\(English\)/040Resource_Management/050Inventory/050Managing_Collections)
-  * Styling Primo: basic, enkel opmaak – Miet
+  * Styling Primo: basic, enkel opmaak – ontwikkelteam
+  * Content en hierarchie – communicatie
 * Later: Van De Velde 2027
 
 Input nodig: collega's digitaal erfgoed en communicatie
@@ -188,9 +189,9 @@ Alternatief: hosten in de cloud tot we dict cms gebruiken [https://craftcms.com/
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> <strong>Vercel Bauke</strong></summary>
+<summary><code>🎬 aan te beginnen</code> <strong>Vercel overdracht</strong></summary>
 
-Overdragen aan Koen?
+Interne overname, niet meer door freelance.
 
 </details>
 
@@ -250,7 +251,7 @@ Na Q1 2026 – maintenance mode, lager tempo
 * API Gateway
   * Catalogus -> dump -> Alma -> S3 object
   * Openingsuren etc
-* Visie TBD met Pat
+* Visie TBD met ontwikkelteam
   * Hoe ver gaan we?
   * SRU, OAI, Biblio, ...&#x20;
 * Later: Documentatie gateway&#x20;
@@ -270,14 +271,6 @@ Er is geen manier om digitale bronnen (vb. scanaanvragen, digitale giften via ha
 Tijdlijn: [https://ugentbe.sharepoint.com/:w:/r/sites/CA20\_BKT\_Team\_Collecties/Digitale%20collecties/9.%20workflow/Timeline%20upload%20nieuwe%20digitale%20content%20%E2%80%93%20Alma%20Digital%20en%20RO.docx?d=w2c9334da00434ee29fb7fb6c102021d1\&csf=1\&web=1\&e=8PddRw](https://ugentbe.sharepoint.com/:w:/r/sites/CA20_BKT_Team_Collecties/Digitale%20collecties/9.%20workflow/Timeline%20upload%20nieuwe%20digitale%20content%20%E2%80%93%20Alma%20Digital%20en%20RO.docx?d=w2c9334da00434ee29fb7fb6c102021d1\&csf=1\&web=1\&e=8PddRw)
 
 Te escaleren: thesissen termijn
-
-</details>
-
-<details>
-
-<summary> <code>🎬 te verfijnen</code> Google Books?</summary>
-
-
 
 </details>
 
