@@ -369,11 +369,14 @@ Onze diensten en producten worden niet in een silo gebouwd.
 Limitatie customization libcatalog.
 
 * Evalueren hoe breekbaar oplossingen zijn – afwachten Q3 2026
-  * Angular components werken nog niet goed; verduurzamen van designwerk is nog niet aan de orde
-* Community traject: welke oplossingen kunnen opgenomen worden (Klara? Paul? Kristel? Ontwikkelteam: aanspreekpunt, ondersteuning, terugkoppeling)
-  * Igelu
-  * TBD guinea pig traject – zelfde als community?
-  * Oplossingen laten opnemen
+  * Angular components werken nog niet goed; verduurzamen van designwerk is nog niet aan de orde.
+  * Meeste oplossingen: nodig voor community.
+* Community traject: welke oplossingen kunnen opgenomen worden
+  * Verantwoordelijk: publieksteam?
+  * Aanspreekpunt, ondersteuning, terugkoppeling: Ontwikkelteam
+  * Hoe
+    * Igelu
+    * Knowledge base, ideas exchange
 
 </details>
 
@@ -386,8 +389,8 @@ Nood: Beleidskader, policy voor merging en frbrisation.
 Wat verwachten we dat er in onze discovery tool zit? + archivering
 
 * Uitgeschreven, beslissingsboom
-* Pat, Fran, ...
-* Timing TBD met Pat&#x20;
+* Ontwikkelteam & Collectie
+* Timing TBD Ontwikkelteam
 
 </details>
 
@@ -416,7 +419,7 @@ Wat verwachten we dat er in onze discovery tool zit? + archivering
 <summary><code>🤲 nood</code>  Samenwerking DICT lange termijn, betere afspraken</summary>
 
 * **Q1**
-* -> Rosemie, Johan VC
+* -> MT, DICT
 
 </details>
 
@@ -450,7 +453,7 @@ Design -> duurzaam = bestaand theme gebruiken?
 
 <summary> <code>🕰️ TBD</code> Deliver</summary>
 
-
+Later
 
 </details>
 
@@ -460,7 +463,7 @@ Design -> duurzaam = bestaand theme gebruiken?
 
 <summary> <code>🕰️ TBD</code> Google Books</summary>
 
-
+Later
 
 </details>
 
@@ -478,10 +481,12 @@ We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we w
 
 <details>
 
-<summary> <code>🕰️ TBD</code> CraftCMS vervangen door UGentCMS</summary>
+<summary> <code>🕰️ TBD</code> replace CraftCMS with UGentCMS</summary>
 
 * boekentoren.gent
 * tour.boekentoren.gent
+
+The service providers are not ready yet.
 
 </details>
 
@@ -493,9 +498,9 @@ We willen daar graag op aansluiten. In dit traject volgen we op en bekijken we w
   Vereenvoudigen van datastromen over verschillende applicaties heen
   * Case: Jaarverslag, onderzoeken, analyse – een case vinden
   * Samenwerkingen
-    * Anniek
-    * Veerle
-    * Iemand bij DICT
+    * Open Science – review – rectoraat
+    * MT
+    * DICT
   * **Q1 2026: case maken voor 2027; partially TBD**
 
 </details>
