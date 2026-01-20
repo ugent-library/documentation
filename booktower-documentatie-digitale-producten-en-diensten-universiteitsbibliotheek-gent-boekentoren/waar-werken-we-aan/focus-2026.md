@@ -23,7 +23,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 <summary><code>🎬 te verfijnen</code>  <strong>Biblio uitbreiding 🦁🦁🦁</strong></summary>
 
 * Front-end herwerken
-  * Externen betrekken; tentakels naar buiten (e.g. Nele Bracke)\
+  * Bredere universiteit betrekken; tentakels naar buiten (e.g. Rectoraat)\
     samen met intern werkgroepje (Open Science + Publiek & Innovatie);&#x20;
   * OAI, andere APIs en front-end worden één product om de ontwikkelingslast en inconsistenties te verlagen / consistentie verhogen
 * Informatie van externe bronnen te verzamelen (GISMO personen, organisaties, projecten, WOS, ...) + metadata verrijken dmv andere repositories af te schuimen
@@ -32,7 +32,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 **Doelen**
 
 * Agent-proof maken: ontwikkelingseffort delen\
-  (Bots + andere mensen binnen de bibliotheek kunnen bijdragen e.g. Kevin)
+  (Bots + andere mensen binnen de bibliotheek kunnen bijdragen e.g. Open Science team leden)
 * Onze huidige zoekoplossingen voldoen niet aan de noden van ons publiek. Er moet te veel tijd gestoken worden in het tweaken van deze zoekoplossingen om aan basisnoden te voldoen. We exploreren mogelijkheden die ons meer standaard opleveren, en minder customisatie nodig hebben.<br>
 * Betere metadata
 * Administratieve vereenvoudiging door hergebruik (copycat)
@@ -69,9 +69,7 @@ We richten ons op het tijdig vinden van duplicate informatie.
 
 We zorgen ervoor dat Biblio status flows duidelijker worden.
 
-We maken boodschappen in Biblio duidelijker leesbaar.\
-\
-[https://github.com/ugent-library/biblio-backoffice/milestone/10](https://github.com/ugent-library/biblio-backoffice/milestone/10)
+We maken boodschappen in Biblio duidelijker leesbaar.
 
 </details>
 
@@ -87,12 +85,9 @@ Product terug in kaart brengen -> features en technologieen in kaart brengen
 Team visie uitwerken; lange termijn strategie – Profielen en resources in kaart brengen
 
 * Wie, wat nodig
-* Intern
-  * Inge – change management en liaison
-  * Kevin (?)
-  * Pat
+* Intern (e.g. OS team)
 * Extern
-  * Emily
+  * Freelancer
     * Front office
     * Nieuwe features back office (Request flows, interactie gericht, persmissies, zoekinterface met entiteiten, interactief zoeken, meerdere bronnen, ...)
 
@@ -104,8 +99,13 @@ Input MT nodig.
 
 <summary><code>🎬 te verfijnen</code> <strong>FRIS &#x26; FWO Update</strong></summary>
 
-Myriam:\
-Vanaf 2027 is er een uitbreiding van de published output die via FRIS aan FWO moet gerapporteerd worden (bv. ook preprints, book reviews, reports, datasets). Daarvoor zal in 2026 werk zijn aan de GISMO kant (daarvoor is ook een project ingediend en goedgekeurd in de ICT demand oefening voor 2026), maar mogelijks ook bij Biblio (bv. mogelijke impact op de oefening rond de miscellaneous resource types). Wat er al dan niet precies in Biblio moet gebeuren, is nog verder te bespreken en bepalen. Het zou nog kunnen meevallen, maar wellicht best iets om rekening mee te houden. De details over wat er vanaf 2027 gevraagd wordt qua FWO-rapportering via FRIS kent Stefanie best. &#x20;
+
+
+OS team:
+
+Vanaf 2027 is er een uitbreiding van de published output die via FRIS aan FWO moet gerapporteerd worden (bv. ook preprints, book reviews, reports, datasets). Daarvoor zal in 2026 werk zijn aan de GISMO kant (daarvoor is ook een project ingediend en goedgekeurd in de ICT demand oefening voor 2026), maar mogelijks ook bij Biblio (bv. mogelijke impact op de oefening rond de miscellaneous resource types).
+
+De details over wat er vanaf 2027 gevraagd wordt qua FWO-rapportering via FRIS kent OS team best. &#x20;
 
 Input OS team nodig.
 
@@ -117,7 +117,9 @@ Input OS team nodig.
 
 Lijm Biblio-FAIRvault proof of concept
 
-Myriam: Ivm FAIRVault: als er eventueel iets van integratie met Biblio is dat we toch al mee zouden willen testen in de FAIRVault pilot (al is het maar bij wijze van proof of concept), dan zal dat ook eerder voor Q1-Q2 2026 zijn. Geen idee of dat wenselijk/haalbaar is, maar ik geef het mee omdat Rosemie er morgen mogelijks naar zal vragen (want ook vroeger al heeft ze gevraagd of integratie met Biblio mee in scope zit van de FAIRVault pilot).
+OS team:
+
+Ivm FAIRVault: als er eventueel iets van integratie met Biblio is dat we toch al mee zouden willen testen in de FAIRVault pilot (al is het maar bij wijze van proof of concept), dan zal dat ook eerder voor Q1-Q2 2026 zijn.
 
 Input OS team nodig.
 
@@ -127,7 +129,7 @@ Input OS team nodig.
 
 <summary><code>🎬 te verfijnen</code> <strong>Thesissen &#x26; UGent Memorialis</strong></summary>
 
-De "hete patatten" moeten een plek krijgen.
+Thesissen moeten een plek krijgen.
 
 * Voorlopig: 2x per jaar thesissen manueel online zetten, daarna meer gestructureerde oplossing nodig als deel van Biblio.
 * UGent memorialis gaat afgesloten worden
