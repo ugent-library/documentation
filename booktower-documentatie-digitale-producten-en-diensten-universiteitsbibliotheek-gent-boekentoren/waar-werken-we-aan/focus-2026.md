@@ -20,7 +20,7 @@ Meer informatie: [biblio-academische-bibliografie-en-repository](../../producten
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  <strong>Biblio uitbreiding 🦁🦁🦁</strong></summary>
+<summary><code>Q2</code>  <strong>Biblio uitbreiding 🦁🦁🦁</strong></summary>
 
 * Front-end herwerken
   * Bredere universiteit betrekken; tentakels naar buiten (e.g. Rectoraat)\
@@ -49,7 +49,7 @@ Input nodig: testtraject met intern klankbord en Klanten Advies Bureau.
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  <strong>Duurzame archivering Biblio 🚨</strong></summary>
+<summary><code>Q2-Q3</code>  <strong>Duurzame archivering Biblio 🚨</strong></summary>
 
 Archiefstraat voor Biblio PDF bestanden. Niet via DICT, share, Roda, ...&#x20;
 
@@ -61,7 +61,7 @@ ISM Archivering Matthias
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> <strong>Ontwerp en testen:</strong><br><strong>Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking</strong></summary>
+<summary><code>Q4</code> <strong>Ontwerp en testen:</strong><br><strong>Processen optimalisatie administratieve vereenvoudiging en vlotte verwerking</strong></summary>
 
 We zorgen dat onderzoekers zo weinig mogelijk van 0 moeten starten.
 
@@ -75,7 +75,7 @@ We maken boodschappen in Biblio duidelijker leesbaar.
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> <strong>Biblio strategie en ontwikkelteam verduurzamen</strong></summary>
+<summary><code>Ongoing</code> <strong>Biblio strategie en ontwikkelteam verduurzamen</strong></summary>
 
 Product terug in kaart brengen -> features en technologieen in kaart brengen
 
@@ -97,7 +97,7 @@ Input MT nodig.
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> <strong>FRIS &#x26; FWO Update</strong></summary>
+<summary><code>Q4</code> <strong>FRIS &#x26; FWO Update</strong></summary>
 
 
 
@@ -113,7 +113,7 @@ Input OS team nodig.
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> <strong>FairVault integratie: proof of concept test traject</strong></summary>
+<summary> <code>Later (TBC)</code> <strong>FairVault integratie: proof of concept test traject</strong></summary>
 
 Lijm Biblio-FAIRvault proof of concept
 
@@ -127,7 +127,7 @@ Input OS team nodig.
 
 <details>
 
-<summary><code>🎬 te verfijnen</code> <strong>Thesissen &#x26; UGent Memorialis</strong></summary>
+<summary> <code>Later</code> <strong>Thesissen &#x26; UGent Memorialis</strong></summary>
 
 Thesissen moeten een plek krijgen.
 
@@ -159,7 +159,7 @@ Nood aan policy van OS team ikv
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> <strong>Digitale exhibities</strong> </summary>
+<summary><code>TBD Sarah</code> <strong>Digitale exhibities</strong> </summary>
 
 Tijdelijke en permanente oplossingen voor tentoonstellingen in Primo / Alma.
 
@@ -181,7 +181,7 @@ Input nodig: collega's digitaal erfgoed en communicatie
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> <strong>CraftCMS Major upgrade Maart 2026</strong></summary>
+<summary><code>Maart 2026 TBD</code> <strong>CraftCMS Major upgrade Maart 2026</strong></summary>
 
 Alternatief: hosten in de cloud tot we dict cms gebruiken [https://craftcms.com/cloud#pricing](https://craftcms.com/cloud#pricing)
 
@@ -189,7 +189,7 @@ Alternatief: hosten in de cloud tot we dict cms gebruiken [https://craftcms.com/
 
 <details>
 
-<summary><code>🎬 aan te beginnen</code> <strong>Vercel overdracht</strong></summary>
+<summary><code>TBD</code> <strong>Vercel overdracht</strong></summary>
 
 Interne overname, niet meer door freelance.
 
@@ -199,7 +199,7 @@ Interne overname, niet meer door freelance.
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  Online betalingen</summary>
+<summary><code>Vast</code>  Online betalingen</summary>
 
 Bridge 1:\
 Payment requests opvangen uit Alma en doorsturen naar Serrala
@@ -213,7 +213,7 @@ Q4 2025 – Q1 2026
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  SAP Bridge</summary>
+<summary><code>V1 – ok / V2 - later</code>  SAP Bridge</summary>
 
 * _**Tijdelijke**_ oplossing in gebruik
   * Q4 2025
@@ -225,7 +225,7 @@ Q4 2025 – Q1 2026
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  Itemise</summary>
+<summary><code>Ongoing</code>  Itemise</summary>
 
 Q4 2025 - Q1 2026
 
@@ -238,7 +238,7 @@ Q4 2025 - Q1 2026
 
 <details>
 
-<summary><code>🎬 te verfijnen</code>  Depot</summary>
+<summary><code>te ongoing / uitdovend</code>   Depot</summary>
 
 Na Q1 2026 – maintenance mode, lager tempo
 
@@ -246,7 +246,7 @@ Na Q1 2026 – maintenance mode, lager tempo
 
 <details>
 
-<summary><code>🛠️ Te beginnen</code> Heropbouw open data catalogus</summary>
+<summary><code>ongoing</code> Heropbouw open data catalogus</summary>
 
 * API Gateway
   * Catalogus -> dump -> Alma -> S3 object
