@@ -20,8 +20,7 @@ De batch operaties zijn opgebouwd uit 3 onderdelen:
 
 1. **Record nummer**\
    `01H25B3813V9YV613A27TVH9SV`\
-   `8701504`\
-
+   `8701504`<br>
 2. **Metadata veld + actie**\
    `add_keyword`\
    vb. vabb\_year, project, keyword, classification, reviewer\_tag\
@@ -31,8 +30,7 @@ De batch operaties zijn opgebouwd uit 3 onderdelen:
    vb. add (toevoegen voor project, keywords, reviewer\_tag, vabb\_year)\
    vb. remove (verwijderen keywords, reviewer\_tag)\
    \
-   **Tip:** Aan elkaar vast met een laag kastlijntje ( \_ ) tussen. Hier mogen geen spaties staan.\
-
+   **Tip:** Aan elkaar vast met een laag kastlijntje ( \_ ) tussen. Hier mogen geen spaties staan.<br>
 3. **Waarde voor veld**\
    vb.  `A2` of  `2023`\
    vb.  `dna,"double helix"` (enkel meerdere waarden mogelijk voor keywords)
@@ -67,6 +65,8 @@ Je plakt het commando eenvoudig aan elkaar met komma's:
 * 8701504,set\_status,private
 * 8701504,set\_status,public
 * 8701504,set\_status,returned
+* 8701504,set\_publisher,publisher
+* 8701504,remove\_publisher,publisher
 
 
 
@@ -137,6 +137,18 @@ Verwijderen: 8701504,`remove_issn`,"0268-1161"
 Toevoegen: 8701504,`add_eissn`,"0268-1161"\
 Verwijderen: 8701504,`remove_eissn`,"0268-1161"
 
+#### Publisher toevoegen of verwijderen
+
+Toevoegen: 8701504,`set_publisher`,publisher
+
+Verwijderen: 8701504,`remove_publisher`,publisher
+
+#### WOS type en ID toevoegen&#x20;
+
+8701504,`set_wos_id` ,"ID"
+
+8701504, `set_wos_type`,"type"
+
 ### Status van een record aanpassen
 
 _Use it wisely ;-)_
@@ -165,23 +177,19 @@ Gebruik deze excel sheet om je operaties mee op te bouwen:
 {% file src="../../../.gitbook/assets/batch-operaties-publicaties-voorbeeld.xlsx" %}
 
 1.  **Voeg al je record nummers, metadata velden + acties en waarden toe aan de excel sheet.**\
-    Maximum 500 regels.\
-
+    Maximum 500 regels.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 16.37.07.png" alt=""><figcaption></figcaption></figure>
 2.  **Kopieer de velden.**\
-    Zonder de hoofdingen.\
-
+    Zonder de hoofdingen.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 16.37.43.png" alt=""><figcaption></figcaption></figure>
-3.  **Plak in het "Operations" veld.**\
-
+3.  **Plak in het "Operations" veld.**<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 16.39.01.png" alt=""><figcaption></figcaption></figure>
 4.  Klik op Process\
     \
-    Je ziet wat er slaagt, en wat er mislukt.\
-
+    Je ziet wat er slaagt, en wat er mislukt.<br>
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2024-06-14 at 16.39.38.png" alt=""><figcaption></figcaption></figure>
 5.  Bekijk je resultaat in het record\
