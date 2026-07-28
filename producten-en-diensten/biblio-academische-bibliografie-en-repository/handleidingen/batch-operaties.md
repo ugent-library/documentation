@@ -141,7 +141,7 @@ Verwijderen: 8701504,`remove_eissn`,"0268-1161"
 
 Toevoegen: 8701504,`set_publisher`,publisher
 
-Verwijderen: 8701504,`remove_publisher`,publisher
+Verwijderen: 8701504,`remove_publisher`
 
 #### WOS type en ID toevoegen&#x20;
 
